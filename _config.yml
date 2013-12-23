@@ -1,3 +1,6 @@
-name: Your New Jekyll Site
-markdown: redcarpet
-pygments: true
+markdown:     rdiscount
+permalink:    /:year/:month/:day/:title/
+pygments:     true
+paginate:     5
+
+images:       /images
