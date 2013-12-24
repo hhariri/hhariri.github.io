@@ -372,14 +372,8 @@ hr.style-eight:after {
     float: left;
 }
 
-title {
-    margin: 0 0 10px;
-    font-weight: 500;
-    line-height: 1.25;
-    text-rendering: optimizeLegibility;
-    font-weight: bold;
-    font-size: 36px;
-    color: #ff4334;
+.title {
+    color: #5c5e5f;
 }
 
 .about {
