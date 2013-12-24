@@ -33,21 +33,21 @@ In Kotlin, variables can be declared in one of two ways, using the <em>var</em> 
 	<li><em>var</em> declares a variable that is mutable, that is, the value can change after it has been assigned</li>
 </ul>
 </ul>
-<img src="http://hhariri.files.wordpress.com/2012/03/201203101930.jpg" alt="201203101930.jpg" width="241" height="71" />
+<img src="{{ site.images }}/kj2-1.jpg" alt="201203101930.jpg" width="241" height="71" />
 <ul>
 <ul>
 	<li><em>val</em> declares a variable that is immutable, that is, once assigned the value cannot change</li>
 </ul>
 </ul>
-<img src="http://hhariri.files.wordpress.com/2012/03/201203101929.jpg" alt="201203101929.jpg" width="207" height="82" />
+<img src="{{ site.images }}/kj2-2.jpg" alt="201203101929.jpg" width="207" height="82" />
 
 Notice that we have not declared the type. Much like the <em>var</em> keyword in C#, since the variable has been initialized, the compiler can infer the type. However, if we do not initialize the variable, we need to explicitly define the type:
 
-<img src="http://hhariri.files.wordpress.com/2012/03/201203101935.jpg" alt="201203101935.jpg" width="166" height="50" />
+<img src="{{ site.images }}/kj2-3.jpg" alt="201203101935.jpg" width="166" height="50" />
 
 What happens however when we declare an immutable type that has not been initialized?
 
-<img src="http://hhariri.files.wordpress.com/2012/03/201203101936.jpg" alt="201203101936.jpg" width="288" height="131" />
+<img src="{{ site.images }}/kj2-4.jpg" alt="201203101936.jpg" width="288" height="131" />
 
 As expected, the compiler will allow us to set the value, but not change it. So all is good.
 
@@ -55,18 +55,18 @@ Knowing now the difference between <em>val</em> and <em>var</em>, let's move on 
 <h3>Classes</h3>
 Classes are the main building blocks for many object-orientated programming languages, and as such, of Kotlin also. An empty class declaration looks pretty much like that in C# and Java
 
-<img src="http://hhariri.files.wordpress.com/2012/03/201203101845.jpg" alt="201203101845.jpg" width="217" height="85" />
+<img src="{{ site.images }}/kj2-5.jpg" alt="201203101845.jpg" width="217" height="85" />
 
 (If you're using IntelliJ, you will see items highlighted in the gutter with an icon and letter. In this case C represents Class)
 
 Classes can be <em>public</em>, <em>private</em>, <em>protected</em> or <em>internal</em>. <strong>By default they are <em>internal</em> to modules</strong> (we'll cover what modules and accessibility levels are later). This has the initial apparent disadvantage that you would not be able to test your code from outside a module. The team is currently working on a solution for this which would involve building modules in a specific way that would allow test projects to call internal classes. The approach however will not be the same as in C# where the attribute <em>internalsVisibleTo</em> is required.
 To use a class, we merely create an instance of it. <em>new</em> keyword does not exist in Kotlin. A constructor call is similar to a function call.
 
-<img src="http://hhariri.files.wordpress.com/2012/03/201203101957.jpg" alt="201203101957.jpg" width="223" height="41" />
+<img src="{{ site.image }}/kj2-6.jpg" alt="201203101957.jpg" width="223" height="41" />
 
 Note that this customer has a default constructor that takes no parameters, which in Kotlin is a known as the <em>primary</em> constructor. We can override this primary constructor by defining a constructor as part of the class definition
 
-<img src="http://hhariri.files.wordpress.com/2012/03/201203102138.jpg" alt="201203102138.jpg" width="434" height="196" />
+<img src="{{ site.images }}/kj2-7.jpg" alt="201203102138.jpg" width="434" height="196" />
 
 with the actual implementation contained inside the anonymous initializer. This anonymous initializer is actually only necessary when we need certain logic. If we are merely using the constructor to initialize properties, we do not need it.
 
@@ -74,7 +74,7 @@ Now that we know how to create a class and define constructors, let's add some c
 <h4>Properties</h4>
 Usually classes in C# and Java are composed of fields, properties, methods and nested classes. In Kotlin, classes can contain properties, methods, nested classes and object declarations. We'll cover this last one further along in the series. However, the key thing here to notice is that <strong>Kotlin does not allow fields</strong>. As such, everything is a property. It can be internal (default), private, protected or public.
 
-<img src="http://hhariri.files.wordpress.com/2012/03/201203102223.jpg" alt="201203102223.jpg" width="311" height="152" />
+<img src="{{ site.images }}/kj2-8.jpg" alt="201203102223.jpg" width="311" height="152" />
 
 Here we have one internal property and two public ones. Notice how the internal one does not have an explicit type declaration. It is not needed. However, if we were to remove the type declaration for one of the public properties, we'd get a compiler error
 
@@ -86,22 +86,22 @@ If you're a C# developer you're no doubt familiar with the autoproperties, where
 <h4>Custom Getters and Setters</h4>
 What happens when we want to provide custom behavior when reading or writing to properties? In these cases we can define getters and setters
 
-<img src="http://hhariri.files.wordpress.com/2012/03/201203102253.jpg" alt="201203102253.jpg" width="307" height="71" />
+<img src="{{ site.images }}/kj2-9.jpg" alt="201203102253.jpg" width="307" height="71" />
 
 This is an example of a customer getter which always returns "Always Jack" as the value of the property <em>Name</em> irrelevant of what value it has. Notice how we just define it below the property. If our getter requires more than one line, we can use a { } block.
 Much like the getter, we can also define a setter. In this setter, we can write any logic that interacts with other properties of the class. But what happens when we want to interact with the actual backing field of this property (the one that the compiler creates automatically)? as mentioned before, we can use the $ prefix to access it
 
-<img src="http://hhariri.files.wordpress.com/2012/03/201203102300.jpg" alt="201203102300.jpg" width="281" height="109" />
+<img src="{{ site.images }}/kj2-10.jpg" alt="201203102300.jpg" width="281" height="109" />
 
 Setters can have different accessibility levels, by prefixing them with the corresponding keyword.
 <h3>Functions</h3>
 Although we won't dive too deeply into all the different aspects of functions in this part (otherwise it would be too long of a blog post), we will see the basics to create functions as part of our classes. A function declaration, in its simplest form is:
 
-<img src="http://hhariri.files.wordpress.com/2012/03/201203102307.jpg" alt="201203102307.jpg" width="288" height="82" />
+<img src="{{ site.images }}/kj2-11.jpg" alt="201203102307.jpg" width="288" height="82" />
 
 consisting of the function <em>name,</em> optional <em>parameters,</em> optional <em>return type</em> and the <em>body.</em> Functions in Kotlin return tuples, that is they can return more than one value. When we do not specify a return type, we are implicitly saying that the return type is a <em>Unit</em> which is a tuple with 0 components.
 Below is a full example of a class that takes two parameters in the constructor, initializes some properties and contains a function the prints out the full name.
-<img src="http://hhariri.files.wordpress.com/2012/03/201203102316.png" alt="201203102316.jpg" width="452" height="180" />
+<img src="{{ site.images }}/kj2-12.png" width="452" height="180" />
 
 We'll dive deeper into functions and all the possibilities they offer in a different post.
 <h3>Summary</h3>

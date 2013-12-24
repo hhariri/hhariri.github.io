@@ -16,7 +16,7 @@ It's not right!
 <ul>
 	<li>With <em>Silverlight</em>, we heard that Silverlight is for Web Applications vs HTML for Web Sites. There is no difference between the two unless we’re talking about static pages. Enough ALREADY!</li>
 	<li>With <em>LightSwitch </em>we hear that LightSwitch is for “small RAD applications” and “low on domain logic, more CRUD focused” *.  Problem is, every application starts small until it grows large and critical for a business, and that’s when you’re screwed.</li>
-	<li>With <em>Web API</em>, we hear that Web API is for API’s and MVC is for UI. I’ve already given my opinion about this on <a href="https://hhariri.wordpress.com/2012/04/06/with-http-your-application-is-your-api/">several</a> <a href="https://hhariri.wordpress.com/2012/06/18/ndc-videos-online/">occasions</a> so I won’t repeat it again.</li>
+	<li>With <em>Web API</em>, we hear that Web API is for API’s and MVC is for UI. I’ve already given my opinion about this on <a href="http://hadihariri.com/2012/04/06/with-http-your-application-is-your-api/">several</a> <a href="http://hadihariri.com/2012/06/18/ndc-videos-online/">occasions</a> so I won’t repeat it again.</li>
 </ul>
 ...and the list goes on, and not only of one company or entity.
 

@@ -41,7 +41,7 @@ and it usually is in the context of some framework. I had this happen the other 
 <h3>far from the horse's mouth</h3>
 <a href="http://dannorth.net/introducing-bdd/">Dan North coined the term BDD</a> many years ago, and I by no means aim to redefine it. As such, nothing of what I claim here necessarily coincides with Dan's definition. This post is exclusively my own opinion. My only certainty is that he at least somewhat agrees with me on this statement:
 
-<a href="http://hhariri.files.wordpress.com/2012/04/dannorth.png"><img class="alignnone size-full wp-image-2496" title="dannorth" src="http://hhariri.files.wordpress.com/2012/04/dannorth.png" alt="" width="504" height="187" /></a>
+<img class="alignnone size-full wp-image-2496" title="dannorth" src="{{ site.image }}/bdd-1.png" alt="" width="504" height="187" />
 
 Dan's paper taught me a few things and confirmed that other things I was doing were on the right track:
 <h1>It's about communication</h1>
@@ -59,7 +59,7 @@ Dan came out with JBehave in an attempt to dissociate Test Driven Design with T
 
 As such, nothing forces people into using a BDD framework, because there really is no such thing. Unfortunately the continuous appearance of more and more so-called "BDD Frameworks" and guidance as the one below, do not help
 
-<a href="http://hhariri.files.wordpress.com/2012/04/mocha.png"><img class="alignnone size-full wp-image-2497" title="mocha" src="http://hhariri.files.wordpress.com/2012/04/mocha.png" alt="" width="529" height="134" /></a>
+<img class="alignnone size-full wp-image-2497" title="mocha" src="{{ site.images }}/bdd-2.png" alt="" width="529" height="134" />
 
 Much like BDD is not about frameworks, it is also not about keywords or flavors.
 <h1>BDD is for defining system behavior</h1>

@@ -29,7 +29,7 @@ For the past year or so, a team of developers at JetBrains, lead by <a href="htt
 
 As someone interested in languages, I’ve taken it upon myself to learn more about Kotlin and offering you to join me in the journey. If like me, most of your time in the past few years has been spent as a C# developer, not a Java one, then we’re pretty much in the same space. So you’ll feel right at home.
 <h1>A little about Kotlin</h1>
-<a href="http://hhariri.files.wordpress.com/2012/02/image23.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb23.png" alt="image" width="72" height="65" border="0" /></a>
+<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.images }}/kj1-1.png" alt="image" width="72" height="65" border="0" />
 
 Kotlin has been developed in an attempt to improve the way we work. It has removed some of the bad things Java has and added some nice features that Scala provides. It is an Object Orientated language, not a functional one, although it does have higher-order functions and function literals. If you are interested in the reasons as to why Kotlin has been developed, check out some of the entries in the <a href="http://confluence.jetbrains.net/display/Kotlin/FAQ">FAQ</a>. There is also <a href="http://blog.jetbrains.com/kotlin/2011/08/why-jetbrains-needs-kotlin/">this post</a> that is worth checking out about why JetBrains needs Kotlin.
 
@@ -41,15 +41,15 @@ So the first step is to download IntelliJ. I’m working with the Ultimate Editi
 
 Once IntelliJ is installed, next step is to install the plugin. Download it <a href="https://github.com/downloads/JetBrains/kotlin/kotlin-plugin-0.1.1358.zip">from here</a> and then click on Preferences inside IntelliJ and type ‘Plugin’ in the search box to get quick access to the list of Plugins.
 
-<a href="http://hhariri.files.wordpress.com/2012/02/image24.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb24.png" alt="image" width="765" height="446" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/02/image24.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.images }}/kj1-2.png" alt="image" width="765" height="446" border="0" /></a>
 
 On the right panel, click on <em>Install plugin from disk </em>and select the zip file downloaded.
 
-<a href="http://hhariri.files.wordpress.com/2012/02/image25.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb25.png" alt="image" width="426" height="648" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/02/image25.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.images }}/kj1-3.png" alt="image" width="426" height="648" border="0" /></a>
 
 Once complete, you should now see the Kotlin plugin installed
 
-<a href="http://hhariri.files.wordpress.com/2012/02/image26.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb26.png" alt="image" width="560" height="171" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/02/image26.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.images }}/kj1-4.png" alt="image" width="560" height="171" border="0" /></a>
 
 You will have to restart the IDE.
 <h1>Creating the first Hello World project</h1>
@@ -57,59 +57,59 @@ Now that the plugin is installed, we can create a new project. Kotlin does not c
 
 1. Click on <em>File</em> | <em>New Project</em>. Select <em>Create project from scratch</em> and hit <em>Next</em>
 
-<a href="http://hhariri.files.wordpress.com/2012/02/image27.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb27.png" alt="image" width="873" height="312" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/02/image27.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.images }}/kj1-5.png" alt="image" width="873" height="312" border="0" /></a>
 
 2. Type in name for the project (<em>KotlinHelloWorld</em>). Leave all the options intact and click <em>Next</em>
 
-<a href="http://hhariri.files.wordpress.com/2012/02/image28.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb28.png" alt="image" width="876" height="368" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/02/image28.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.images }}/kj1-6.png" alt="image" width="876" height="368" border="0" /></a>
 
 3. On the source folder, leave the default <em>src </em>and click <em>Next.</em>What this does is define the source folder where our source code files will be kept.
 
-<a href="http://hhariri.files.wordpress.com/2012/02/image29.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb29.png" alt="image" width="881" height="309" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/02/image29.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.image }}/kj1-7.png" alt="image" width="881" height="309" border="0" /></a>
 
 4. In the dialog box to select technologies to use, for now leave blank and hit <em>Finish</em>.
 
-<a href="http://hhariri.files.wordpress.com/2012/02/image30.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb30.png" alt="image" width="878" height="316" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/02/image30.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.image }}/kj1-8.png" alt="image" width="878" height="316" border="0" /></a>
 
 Note: If this is the first time you’re running IntelliJ you might be prompted to select the JDK folder to use. IntelliJ normally located this folder and you merely have to confirm it.
 
 If everything went OK, your Project structure should look like this:
 
-<a href="http://hhariri.files.wordpress.com/2012/02/image31.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb31.png" alt="image" width="367" height="312" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/02/image31.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.images }}/kj1-9.png" alt="image" width="367" height="312" border="0" /></a>
 <h2>Sidetrack: ReSharper keymapping</h2>
 Before continuing, and in an attemp to feal more comfortable in IDEA, I recommend installing my ReSharper key mappings. If you’re a ReSharper user, you will feel right at home since pretty much all of the key bindings are the same. In IntelliJ, to import key mappings, select <em>File | Import Settings </em>and point to a jar file which can contain key mappings as well as any other IntelliJ settings. You can find my key mappings at <a title="https://github.com/hhariri/Tidbits/blob/master/resharper.jar" href="https://github.com/hhariri/Tidbits/blob/master/resharper.jar">https://github.com/hhariri/Tidbits/blob/master/resharper.jar</a>. You can change the key mapping any time you want using <em>Preferences </em>and typing in ‘keymap’ for quick access to the configuration entry:
 
-<a href="http://hhariri.files.wordpress.com/2012/02/image32.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb32.png" alt="image" width="263" height="334" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/02/image32.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.images }}/kj1-10.png" alt="image" width="263" height="334" border="0" /></a>
 <h1>Creating the first Kotlin file</h1>
 Once we have the project created, next step is to add a Kotlin file. To do this, right click in the Project explorer while your mouse is on the <em>src </em>folder to get the menu up:
 
-<a href="http://hhariri.files.wordpress.com/2012/02/image33.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb33.png" alt="image" width="563" height="204" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/02/image33.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.images }}/kj1-11.png" alt="image" width="563" height="204" border="0" /></a>
 
 and select <em>Kotlin File</em>
 
 Give the file a name
 
-<a href="http://hhariri.files.wordpress.com/2012/02/image34.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb34.png" alt="image" width="196" height="109" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/02/image34.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.images }}/kj1-12.png" alt="image" width="196" height="109" border="0" /></a>
 
 You should now have an empty file with a toolbar at the top asking you to install the Kotlin runtime. If you do not have this, make sure you haven’t installed or launched the wrong version of IntelliJ.
 
-<a href="http://hhariri.files.wordpress.com/2012/02/image35.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb35.png" alt="image" width="790" height="203" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/02/image35.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.images }}/kj1-13.png" alt="image" width="790" height="203" border="0" /></a>
 
 Click on the <em>Setup Kotlin Runtime. </em>What this does is install a series of required libraries for Kotlin in the project. You project structure should now look like this
 
-<a href="http://hhariri.files.wordpress.com/2012/02/image36.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb36.png" alt="image" width="341" height="264" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/02/image36.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.images }}/kj1-14.png" alt="image" width="341" height="264" border="0" /></a>
 <h1>Write some code</h1>
 Inside the <em>HelloWorld.kt </em>file, type <em>fun</em>:
 
-<a href="http://hhariri.files.wordpress.com/2012/02/image37.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb37.png" alt="image" width="396" height="157" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/02/image37.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.images }}/kj1-15.png" alt="image" width="396" height="157" border="0" /></a>
 
 If the installation is correct, you should get help from the IDE to complete the statement. This is pretty much like ReSharper Live Templates. You can hit Tab at this point and get the function template for Kotlin. <em>fun </em>in Kotlin represents a function, which can return a type or void
 
-<a href="http://hhariri.files.wordpress.com/2012/02/image38.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb38.png" alt="image" width="328" height="131" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/02/image38.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.images }}/kj1-16.png" alt="image" width="328" height="131" border="0" /></a>
 
 Give the function a name, no params and leave the return type blank. In the body type out <em>println(“Kotlin: First Contact”). </em>End result should be:
 
-<a href="http://hhariri.files.wordpress.com/2012/02/image39.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb39.png" alt="image" width="330" height="108" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/02/image39.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.images }}/kj1-17.png" alt="image" width="330" height="108" border="0" /></a>
 
 In this post, I’m not going to delve into the languages details as such. The objective is to get the environment up and running to make sure it all works and then later dive into the different aspects of the code. However a couple of things worth mentioning:
 <ul>
@@ -120,21 +120,21 @@ Once we have the code typed in, it’s now time to compile it and see if it work
 <h1>Making it work</h1>
 If no mistakes were made, the code should have compiled correctly. However, we can’t do much with it at this point, i.e. we cannot run it. Much like C#, Java and other programming languages, Kotlin requires an entry point in order to know where a program starts. And much like these languages, the entry point is a function called <em>main </em>that takes an array of strings as an argument. As such, let’s rename our function and give it some arguments:
 
-<a href="http://hhariri.files.wordpress.com/2012/02/image40.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb40.png" alt="image" width="340" height="96" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/02/image40.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.images }}/kj1-18.png" alt="image" width="340" height="96" border="0" /></a>
 <ul>
 	<li>Arguments (although not present in this example) follow the Pascal style, which is <em>argumentName: argumentType</em>.</li>
 </ul>
 <div>Note: There is also a <em>main </em>template that expands into the previous function to make things easier.</div>
 Now we have the ability to run the code. Right click and select <em>Run Namespace </em>or alternatively press Ctrl+F9.
 
-<a href="http://hhariri.files.wordpress.com/2012/02/image41.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb41.png" alt="image" width="323" height="541" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/02/image41.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.images }}/kj1-19.png" alt="image" width="323" height="541" border="0" /></a>
 
 This will automatically create a new Run configuration in IntelliJ called ‘namespace’, which we’ll look into later. What it does mean is that once we’ve run it the first time, the Run and Debug icons are now activated
 
-<a href="http://hhariri.files.wordpress.com/2012/02/image42.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb42.png" alt="image" width="373" height="97" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/02/image42.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.images }}/kj1-20.png" alt="image" width="373" height="97" border="0" /></a>
 
 If all has gone well, we can now see the output in the <em>Run </em>window:
 
-<a href="http://hhariri.files.wordpress.com/2012/02/image43.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="http://hhariri.files.wordpress.com/2012/02/image_thumb43.png" alt="image" width="448" height="152" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/02/image43.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:4px 10px;" title="image" src="{{ site.images }}/kj1-21.png" alt="image" width="448" height="152" border="0" /></a>
 <h1>Summary</h1>
 In this first part, we’ve gone through the basics to get Kotlin installed and our environment working to start writing code. We’ve only superficially touched one aspect of the language. We’ll dive deeper into these aspects in successive posts. Until then, you now have an environment to play around with Kotlin. Make sure you check out the <a href="http://confluence.jetbrains.net/display/Kotlin/Welcome">documentation here</a> if you want to learn more.

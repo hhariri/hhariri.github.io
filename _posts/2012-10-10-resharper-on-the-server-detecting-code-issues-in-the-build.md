@@ -22,19 +22,19 @@ The setup itself is extremely simple, and we’re going to walk through it, and 
 <h3>Activating .NET Inspections in TeamCity</h3>
 Adding ReSharper inspections to the build process is merely adding the Build Step named <strong>Inspections (.NET)</strong><em>.</em> The only parameter required is the Visual Studio Solution file
 
-<img style="margin:10px auto 0;display:block;float:none;" title="image" src="http://hhariri.files.wordpress.com/2012/10/image.png" alt="image" width="669" height="702" />
+<img style="margin:10px auto 0;display:block;float:none;" title="image" src="{{ site.images }}/image-23-1.png" alt="image" width="669" height="702" />
 
 If we do not specify a <strong>Custom settings profile path</strong>, TeamCity takes the default ReSharper settings for code inspections. However, we can configure these to match our own/teams criteria. This is done via <strong>Options | Inspection Severity</strong>. We can change a specific setting severity, for instance, that of using <em>String.IsNullOrEmpty </em>
 
-<img style="margin:10px auto 0;display:block;float:none;" title="image" src="http://hhariri.files.wordpress.com/2012/10/image1.png" alt="image" width="507" height="174" />
+<img style="margin:10px auto 0;display:block;float:none;" title="image" src="{{ site.images }}/image-23-2.png" alt="image" width="507" height="174" />
 
 and save the settings to the Team Shared file. This then saves the settings in a file named <em>{Solution}.sln.DotSettings</em> which is normally checked in to source control so that it automatically applies to other team members when the solution is opened in Visual Studio. We can use this same settings file to indicate custom inspection settings for TeamCity
 
-<img style="margin:10px auto 0;display:block;float:none;" title="image" src="http://hhariri.files.wordpress.com/2012/10/image2.png" alt="image" width="629" height="104" />
+<img style="margin:10px auto 0;display:block;float:none;" title="image" src="{{ site.images }}/image-23-3.png" alt="image" width="629" height="104" />
 <h3>Analyzing results</h3>
 When the build step runs, TeamCity generates a navigable report for us to analyze inspection results
 
-<img style="margin:10px auto 0;display:block;float:none;" title="image" src="http://hhariri.files.wordpress.com/2012/10/image3.png" alt="image" width="695" height="633" />
+<img style="margin:10px auto 0;display:block;float:none;" title="image" src="{{ site.images }}/image-23-4.png" alt="image" width="695" height="633" />
 
 We can navigate through the inspections for the entire project or a specific namespace. Inspections are grouped by Category, Issue Type and the corresponding files on the right pane. We can even navigate to the actual file by clicking on the line number. For this though, we need to have Visual Studio and the TeamCity plugin for Visual Studio installed (if you do not, clicking on the link will prompt you with a dialog box to download and install the plugin).
 
@@ -44,30 +44,30 @@ One of the main benefits of adding inspections on the server-side is to put some
 
 Under <strong>Build Failure Conditions </strong>in the Project Configuration window, we can add a new Build failure condition:
 
-<img style="margin:10px auto 0;display:block;float:none;" title="image" src="http://hhariri.files.wordpress.com/2012/10/image4.png" alt="image" width="444" height="293" />
+<img style="margin:10px auto 0;display:block;float:none;" title="image" src="{{ site.images }}/image-23-5.png" alt="image" width="444" height="293" />
 
 We select <em>Fail build on metric change </em>and then indicate whether we want a build to fail based on warnings or errors. In our case we’re going to select errors and have it fail if it is more than one.
 
-<img style="margin:10px auto 0;display:block;float:none;" title="image" src="http://hhariri.files.wordpress.com/2012/10/image5.png" alt="image" width="612" height="260" />
+<img style="margin:10px auto 0;display:block;float:none;" title="image" src="{{ site.images }}/image-23-6.png" alt="image" width="612" height="260" />
 
 It should be apparent that if we want inspections to have an impact on the status of our build, that is, have a build fail, we can only do so based on Warnings or Errors. Therefore, Hints and Suggestions cannot be used. As such, when configuring inspections severity in ReSharper, we should take this into account.
 
 If we now run our build again, it should fail as the number of errors are greater than one. Below is the output of the same input and inspections, but one run with the Build failure condition and the other without it.
 
-<img style="margin:10px auto 0;display:block;float:none;" title="image" src="http://hhariri.files.wordpress.com/2012/10/image6.png" alt="image" width="649" height="54" />
+<img style="margin:10px auto 0;display:block;float:none;" title="image" src="{{ site.images }}/image-23-7.png" alt="image" width="649" height="54" />
 <h3>Checking for copy/paste code</h3>
 Although strictly speaking, this isn’t related to ReSharper, but since we’re talking about code quality in the build process, it makes sense to also mention that TeamCity can check for code duplication.
 
 Much like before, activating code duplication is simply a matter of adding a new build step, namely <strong>Duplicates finder (.NET)<em>.</em> </strong>We can indicate the folders to ignore, whether we want to take into account namespaces, type names, as well as a few other options.
 
-<img style="margin:10px auto 0;display:block;float:none;" title="image" src="http://hhariri.files.wordpress.com/2012/10/image7.png" alt="image" width="716" height="702" />
+<img style="margin:10px auto 0;display:block;float:none;" title="image" src="{{ site.images }}/image71.png" alt="image" width="716" height="702" />
 
 The output is a nicely formatted navigable screen which allows us to go through the different files and see a side-by-side comparison of what TeamCity has detected as duplication (resized below for space limitations)
 
-<img style="margin:10px 0 0;display:inline;" title="image" src="http://hhariri.files.wordpress.com/2012/10/image8.png" alt="image" width="968" height="524" />
+<img style="margin:10px 0 0;display:inline;" title="image" src="{{ site.images }}/image81.png" alt="image" width="968" height="524" />
 
 And as expected, we can also fail the build if we have too many code duplicates
 
-<img style="margin:10px auto 0;display:block;float:none;" title="image" src="http://hhariri.files.wordpress.com/2012/10/image9.png" alt="image" width="613" height="261" />
+<img style="margin:10px auto 0;display:block;float:none;" title="image" src="{{ site.images }}/image91.png" alt="image" width="613" height="261" />
 <h3>Summary</h3>
 It is refreshingly simple to add code quality detection features to the build process and have a build fail if something that shouldn’t be in production code slips through. The next step would be to provide Custom Patterns, which currently are not supported. If you feel this is a feature you’d like, <a href="http://youtrack.jetbrains.com/issue/TW-23996">let us know</a>, and as always, any and all feedback is welcome.

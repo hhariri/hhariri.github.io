@@ -52,7 +52,7 @@ Earlier <a href="http://hadihariri.com/2012/04/09/too-many-dependencies/">I ask
 <h3>The problem</h3>
 Here is the problem:
 
-<img title="Controller" src="http://hhariri.files.wordpress.com/2012/04/image4.png?w=529" alt="" width="519" height="470" />
+<img title="Controller" src="{{ site.images }}/dtmd-1.png" alt="" width="519" height="470" />
 
 In this case it is a controller, but it can well be any other type of class.
 <h3>Dependency Injection does not solve tight coupling</h3>

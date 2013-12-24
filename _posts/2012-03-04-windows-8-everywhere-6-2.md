@@ -15,7 +15,7 @@ meta:
 ---
 I posted this on Twitter today.
 
-<a href="http://hhariri.files.wordpress.com/2012/03/photo-2.jpg"><img class="size-full wp-image" src="http://hhariri.files.wordpress.com/2012/03/photo-2.jpg?w=392" alt="Image" /></a>
+<img class="size-full wp-image" src="{{ site.images }}/we-1.jpg" alt="Image" />
 
 If it's not blatantly clear, that's me trying to scroll through a Windows 8 Consumer Preview screen installed on a Virtual Machine, using my fingers.
 

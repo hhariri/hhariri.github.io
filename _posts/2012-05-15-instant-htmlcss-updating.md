@@ -30,21 +30,21 @@ To install:
 
 3. Open up WebStorm (or IDEA) and click on Preferences. Search for 'plugin'
 
-<a href="http://hhariri.files.wordpress.com/2012/05/plugin.png"><img title="plugin" src="http://hhariri.files.wordpress.com/2012/05/plugin.png" alt="" width="393" height="222" /></a>
+<img title="plugin" src="{{ site.images }}/html-1.png" alt="" width="393" height="222" />
 
 4. Install the plugins previously downloaded from disk. First install the Web Browser Connector*
 
-<a href="http://hhariri.files.wordpress.com/2012/05/pluginfile.png"><img class="alignnone size-full wp-image-2555" title="pluginfile" src="http://hhariri.files.wordpress.com/2012/05/pluginfile.png" alt="" width="503" height="75" /></a>
+<img class="alignnone size-full wp-image-2555" title="pluginfile" src="{{ site.images }}/html-2.png" alt="" width="503" height="75" />
 
 5. Restart WebStorm (or IntelliJ)
 
 6. Open up your Web Project. Under the Run menu select Instant HTML editing
 
-<a href="http://hhariri.files.wordpress.com/2012/05/menu.png"><img class="alignnone size-full wp-image-2553" title="menu" src="http://hhariri.files.wordpress.com/2012/05/menu.png" alt="" width="259" height="509" /></a>
+<img class="alignnone size-full wp-image-2553" title="menu" src="{{ site.images }}/html-3.png" alt="" width="259" height="509" />
 
 7. Launch Chrome**. If all has gone well you should now see this below the URL bar
 
-<a href="http://hhariri.files.wordpress.com/2012/05/sample.png"><img class="alignnone size-full wp-image-2556" title="sample" src="http://hhariri.files.wordpress.com/2012/05/sample.png" alt="" width="529" height="251" /></a>
+<img class="alignnone size-full wp-image-2556" title="sample" src="{{ site.images }}/html-4.png" alt="" width="529" height="251" />
 
 As you make changes (to both HTML and CSS) you should now be able to see them updating live in Chrome.
 

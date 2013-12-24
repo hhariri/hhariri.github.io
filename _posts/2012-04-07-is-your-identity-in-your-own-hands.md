@@ -23,7 +23,7 @@ Although GMail allows management of multiple accounts* when sending out emails, 
 Everyone was using GMail and handing out GMail accounts left and right, why shouldn't I?
 <p align="justify">Even though I'd switched to GMail, for some time I was still using desktop apps for email, accessing GMail via POP/IMAP. And when it comes to these, I’ve tried them all, be it Outlook Express, then  Outlook, then The Bat, and so on and so forth. My main concern was having access to my email, be it whether I was traveling and didn’t have a connection or for back-up purposes. However, at some point, after being fed up with Outlook PST corrupt files, I gave up and went fully-fledge web. I thought, well Google’s going to do a hell of a better job of storing my email than I would, so forget this whole backup nonsense. Plus, GMail now offered a pretty decent offline experience, so win-win.</p>
 <p align="justify">*[If you’re not familiar with this, you can change the setting under <strong>Settings | Account]</strong></p>
-<p align="justify"><a href="http://hhariri.files.wordpress.com/2012/04/image.png"><img title="image" src="http://hhariri.files.wordpress.com/2012/04/image_thumb.png" alt="image" width="961" height="127" border="0" /></a></p>
+<p align="justify"><img title="image" src="{{ site.images }}/ident-1.png" alt="image" width="961" height="127" border="0" /></p>
 
 <h1>Solving offline experience and backups</h1>
 Despite Google never going down and having my mail backed up, the thought that all my email was somewhere where one day I could lose access to it, still haunted me. One solution I came up with was to enable offline storage of GMail for the maximum amount of time possible. Back then this was around 5 years. Guess what? It didn’t work. The experience became horrible (and yes they did warn you). Even with a connection, searching was horrendous. And on slow connections, it was dreadful. I soon gave up on that.
@@ -34,7 +34,7 @@ Having had Thunderbird installed for a secondary account I manage, I decided to 
 
 However, I did solve my backup problem. I configured Thunderbird to sync all messages and keep local copies:
 
-<a href="http://hhariri.files.wordpress.com/2012/04/snaghtml4f44488.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="SNAGHTML4f44488" src="http://hhariri.files.wordpress.com/2012/04/snaghtml4f44488_thumb.png" alt="SNAGHTML4f44488" width="647" height="698" border="0" /></a>
+<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="SNAGHTML4f44488" src="{{ site.images }}/ident-2.png" alt="SNAGHTML4f44488" width="647" height="698" border="0" />
 
 Every day or every other day, I open up Thunderbird and let it churn away syncing my account. I now combine this with CrashPlan which then backs up my Thunderbird folders in the cloud.
 <h2>All is good</h2>
@@ -48,7 +48,7 @@ Last week, I lost access to GMail for nearly a day and a half. What was quite sc
 
 At some point though I felt more relieved finding out I was not alone:
 
-<a href="http://hhariri.files.wordpress.com/2012/04/better.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="better" src="http://hhariri.files.wordpress.com/2012/04/better_thumb.png" alt="better" width="510" height="801" border="0" /></a>
+<img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="better" src="{{ site.images }}/ident-3.png" alt="better" width="510" height="801" border="0" />
 
 Realizing this could actually last for some time, I logged into my domain provider and stopped the forwarding of my @hadihariri.com accounts to @gmail.com. I created individual accounts for them and started using the Web Mail to access these. But guess what? Out of the more than +100 emails that were piled up in the short interval I had no access, only around 5-6 came through to my @hadihariri.com domains.
 

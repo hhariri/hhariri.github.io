@@ -32,11 +32,11 @@ A quick update on constructors
 
 In Part II we discussed constructors and saw how to intialize properties based on constructor parameters, a somewhat typical scenario. Kotlin M2 (milestone 2) now supports declaration of properties directly via the constructor. What this means is that we can shorten the following code
 
-<a href="http://hhariri.files.wordpress.com/2012/07/image15.png"><img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="image" src="http://hhariri.files.wordpress.com/2012/07/image_thumb15.png" alt="image" width="409" height="143" border="0" /></a>
+<img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="image" src="{{ site.images }}/kj3-1.png" alt="image" width="409" height="143" border="0" />
 
 to
 
-<a href="http://hhariri.files.wordpress.com/2012/07/image16.png"><img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="image" src="http://hhariri.files.wordpress.com/2012/07/image_thumb16.png" alt="image" width="396" height="136" border="0" /></a>
+<img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="image" src="{{ site.images }}/kj3-2.png" alt="image" width="396" height="136" border="0" />
 
 This provides us with the properties as before but saves a few extra lines of redundant code. Another change is that constructors can now have optional parameters, meaning that a class only ever requires a single constructor, so there is no constructor overload.
 <h3>final by default</h3>
@@ -44,7 +44,7 @@ The base class for a class in Kotlin is <em>Any</em>, a class that does not have
 
 In order to inherit from a class or override a method, we need to explicitly mark them as <em>open. </em>
 
-<a href="http://hhariri.files.wordpress.com/2012/07/image10.png"><img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="image" src="http://hhariri.files.wordpress.com/2012/07/image_thumb10.png" alt="image" width="356" height="298" border="0" /></a>
+<img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="image" src="{{ site.images }}/kj3-3.png" alt="image" width="356" height="298" border="0" />
 
 The base class <em>Person </em>as well as the method c<em>anOverride </em>are declared as <em>open </em>which allows us to inherit from <em>Person</em> and override c<em>anOverride</em>. In the inherited <em>Employee</em> class we define overridden method as <em>final</em> which means that inherited classes can no longer override this method.
 
@@ -54,7 +54,7 @@ Kotlin does not have interfaces, instead it has traits, which can be thought of 
 
 For all practical purposes, a trait is like an interface: we declare a series of methods and have a class implement these
 
-<a href="http://hhariri.files.wordpress.com/2012/07/image11.png"><img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="image" src="http://hhariri.files.wordpress.com/2012/07/image_thumb11.png" alt="image" width="306" height="330" border="0" /></a>
+<img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="image" src="{{ site.images }}/kj3-4.png" alt="image" width="306" height="330" border="0" />
 
 Notice how b<em>roadcast </em>does not need to be implemented. Another difference as opposed to interfaces is that we need to explicitly indicate the <em>override </em>directive.
 <h2>A word on abstracts</h2>
@@ -62,19 +62,21 @@ Kotlin also allows for abstract classes and methods, like many other languages, 
 <h3>First class delegation</h3>
 Composition over inheritance is a common design practice to follow, as large inheritance chains come with their own series of issues. When composing classes, it is also considered good practice to use dependency injection, so as to allow for multiple implementations. A typical scenario would be
 
-<a href="http://hhariri.files.wordpress.com/2012/07/image17.png"><img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="image" src="http://hhariri.files.wordpress.com/2012/07/image_thumb17.png" alt="image" width="381" height="254" border="0" /></a>
+<img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="image" src="{{ site.images }}/kj3-5.png" alt="image" width="381" height="254" border="0" />
 
 We define a <em>CustomerRepositoryTrait </em>and then inject a specific implementation in our controller. All operations that have to do with the customer repository are now delegated and accessed via the property c<em>ustomerRepo</em>.
 
 Kotlin goes one step further and inherently understands delegation. As such, the previous code could be written like so
 
-<a href="http://hhariri.files.wordpress.com/2012/07/image18.png"><img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="image" src="http://hhariri.files.wordpress.com/2012/07/image_thumb18.png" alt="image" width="376" height="138" border="0" /></a>
+<img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="image" src="{{ site.images }}/kj3-7.png" alt="image" width="376" height="138" border="0" />
+
 <p align="left">We are telling the compiler that the functionality of the trait is delegated to the injected parameter. One benefit is that we no longer have to explicitly create a property to hold a reference to the dependency. This also has an impact on how we use the code, as we no longer need to dereference it via the dependency, but call it directly. Some might think that this could potentially cause an issue when a class has too many delegated responsibilities. What call belongs to what trait? In actual fact, that usually is a sign of a class doing too much and as such breaking SRP. So think of this more as a warning, a smell.</p>
 
 <h3>enums are classes</h3>
 One of the great features of Kotlin is that enums are classes. This can come in very handy when trying to add behavior.
 
-<a href="http://hhariri.files.wordpress.com/2012/07/image14.png"><img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="image" src="http://hhariri.files.wordpress.com/2012/07/image_thumb14.png" alt="image" width="347" height="343" border="0" /></a>
+<img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="image" src="{{ site.images }}/kj3-8.png" alt="image" width="347" height="343" border="0" />
+
 
 The <em>CustomerState </em>class is an enum type which provides three values: SIGNED_UP, NORMAL and PREFERRED. What it also provides however is a method called f<em>ormatted</em> that is defined as abstract. We can now leverage this and override the method for each of the enum values.
 

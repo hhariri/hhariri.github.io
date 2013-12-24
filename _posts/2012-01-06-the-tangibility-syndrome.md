@@ -25,11 +25,11 @@ First of all, let me make it very clear that this has nothing to do with OSS. Le
 
 These are policies that I identify myself with and that’s why I’m very happy to be part of such a great company. Having said that, let’s move on…
 <h3>Hobbies cost money</h3>
-This morning I tweeted:<a href="http://hhariri.files.wordpress.com/2012/01/image.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="image" src="http://hhariri.files.wordpress.com/2012/01/image_thumb.png" alt="image" width="595" height="154" border="0" /></a>
+This morning I tweeted:<a href="http://hhariri.files.wordpress.com/2012/01/image.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="image" src="{{ site.images }}/ts-1.png" alt="image" width="595" height="154" border="0" /></a>
 
 Collin’s Dictionary defines Hobby as:
 
-<a href="http://hhariri.files.wordpress.com/2012/01/image1.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:0;" title="image" src="http://hhariri.files.wordpress.com/2012/01/image_thumb1.png" alt="image" width="444" height="195" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/01/image1.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;margin:0;" title="image" src="{{ site.images }}/ts-2.png" alt="image" width="444" height="195" border="0" /></a>
 
 In our context, it’s <em>an activity pursued in spare time for pleasure or relaxation</em>.
 

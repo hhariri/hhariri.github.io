@@ -19,7 +19,7 @@ The answer is of course, no, it’s not complicated at all. In fact, YouTrack is
 <h3>Embedding a <em>submit issue </em>form on your web site</h3>
 What we want is this:
 
-<a href="http://hhariri.files.wordpress.com/2012/09/image.png"><img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;" title="image" src="http://hhariri.files.wordpress.com/2012/09/image_thumb.png" alt="image" width="457" height="390" border="0" /></a>
+<img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;" title="image" src="{{ site.images }}/aui-1.png" alt="image" width="457" height="390" border="0" />
 
 In order to get there, we need to:
 <ol>
@@ -28,21 +28,21 @@ In order to get there, we need to:
 </ol>
 <h1>Creating the HTML Page</h1>
 <p align="left">The page itself is straightforward, being just a form with three elements. We’re using Twitter Bootstrap to give it somewhat of a nice design (which coincides now with 90% of the Internet). The only interesting thing on the page is two JavaScript functions. One obtains a list of projects from our YouTrack server, and the other creates a new issue.</p>
-<a href="http://hhariri.files.wordpress.com/2012/09/image1.png"><img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;" title="image" src="http://hhariri.files.wordpress.com/2012/09/image_thumb1.png" alt="image" width="493" height="327" border="0" /></a>
+<img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;" title="image" src="{{ site.images }}//aui-5.png" alt="image" width="493" height="327" border="0" /><
 
 The second function, <em>createIssue</em> which actually creates the issue would be:
 
-<a href="http://hhariri.files.wordpress.com/2012/09/image2.png"><img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;" title="image" src="http://hhariri.files.wordpress.com/2012/09/image_thumb2.png" alt="image" width="497" height="360" border="0" /></a>
+<img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;" title="image" src="{{ site.images }}/aui-2.png" alt="image" width="497" height="360" border="0" />
 
 Only remaining thing would be to load the projects on page load:
 
-<a href="http://hhariri.files.wordpress.com/2012/09/image3.png"><img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;" title="image" src="http://hhariri.files.wordpress.com/2012/09/image_thumb3.png" alt="image" width="502" height="108" border="0" /></a>
+<img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;" title="image" src="{{ site.images }}/aui-3.png" alt="image" width="502" height="108" border="0" />
 
 Although for this example we’re using JavaScript, if you prefer to use some other language such as <a href="http://github.com/JetBrains/YouTrackSharp">C#</a>, <a href="https://github.com/JetBrains/youtrack-rest-ruby-library">Ruby</a>, <a href="https://github.com/JetBrains/youtrack-rest-python-library">Python</a>, know that there are already libraries available. There’s even a <a href="http://kotlin.jetbrains.com">Kotlin</a> one in the <a href="https://github.com/evgeny-goldin/rest-clients">works</a>.
 <h2>Enable REST API and Access from external sites.</h2>
 To get this to work, we need to enable external access  to the API. For that, when logging in as Administrator in YouTrack, under the <em>Adminsitration</em>, <em>REST API</em>, we can specify whether we want external sites to have access to the API (<a href="http://en.wikipedia.org/wiki/Cross-origin_resource_sharing">CORS</a>). For this example, we’re going to allow access from all sites, although we can limit it to specific domains
 
-<a href="http://hhariri.files.wordpress.com/2012/09/image4.png"><img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;" title="image" src="http://hhariri.files.wordpress.com/2012/09/image_thumb4.png" alt="image" width="511" height="174" border="0" /></a>
+<img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;" title="image" src="{{ site.images }}/aui-4.png" alt="image" width="511" height="174" border="0" />
 
 We can now easily embed a form to create issues in any web site. Obviously in this case, we have permissions enabled to let anyone submit issues but that can also be restricted by requiring a valid login beforehand.
 
@@ -52,7 +52,7 @@ Submitting issues isn’t the only thing that can be done using the YouTrack API
 
 Recognize the screen below? Of course you don’t. It’s an alternative interface written by  <a href="https://twitter.com/alexeypegov">Alexey Pegov</a>, as a proof of concept, to demonstrate the full potential of the API.
 
-<a href="http://hhariri.files.wordpress.com/2012/09/clip_image002.gif"><img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;" title="clip_image002" src="http://hhariri.files.wordpress.com/2012/09/clip_image002_thumb.gif" alt="clip_image002" width="800" height="418" border="0" /></a>
+<img style="background-image:none;margin:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;" title="clip_image002" src="{{ site.images }}/aui-5.gif" alt="clip_image002" width="800" height="418" border="0" />
 
 What’s awesome about this UI, is that it’s nothing more than a façade over our own instance of YouTrack. All it is doing is providing a new look and feel for static data generated from YouTrack.
 

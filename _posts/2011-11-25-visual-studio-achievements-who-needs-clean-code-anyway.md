@@ -20,15 +20,15 @@ meta:
 ---
 I stumbled upon <a href="http://channel9.msdn.com/achievements/visualstudio/">Visual Studio Achievements</a> this morning via <a href="http://twitter.com/#!/maartenballiauw/">Maarten</a>. The idea of combining development with game play might be enticing to some and as others have pointed out, could be a way to introduce younger generations to development and potentially get them interested. As such, the idea in itself is not an issue. What is however disturbing is the point system.
 
-<a href="http://hhariri.files.wordpress.com/2011/11/image7.png"><img style="background-image:none;padding-left:0;padding-right:0;display:block;float:none;padding-top:0;border:0;margin:4px auto;" title="image" src="http://hhariri.files.wordpress.com/2011/11/image_thumb.png" alt="image" width="487" height="302" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2011/11/image7.png"><img style="background-image:none;padding-left:0;padding-right:0;display:block;float:none;padding-top:0;border:0;margin:4px auto;" title="image" src="{{ site.images }}/vsa-1.png" alt="image" width="487" height="302" border="0" /></a>
 
 If you look carefully at the entries, you find that not only do some of them promote bad practices which lead to horrendous maintenance nightmares like the Region Manager
 
-<a href="http://hhariri.files.wordpress.com/2011/11/image8.png"><img style="background-image:none;padding-left:0;padding-right:0;display:block;float:none;padding-top:0;border:0;margin:4px auto;" title="image" src="http://hhariri.files.wordpress.com/2011/11/image_thumb1.png" alt="image" width="448" height="140" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2011/11/image8.png"><img style="background-image:none;padding-left:0;padding-right:0;display:block;float:none;padding-top:0;border:0;margin:4px auto;" title="image" src="{{ site.images }}/vsa-2.png" alt="image" width="448" height="140" border="0" /></a>
 
 but a few of them are even geared more around selling higher end versions of the tool.
 
-<a href="http://hhariri.files.wordpress.com/2011/11/image9.png"><img style="background-image:none;padding-left:0;padding-right:0;display:block;float:none;padding-top:0;border:0;margin:4px auto;" title="image" src="http://hhariri.files.wordpress.com/2011/11/image_thumb2.png" alt="image" width="412" height="129" border="0" /></a>
+<a href="http://hhariri.files.wordpress.com/2011/11/image9.png"><img style="background-image:none;padding-left:0;padding-right:0;display:block;float:none;padding-top:0;border:0;margin:4px auto;" title="image" src="{{ site.images }}/vsa-3.png" alt="image" width="412" height="129" border="0" /></a>
 
 Were are the points for writing a Unit Test? Or keeping the number of lines in a method low?
 

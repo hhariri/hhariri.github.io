@@ -16,7 +16,7 @@ Scott Hanselman had a <a href="http://www.hanselman.com/blog/TheWebIsTheNewTermi
 
 Now if you're like me, a keyboard fanatic, you'll probably say it is worthwhile, that it pays off in the long run, because the mouse, well it's just not productive. In fact, the first thing I usually do when teaching a course on TDD or ReSharper is tell students to unplug the mouse. Why? Because the mouse just gets in the way. It makes you lose focus, it takes precious seconds away. Ultimately, the mouse breaks the flow.
 
-<a href="http://hhariri.files.wordpress.com/2012/04/d.jpg"><img class="alignnone size-full wp-image-2360" title="Mouse" src="http://hhariri.files.wordpress.com/2012/04/d.jpg" alt="" width="529" height="352" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/04/d.jpg"><img class="alignnone size-full wp-image-2360" title="Mouse" src="{{ site.images }}/kb-1.jpg" alt="" width="529" height="352" /></a>
 
 Software developers and UI designers realized this as the graphical interface flourished. That is why the concept of keyboard shortcuts where introduced, to try and avoid menu and submenu navigation galore, specially on repetitive operations.
 <h1>One size fits all fallacy</h1>
@@ -40,11 +40,11 @@ If you're old enough to experience buying a ticket at a travel agency, you'll no
 </ul>
 It worked well back then and it still works well today. A comment I left on Scott's blog in reference to YouTrack which was listed there, was that although YouTrack has keyboard shortcuts, the main beauty of it is not having to remember these, but the ability to use commands. You see in YouTrack when you want to close a bug, you don't have to remember a keyboard combination, you just start typing:
 
-<a href="http://hhariri.files.wordpress.com/2012/04/a.png"><img title="YouTrack1" src="http://hhariri.files.wordpress.com/2012/04/a.png" alt="" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/04/a.png"><img title="YouTrack1" src="{{ site.images }}/kb-2.png" alt="" /></a>
 
 and as you type, YouTrack not only offers command completion, but also displays a list of recently applied commands. Once you type something coherent, it then tries to interpret your command:
 
-<a href="http://hhariri.files.wordpress.com/2012/04/b.png"><img title="YouTrack2" src="http://hhariri.files.wordpress.com/2012/04/b.png" alt="" /></a>
+<a href="http://hhariri.files.wordpress.com/2012/04/b.png"><img title="YouTrack2" src="{{ site.images }}/kb-3.png" alt="" /></a>
 
 It's the same principle that was used in older systems, but brought up to date, to be less error-prone and more user-friendly. And of course, this works with any type of command, not only closing a bug.
 <h1>Think about the interactions</h1>
