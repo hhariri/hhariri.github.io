@@ -38,7 +38,7 @@ body {
 
 body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.5;
   color: #454441;
   background-color: #fff;
@@ -49,13 +49,15 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
+  font-weight: bold;
+
 }
 h1 {
-  font-size: 40px;
+  font-size: 36px;
 }
 h2 {
   margin-top: 20px;
-  font-size: 32px;
+  font-size: 28px;
 }
 h3 {
   margin-top: 24px;
@@ -63,7 +65,7 @@ h3 {
 }
 h4, h5, h6 {
   margin-top: 16px;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 p {
@@ -178,6 +180,13 @@ a:hover {
   text-decoration: underline;
 }
 
+ol {
+    list-style-position: inside;
+}
+
+ul {
+    list-style-position: inside;
+}
 
 /* Scaffolding
 -------------------------------------------------- */
@@ -264,6 +273,23 @@ a:hover {
   background-color: #f5f5f5;
 }
 
+hr.style-eight {
+    padding: 0;
+    border: none;
+    border-top: thin;
+    color: #6b6b6b;
+    text-align: center;
+}
+
+hr.style-eight:after {
+    content: "§";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1em;
+    padding: 0 0.25em;
+    background: white;
+}
 
 /* Responsive
 -------------------------------------------------- */
@@ -281,7 +307,7 @@ a:hover {
 @media (min-width: 990px) {
 
   body {
-    font-size: 18px;
+    font-size: 16px;
   }
   .masthead h1 {
     font-size: 64px;
@@ -289,7 +315,7 @@ a:hover {
 
   /* Center container in available real estate */
   .container {
-    margin-left: 35%;
+    margin-left: 25%;
     margin-right: 10%;
     width: 55%;
   }
@@ -300,7 +326,7 @@ a:hover {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 25%;
+    width: 15%;
     margin-bottom: 0;
   }
   .masthead-inner {
@@ -333,4 +359,37 @@ a:hover {
     border: 1px solid #eee;
   }
 
+}
+
+.icons {
+    overflow : hidden;
+    position :relative;
+}
+
+.icons img {
+    width: 30px;
+    height: 30px;
+    float: left;
+}
+
+title {
+    margin: 0 0 10px;
+    font-weight: 500;
+    line-height: 1.25;
+    text-rendering: optimizeLegibility;
+    font-weight: bold;
+    font-size: 36px;
+    color: #ff4334;
+}
+
+.about {
+    margin-top: 3em;
+    display: inline-block;
+    float: right;
+    vertical-align: middle;
+}
+
+.about img {
+    width: 15%;
+    height: 15%;
 }

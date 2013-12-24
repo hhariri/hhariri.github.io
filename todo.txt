@@ -1,2 +1,1 @@
-Image conversion stopped at: 2011-08-24-native-nuget-support-in-teamcity
 

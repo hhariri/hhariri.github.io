@@ -23,7 +23,7 @@ This is a multi-part series on Refactoring to Functional Programming
 </ol>
 In this part let’s pick up some more primitives of functional programming and see how we can use them. We’re going to expand the previous list of albums to also include track information
 
-```kotlin
+{% highlight kotlin %}
 data class Track(val title: String, val durationInSeconds: Int)
 
 val pinkFloyd = listOf(
@@ -41,7 +41,8 @@ val pinkFloyd = listOf(
                 )
         ))
         // the rest omitted for brevity
-```
+
+{% endhighlight %}
 
 We’re going to solve two different exercises this time:
 <ol>
