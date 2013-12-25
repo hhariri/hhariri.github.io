@@ -47,7 +47,7 @@ The process is:
 * Setup a theme
 * Import Posts
 * Import Comments
-* Some Tweaks
+* Setup a few other things (analytics, rss feed)
 * Go Live
 
 #### Setting up Jekyll and skeleton site
@@ -61,7 +61,7 @@ The process is:
 4. Generate a site using:
 
         jekyll new sitename
-        
+
     This generates a folder named 'sitename'. Copy the contents of this folder to your recently cloned directory.
 
     Quick explanation of the layout of the site:
