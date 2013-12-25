@@ -151,7 +151,7 @@ One issue with leaving WordPress is that you lose comments. While you can use yo
 
 **Important Update**
 
-[Phillip Haydon](https://twitter.com/philliphaydon), creator of [Sandra.Snow](https://github.com/Sandra/Sandra.Snow), i.e. of Jekyll to .NET, pointed out to me an important issue with
+[Phillip Haydon](https://twitter.com/philliphaydon), creator of [Sandra.Snow](https://github.com/Sandra/Sandra.Snow), i.e. of Jekyll on .NET, pointed out to me an important issue with
 Disqus. Disqus treats
 
         http://hadihariri.com/yyyy/mm/dd/title
