@@ -17,7 +17,7 @@ While I've been thinking of doing the move for quite some time, recently I've be
 ### What is Jekyll?
 
 For those not familiar, [Jekyll](jekyllrb.com) is a static web site generator written in Ruby. It uses a template engine named Liquid which supports HTML as well as various flavours of
-markdown. You write your posts in HTML or markdown and run Jekyll, which then generates the entire site for you. Every page is then static.
+markdown. You write your posts in HTML or markdown and run Jekyll, which then generates the entire site for you. Every page is therefore static.
 
 
 ### Where do you host it?
@@ -203,7 +203,7 @@ before pushing.
 #### Maintaining the site
 
 You can of course use any editor now to write content and if these support markdown, even better. Personally I use WebStorm and it works extremely well. I've got a few
-templates set up to create new posts, and it also helps when working with styling and refactoring elements.
+templates set up to create new posts, it offers spell checker, and it also helps when working with styling and refactoring elements.
 
 
 ### Not done yet
