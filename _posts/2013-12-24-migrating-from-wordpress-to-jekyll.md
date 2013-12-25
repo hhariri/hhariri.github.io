@@ -202,7 +202,7 @@ before pushing.
 
 #### Maintaining the site
 
-You can of course use any editor now to write content and if these support markdown, even better. Personally I use WebStorm and it works extremely well. I've got a few
+You can of course use any editor now to write content and if these support markdown, even better. Personally I use [WebStorm](http://www.jetbrains.com/webstorm) and it works extremely well. I've got a few
 templates set up to create new posts, it offers spell checker, and it also helps when working with styling and refactoring elements.
 
 
