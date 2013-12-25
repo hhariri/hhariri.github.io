@@ -13,10 +13,12 @@ to do. I found it limited.
 
 While I've been thinking of doing the move for quite some time, recently I've been working on a new site using GitHub Pages / Jekyll and enjoyed the experience, so finally decided to move.
 
+
 ### What is Jekyll?
 
 For those not familiar, Jekyll is a static web site generator written in Ruby. It uses a template engine named Liquid which supports HTML as well as various flavours of
 markdown. You write your posts in HTML or markdown and run Jekyll, which then generates the entire site for you. Every page is then static.
+
 
 ### Where do you host it?
 
@@ -29,6 +31,7 @@ but GitHub also has intrinsic knowledge of Jekyll. What this basically means is:
 
 Thus making the whole publishing process much more streamlined. You don't need to upload your entire site every time.
 
+
 ### How to do it
 
 I'm not going to provide detailed instructions on each of the steps, as it would lead to a very long post. Instead I'm going to outline the
@@ -38,6 +41,7 @@ Also I should mention that there are a few *automated importers*. I tried one an
 semi-automated approach.
 
 Finally, [Phil Haack](http://haacked.com) has also recently migrated and written a [few](http://haacked.com/archive/2013/12/02/dr-jekyll-and-mr-haack/) [posts](http://haacked.com/archive/2013/12/03/jekyll-url-extensions/). Albeit he migrated from SubText.
+
 
 #### Outline
 
@@ -49,6 +53,7 @@ The process is:
 * Import Comments
 * Setup a few other things (analytics, rss feed)
 * Go Live
+
 
 #### Setting up Jekyll and skeleton site
 
@@ -89,6 +94,7 @@ on the command line, open up http://localhost:4000 and you should see the site.
 
 *Note:* I usually add the '--watch' parameter to the command so that I don't have to start/stop each time I make a change (except if you change *_config.yml* file, you always need to restart for that).
 
+
 #### Importing Posts
 
 Once you have the skeleton running, next step is to import posts.
@@ -109,15 +115,17 @@ Once you have the skeleton running, next step is to import posts.
 4. If all goes well, you should now have all your posts in the _posts folder.
 
 5. Posts are imported as HTML and that's fine. While Liquid usually works with Markdown (by default uses RedCarpet), HTML inside markdown or complete HTML files will work fine.
-I haven't bothered converting old posts to markdown so I've left them as is.
+I haven't bothered converting old posts to markdown so I've left them as is. There are HTML to Markdown converters if you decide to convert.
 
 6. Images. This was the big one. When importing posts, the importer creates a folder named _attachments that has metadata about every image. However, it doesn't (or I've missed the fact) of how it actually
-downloads the original images. This means you need to somehow retrieve the images from your post and update the corresponding posts with the new references. Tedious work :(
+downloads the original images. This means you need to somehow retrieve the images from your post and update the corresponding posts with the new references. Tedious work which depending
+on the number of posts you might want to automate.
 
 7. Snippets. The next step for me was to get rid of the Gists I had for syntax highlighting and one of the many reasons I wanted to move off of WordPress, to allow for syntax highlighting.
 Jekyll by default uses [Pygment](http://pygments.org). This means that you get [syntax highlighting](http://jekyllrb.com/docs/templates/) for a variety of languages out of the box.
 
 Tweak any other issues you may find and run 'jekyll serve --watch' again to make sure it all works.
+
 
 #### Maintaining URL's
 
@@ -131,6 +139,7 @@ In order to have this same format in Jekyll, add the following line to *_config.
 
 Jekyll allows a variety of [permalinks](jekyllrb.com/docs/permalinks/).
 
+
 #### Setting up Comments
 
 One issue with leaving WordPress is that you lose comments. While you can use your own custom script, database et al to set up a comment system, I've chosen to go with
@@ -140,9 +149,10 @@ One issue with leaving WordPress is that you lose comments. While you can use yo
 
 2. Install the script required in the layout page corresponding to your posts
 
+
 #### Importing Comments
 
-1. Via the Admin Control Panel in Disqus, find the Import option and import the comments.
+1. On the Discussions Panel on Disqus, find the Import option to import the comments.
 
 ![Disqus Import]({{ site.images }}/jekyll-2.png)
 
@@ -153,6 +163,7 @@ One issue with leaving WordPress is that you lose comments. While you can use yo
     Disqus associates comments with a post using the URL. If you keep the same URL format from WordPress to Jekyll, then once you point your domain to the new site, it should all work.
     If you don't, Disqus offers various options on associating posts with comments. Phil Haack [recently blogged](http://haacked.com/archive/2013/12/09/preserving-disqus-comments-with-jekyll/) about one way using hidden fields.
 
+
 #### Setting up Statistics
 
 WordPress offers statistics. Jekyll does not. I switched to Google Analytics, which basically consists of:
@@ -161,9 +172,11 @@ WordPress offers statistics. Jekyll does not. I switched to Google Analytics, wh
 
 2. Insert some code snippet at the bottom of the layout pages
 
+
 #### Setting up an RSS subscription
 
 Again, that's something that WordPress offers and Jekyll does not. You can use [Feedburner](http://feedburner.com). Fortunately I've always kept my RSS feed on there so that even if I move blog, I don't lose my subscribers.
+
 
 #### Setting up a custom domain
 
@@ -172,6 +185,7 @@ If you have a custom domain, like in my case, hadihariri.com, you can set it up 
 1. Create a new file named CNAME in the root of your site and add a single line which is your domain name (i.e. hadihariri.com)
 
 2. Setup a A record for your domain name to point to the correct IP address. [See this page for the IP address](https://help.github.com/articles/setting-up-a-custom-domain-with-pages)
+
 
 #### Go Live
 
@@ -185,10 +199,12 @@ Wait a few minutes and you should see your new site. If something goes wrong, yo
 
 before pushing.
 
-#### Writing Content
+
+#### Maintaining the site
 
 You can of course use any editor now to write content and if these support markdown, even better. Personally I use WebStorm and it works extremely well. I've got a few
 templates set up to create new posts, and it also helps when working with styling and refactoring elements.
+
 
 ### Not done yet
 
