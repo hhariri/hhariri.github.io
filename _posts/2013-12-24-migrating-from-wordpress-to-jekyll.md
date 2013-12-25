@@ -58,7 +58,11 @@ The process is:
 
 3. [Install Jekyll](http://jekyllrb.com/)
 
-4. Generate a site using 'jekyll new sitename'. This generates a folder named sitename. Copy the contents of this folder to your recently cloned directory.
+4. Generate a site using:
+
+        jekyll new sitename
+        
+    This generates a folder named 'sitename'. Copy the contents of this folder to your recently cloned directory.
 
     Quick explanation of the layout of the site:
 
@@ -78,7 +82,7 @@ modify more than just CSS and layout files, so it would be good to have the base
 
 6. Make sure it all runs. Type:
 
-    jekyll serve
+        jekyll serve
 
 on the command line, open up http://localhost:4000 and you should see the site.
 
@@ -96,10 +100,10 @@ Once you have the skeleton running, next step is to import posts.
 
 3. [Run the import for WordPress](http://import.jekyllrb.com/docs/wordpressdotcom/). Run this from the root folder of the new site and point to the location of the recently exported WordPress contents:
 
-    $ruby -rubygems -e 'require "jekyll-import";
-        JekyllImport::Importers::WordpressDotCom.run({
-        "source" => "wordpress.xml"
-    })'
+        $ruby -rubygems -e 'require "jekyll-import";
+            JekyllImport::Importers::WordpressDotCom.run({
+            "source" => "wordpress.xml"
+        })'
 
 4. If all goes well, you should now have all your posts in the _posts folder.
 
