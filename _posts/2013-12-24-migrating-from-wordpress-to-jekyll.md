@@ -16,7 +16,7 @@ While I've been thinking of doing the move for quite some time, recently I've be
 
 ### What is Jekyll?
 
-For those not familiar, Jekyll is a static web site generator written in Ruby. It uses a template engine named Liquid which supports HTML as well as various flavours of
+For those not familiar, [Jekyll](jekyllrb.com) is a static web site generator written in Ruby. It uses a template engine named Liquid which supports HTML as well as various flavours of
 markdown. You write your posts in HTML or markdown and run Jekyll, which then generates the entire site for you. Every page is then static.
 
 
