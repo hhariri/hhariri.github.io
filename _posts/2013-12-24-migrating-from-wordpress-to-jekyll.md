@@ -149,6 +149,41 @@ One issue with leaving WordPress is that you lose comments. While you can use yo
 
 2. Install the script required in the layout page corresponding to your posts
 
+**Important Update**
+
+[Phillip Haydon](https://twitter.com/philliphaydon), creator of [Sandra.Snow](https://github.com/Sandra/Sandra.Snow), i.e. of Jekyll to .NET, pointed out to me an important issue with
+Disqus. Disqus treats
+
+        http://hadihariri.com/yyyy/mm/dd/title
+
+and
+
+        http://hadihariri.com/yyyy/mm/dd/title/
+
+and
+
+        http://hadihariri.com/yyyy/mm/dd/title/index.html
+
+as different URL's and creates different threads for them.
+
+To fix this, and also fix it so that Google realizes it's the same document, add two things:
+
+1. A canonical link to the header of each document so that 'doc/index.html' refers to 'doc/'. You can do this easily using the following line in your layout file.
+
+{% raw %}
+        <link rel="canonical" href="http://domain.com{{ page.url | replace:'index.html','' }}" />
+{% endraw %}
+
+2. Add a variable to the Disqus code named 'disqus_url' with:
+
+{% raw %}
+        var disqus_url = "http://domain.com{{ page.url | replace:'index.html','' }}";
+{% endraw %}
+
+(replace domain.com with your domain).
+
+Thanks Phillip!
+
 
 #### Importing Comments
 
@@ -203,7 +238,7 @@ before pushing.
 #### Maintaining the site
 
 You can of course use any editor now to write content and if these support markdown, even better. Personally I use [WebStorm](http://www.jetbrains.com/webstorm) and it works extremely well. I've got a few
-templates set up to create new posts, it offers spell checker, and it also helps when working with styling and refactoring elements.
+templates set up to create new posts, it offers spell checker, navigation and it also helps when working with styling and refactoring elements.
 
 
 ### Not done yet
