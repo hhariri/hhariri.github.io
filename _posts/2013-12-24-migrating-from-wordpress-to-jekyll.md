@@ -8,8 +8,8 @@ published: true
 
 ### Why migrate?
 
-I was using a hosted solution of WordPress on WordPress.com with a custom domain. I didn't have control over the plug-ins I could install or certain things I wanted
-to do. I found it limited.
+I was using a hosted solution of WordPress on WordPress.com with a custom domain. I didn't have control over the plugins I could install or certain things I wanted
+to do. I found it limiting.
 
 While I've been thinking of doing the move for quite some time, recently I've been working on a new site using GitHub Pages / Jekyll and enjoyed the experience, so finally decided to move.
 
