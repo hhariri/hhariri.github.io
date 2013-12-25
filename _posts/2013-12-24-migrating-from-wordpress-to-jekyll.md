@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Migrating from wordpress.com to Jekyll
+title: Migrating from WordPress.com to Jekyll
 status: publish
 type: post
 published: true
