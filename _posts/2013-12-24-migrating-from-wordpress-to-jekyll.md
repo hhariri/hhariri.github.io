@@ -212,6 +212,11 @@ WordPress offers statistics. Jekyll does not. I switched to Google Analytics, wh
 
 Again, that's something that WordPress offers and Jekyll does not. You can use [Feedburner](http://feedburner.com). Fortunately I've always kept my RSS feed on there so that even if I move blog, I don't lose my subscribers.
 
+1. Use any of a number of RSS generators. I use [this one](https://github.com/snaptortoise/jekyll-rss-feeds)
+
+2. Point Feedburner to the generated file (previous one is http://domain.com/feed.xml)
+
+
 
 #### Setting up a custom domain
 
