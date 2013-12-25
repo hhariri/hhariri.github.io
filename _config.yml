@@ -4,3 +4,7 @@ pygments:     true
 paginate:     5
 
 images:       /images
+
+name: Hadi Hariri
+description: Rambling of mostly technical nature
+url: http://hadihariri.com
