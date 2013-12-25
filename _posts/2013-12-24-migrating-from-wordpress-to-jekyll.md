@@ -70,7 +70,8 @@ The process is:
     * *_posts* contains all posts. Jekyll follows a specific file name: yyyy-mm-dd-title.md
     * *_layout* contains templates which are used by Liquid for layout
 
-    [Certain folders](http://jekyllrb.com/docs/structure/) such as _posts (most special ones start with underscore), are processed when Jekyll is run. In particular, all entries in the _posts
+    [Certain folders](http://jekyllrb.com/docs/structure/) such as *_posts*
+    (special ones start with underscore), are processed when Jekyll is run. In particular, all entries in the _posts
     folder are processed and corresponding post entries are created.
 
     All generated files are placed in a folder named *_site*.
