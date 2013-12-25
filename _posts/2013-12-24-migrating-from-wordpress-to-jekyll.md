@@ -29,7 +29,7 @@ but GitHub also has intrinsic knowledge of Jekyll. What this basically means is:
 3. You push your changes
 4. GitHub automatically runs Jekyll for you and generates the site
 
-Thus making the whole publishing process much more streamlined. You don't need to upload your entire site every time.
+thus making the whole publishing process much more streamlined. And, you don't need to upload your entire site every time.
 
 
 ### How to do it
