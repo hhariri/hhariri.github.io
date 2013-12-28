@@ -7,7 +7,11 @@
     <link href="http://gmpg.org/xfn/11" rel="profile">
 
     <title>
-        Hadi Hariri
+        {% if page.title == '' %}
+            Hadi Hariri
+        {% else %}
+            {{ page.title }}
+        {% endif %}
     </title>
 
     <link rel="canonical" href="http://hadihariri.com{{ page.url | replace:'index.html','' }}" />
