@@ -208,13 +208,13 @@ I don't do much mocking lately, but I have used one that I found:
 
 ### HTTP Clients
 
-Using the standard Apache one. Open to better alternatives.
+Using the standard Apache Commons one. Open to better alternatives.
 
 * [Apache HTTP Client](http://hc.apache.org/httpclient-3.x/) - Using this one. Sorely lacking a wrapper.
 
 ### Web Frameworks
 
-A lot of the web frameworks are based off of a [common interface which is the Java Servlet API]http://en.wikipedia.org/wiki/Java_Servlet. Think of it as kind of like [OWIN](http://owin.org/).
+A lot of the web frameworks are based off of a [common interface which is the Java Servlet API](http://en.wikipedia.org/wiki/Java_Servlet. Think of it as kind of like [OWIN](http://owin.org/).
 
 Applications can then be hosted on [GlassFish](https://glassfish.java.net/), [Jetty](http://www.eclipse.org/jetty/), [Apache TomCat](http://tomcat.apache.org/).
 
@@ -225,6 +225,12 @@ A very modern and lightweight option for web development is [Vert.x](http://vert
 ### Networking
 
 * [Netty](http://netty.io/) - Awesome asynchronous event-driven framework for writing high-performance web applications. It abstracts the communication layer so you can use HTTP, Sockets, et al.
+
+### Other Libraries and Utilities
+
+* [JodaTime](http://www.joda.org/joda-time/) - Date and Time management in Java are horrendously broken. Worse than in .NET. Use JodaTime for sanity. This is where [NodaTime](https://code.google.com/p/noda-time/) from Jon Skeet originates.
+* [Reflections](https://code.google.com/p/reflections/) - Making Reflection nicer.
+* [Apache Commons](http://commons.apache.org/) - A bunch of small libraries for everyday use.
 
 ## Conventions
 
