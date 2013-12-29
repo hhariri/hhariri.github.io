@@ -35,6 +35,11 @@ Don't let one put you off the other. I don't like Java as a language, but the Ja
 you're probably familiar with libraries such as NHibernate, NUnit, NLog, NAnt, etc. all of which originate from the Java ecosystem
 (drop the N).
 
+
+### JVM Bytecode
+
+JVM bytecode is what JVM based languages compile down to to run on the JVM. It's similar to IL in .NET.
+
 ### A Multi-language platform
 
 If you think of the JVM as the CLR, albeit there are differences, both are virtual machines that provide a platform for multiple languages. The difference is that
@@ -56,7 +61,7 @@ Here we go:
 
 #### Editions
 
-* **JRE - Java Runtime Environment**. This is for running Java Applications. You can't develop Java Application though with just this.
+* **JRE - Java Runtime Environment**. This is for running JVM applications. You can't develop applications running on the JVM with just this.
 * **Java SE (JDK)** - Java Standard Edition. Also known as the JDK. This is the minimum of what you need. It's like installing the .NET Framework.
 * **Java EE** - Java Enterprise Edition. Well, name says it all. It's where you get all the Enterprisey stuff like distributed, large-scale applications. Yes, couldn't be more ambiguous. It includes Java SE.
 * **Java ME** - Java Micro Edition. This is a smaller subset focused for mobile phones and smaller devices. It's like te .NET Micro Framework.
@@ -80,11 +85,9 @@ You'll get something like this:
     Java(TM) SE Runtime Environment (build 1.7.0_40-b43)
     Java HotSpot(TM) 64-Bit Server VM (build 24.0-b56, mixed mode)
 
-That's Java 7. Why? Well easy, drop the 1 from 1.7.0_40 and you get 7.0_40.
+That's Java 7. Why? Well easy, drop the 1 from 1.7.0_40 and you get 7.0_40. The 0_40 indicates the update pack. For Java 7 see all [releases](http://www.java.com/en/download/faq/release_dates.xml)
 
 Basically 1.5 means Java 5. 1.6 is Java 6. 1.7 is Java 7 and yes, you guessed it, Java 8 will be 1.8.
-
-The 0_40 indicates the update pack. For Java 7 see all [releases](http://www.java.com/en/download/faq/release_dates.xml)
 
 Yes. I know.
 
@@ -107,7 +110,7 @@ These classes are JVM bytecode, which is similar to IL on the CLR.
 ### JAR Files
 
 Instead of shipping a hundred class files, you can also create a JAR which is nothing more than a zipped up version of the *.class* files. You can create JAR files using
-your favorite tool or simplying running
+your favorite tool or simply running
 
     jar cf jar-file input-file(s)
 
@@ -137,7 +140,7 @@ You can set the CLASSPATH environment variable globally, which will then be used
     java <class_containing_main_method> -cp <class_path>
 
 
-Each entry is separated by :.
+Each entry is separated by a colon.
 
 ## Build Tools
 
