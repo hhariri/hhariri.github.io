@@ -24,8 +24,8 @@ While it is a blog post, it is also a page that I will update as and when I come
 
 ### Target Audience
 
-Although the title says "for the .NET Developer", this guide is for anyone that is new to the JVM platform. Although there will be some comparison to the .NET platform.
-If you're not a C#/.NET Developer, then just pretend those comparisons don't exist.
+Although the title says "for the .NET Developer", this guide is for anyone that is new to the JVM platform. While there will be some comparison to the .NET platform, it is not
+exclusively targeted at .NET Developers.
 
 ## The Basics
 
@@ -39,8 +39,8 @@ you're probably familiar with libraries such as NHibernate, NUnit, NLog, NAnt, e
 
 ### A Multi-language platform
 
-If you think of the JVM as the CLR, albeit there are differences, both are virtual machines that provide a platform for multiple languages. The difference is that
-on the JVM there really are many languages. While on the CLR, we mostly have C#, VB.NET (a dying bread) and F#, on the JVM there is Java, Scala, Clojure, Ceylon, Groovy, JRuby and Kotlin just to [name a few](http://en.wikipedia.org/wiki/List_of_JVM_languages)
+Think of the JVM as the CLR. Both are virtual machines that provide a platform for multiple languages. They have their differences of course, but both host multiple languages.
+While on the CLR, we mostly have C#, VB.NET (a dying breed) and F#, on the JVM there is Java, Scala, Clojure, Ceylon, Groovy, JRuby and Kotlin just to [name a few](http://en.wikipedia.org/wiki/List_of_JVM_languages).
 
 ### JVM Bytecode
 
@@ -48,7 +48,7 @@ JVM bytecode is what JVM based languages compile down to to run on the JVM. It's
 
 ### Cross Platform
 
-The JVM is 100% cross platform. Apart from Windows, OSX, Linux and Android it runs on many other types of devices.
+The JVM is 100% cross platform. Apart from Windows, OSX, Linux and Android, it also runs on many other types of devices.
 
 ## JVM Implementations, Editions and Versions
 
@@ -63,9 +63,9 @@ Here we go:
 #### Editions
 
 * **JRE - Java Runtime Environment**. This is for running JVM applications. You can't develop applications running on the JVM with just this.
-* **Java SE (JDK) - Java Standard Edition**. Also known as the JDK. This is the minimum of what you need. It's like installing the .NET Framework.
+* **Java SE (JDK) - Java Standard Edition**. Also known as the JDK. This is the minimum you need to develop applications on the JVM.
 * **Java EE - Java Enterprise Edition**. Well, name says it all. It's where you get all the Enterprisey stuff like distributed, large-scale applications. Yes, couldn't be more ambiguous. It includes Java SE.
-* **Java ME - Java Micro Edition**. This is a smaller subset focused for mobile phones and smaller devices. It's like te .NET Micro Framework.
+* **Java ME - Java Micro Edition**. This is a smaller subset focused for mobile phones and smaller devices. It's like the .NET Micro Framework.
 * **JavaFX** - A newer platform for creating rich Internet applications. Yeah.
 
 As you can deduce, all Java XY's are also JDK's.
@@ -151,7 +151,7 @@ such as Clojure have their Leiningen in Clojure or SBT for Scala, most languages
 
 ### Ant
 
-It's XML. It's what NAnt is based on. It's like MS-Build. Unfortunately, it's XML.
+It's XML. It's what NAnt is based on. It's like MS-Build. I did mention though it's XML.
 
 ### Maven
 
@@ -177,7 +177,7 @@ IntelliJ IDEA and TeamCity.
 ## Frameworks and Libraries
 
 There are far too many frameworks and libraries to list, so I'm going to limit this section to what I've discovered or has been recommended to me based on my own needs. If you
-think there are other must-haves, please, send me a [pull request](http://github.com/hhariri/hhariri.github.io)
+think there are other must-haves, please, send me a [pull request](http://github.com/hhariri/hhariri.github.io).
 
 ### JSON Serialization
 
