@@ -61,9 +61,9 @@ Here we go:
 #### Editions
 
 * **JRE - Java Runtime Environment**. This is for running JVM applications. You can't develop applications running on the JVM with just this.
-* **Java SE (JDK)** - Java Standard Edition. Also known as the JDK. This is the minimum of what you need. It's like installing the .NET Framework.
-* **Java EE** - Java Enterprise Edition. Well, name says it all. It's where you get all the Enterprisey stuff like distributed, large-scale applications. Yes, couldn't be more ambiguous. It includes Java SE.
-* **Java ME** - Java Micro Edition. This is a smaller subset focused for mobile phones and smaller devices. It's like te .NET Micro Framework.
+* **Java SE (JDK) - Java Standard Edition**. Also known as the JDK. This is the minimum of what you need. It's like installing the .NET Framework.
+* **Java EE - Java Enterprise Edition**. Well, name says it all. It's where you get all the Enterprisey stuff like distributed, large-scale applications. Yes, couldn't be more ambiguous. It includes Java SE.
+* **Java ME - Java Micro Edition**. This is a smaller subset focused for mobile phones and smaller devices. It's like te .NET Micro Framework.
 * **JavaFX** - A newer platform for creating rich Internet applications. Yeah.
 
 As you can deduce, all Java XY's are also JDK's.
