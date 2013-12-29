@@ -297,4 +297,6 @@ I've been going to Java Conferences for the past few years even when I wasn't do
 
 There are also some 'cross-platform' conferences such as [QCon](http://qconlondon.com), [YOW!](http://yowconference.com.au), [GOTO](http://gotocon.com), etc.
 
+## IntelliJ IDEA for the Visual Studio User
 
+// TODO
