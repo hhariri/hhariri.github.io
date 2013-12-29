@@ -2,7 +2,6 @@ markdown:     rdiscount
 permalink:    /:year/:month/:day/:title/
 pygments:     true
 paginate:     5
-
 images:       /images
 
 name: Hadi Hariri
