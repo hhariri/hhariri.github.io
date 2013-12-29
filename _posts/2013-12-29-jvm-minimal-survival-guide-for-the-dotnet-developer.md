@@ -286,6 +286,11 @@ A collection of tools that I find useful and will add to as I come across them.
 * [JRebel](http://zeroturnaround.com/software/jrebel/) - Awesome plugin to IntelliJ IDEA and other IDE's that allows for hot-swapping, i.e run code without re-compiling.
 * [YourKit](http://www.yourkit.com/) - Java Profiler
 
+## IntelliJ IDEA for the Visual Studio User
+
+// TODO
+
+
 ## Conferences
 
 I've been going to Java Conferences for the past few years even when I wasn't doing more Java development. Here's a pick of some I've gone to that are decent:
@@ -296,7 +301,3 @@ I've been going to Java Conferences for the past few years even when I wasn't do
 * [JavaOne](http://www.oracle.com/javaone/index.html) - The Big One. This is like the TechEd of the Java world.
 
 There are also some 'cross-platform' conferences such as [QCon](http://qconlondon.com), [YOW!](http://yowconference.com.au), [GOTO](http://gotocon.com), etc.
-
-## IntelliJ IDEA for the Visual Studio User
-
-// TODO
