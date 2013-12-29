@@ -8,6 +8,8 @@ published: true
 
 **Last updated:** 29 December, 2013
 
+* Test
+{:toc}
 
 ## Why this Guide
 
@@ -38,7 +40,7 @@ you're probably familiar with libraries such as NHibernate, NUnit, NLog, NAnt, e
 ### A Multi-language platform
 
 If you think of the JVM as the CLR, albeit there are differences, both are virtual machines that provide a platform for multiple languages. The difference is that
-on the JVM there really are many languages. While on the CLR, we mostly have C#, VB.NET (a dying bread) and F#, on the JVM there is Java, Scala, Clojure, Ceylon, Groovy, JRuby, Go and Kotlin just to [name a few](http://en.wikipedia.org/wiki/List_of_JVM_languages)
+on the JVM there really are many languages. While on the CLR, we mostly have C#, VB.NET (a dying bread) and F#, on the JVM there is Java, Scala, Clojure, Ceylon, Groovy, JRuby, JGo and Kotlin just to [name a few](http://en.wikipedia.org/wiki/List_of_JVM_languages)
 
 ### JVM Bytecode
 

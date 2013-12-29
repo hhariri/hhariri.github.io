@@ -1,4 +1,4 @@
-markdown:     rdiscount
+markdown: kramdown
 permalink:    /:year/:month/:day/:title/
 pygments:     true
 paginate:     5
