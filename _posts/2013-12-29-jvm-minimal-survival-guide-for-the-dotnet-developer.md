@@ -11,8 +11,8 @@ published: true
 
 ## Why this Guide
 
-When you come from a similar platform, you often spend time trying to get up to speed with concepts/frameworks you know, but you don't know, because they go by a different name, a different approach.
-It's time-consuming and sometimes even frustrating. This guide is an attempt to help others.
+When you come to a new platform, from a similar one, you often spend time trying to get up to speed with concepts/frameworks you know, but you don't know, because they go by a different name, a different approach.
+It's time-consuming and sometimes even frustrating. This guide is an attempt to help others avoid some of those newbie questions.
 
 This guide is also to help me, as I'm sure I've made and will make mistakes, so please let me know if you see any errors. Or better yet, send me a [pull request](http://github.com/hhariri/hhariri.github.io)
 
@@ -42,7 +42,7 @@ on the JVM there really are many languages. While on the CLR, we mostly have C#,
 
 ### Cross Platform
 
-The JVM is 100% cross platform. Apart from Windows, OSX, Linux and Android it runs on thousands of devices.
+The JVM is 100% cross platform. Apart from Windows, OSX, Linux and Android it runs on many other types of devices.
 
 ## JVM Implementations, Editions and Versions
 
@@ -215,7 +215,7 @@ A lot of the web frameworks are based off of a [common interface which is the Ja
 
 Applications can then be hosted on [GlassFish](https://glassfish.java.net/), [Jetty](http://www.eclipse.org/jetty/), [Apache TomCat](http://tomcat.apache.org/).
 
-Oh btw, Oracle announced it will discontinue GlassFish commercial support and its main Evangelist, Arun Gupta, recently left Oracle for RedHate. [He now offers as alternative WildFly]http://blog.arungupta.me/2013/12/webinar-wildfly-for-innovation-redhat-jboss-eap-for-commercial-support/)
+Oh btw, Oracle announced it will discontinue GlassFish commercial support and its main Evangelist, Arun Gupta, recently left Oracle for RedHate. [He now offers as alternative WildFly](http://blog.arungupta.me/2013/12/webinar-wildfly-for-innovation-redhat-jboss-eap-for-commercial-support/)
 
 A very modern and lightweight option for web development is [Vert.x](http://vertx.io/). Built on [Netty](networking), you can even use different languages such as Java, JavaScript, Ruby.
 
