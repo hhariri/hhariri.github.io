@@ -213,7 +213,7 @@ Using the standard Apache Commons one. Open to better alternatives.
 
 ### Web Frameworks
 
-A lot of the web frameworks are based off of a [common interface which is the Java Servlet API](http://en.wikipedia.org/wiki/Java_Servlet. Think of it as kind of like [OWIN](http://owin.org/).
+A lot of the web frameworks are based off of a [common interface which is the Java Servlet API](http://en.wikipedia.org/wiki/Java_Servlet). Think of it as kind of like [OWIN](http://owin.org/).
 
 Applications can then be hosted on [GlassFish](https://glassfish.java.net/), [Jetty](http://www.eclipse.org/jetty/), [Apache TomCat](http://tomcat.apache.org/).
 
