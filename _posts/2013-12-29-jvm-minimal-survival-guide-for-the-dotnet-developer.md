@@ -35,15 +35,14 @@ Don't let one put you off the other. I don't like Java as a language, but the Ja
 you're probably familiar with libraries such as NHibernate, NUnit, NLog, NAnt, etc. all of which originate from the Java ecosystem
 (drop the N).
 
-
-### JVM Bytecode
-
-JVM bytecode is what JVM based languages compile down to to run on the JVM. It's similar to IL in .NET.
-
 ### A Multi-language platform
 
 If you think of the JVM as the CLR, albeit there are differences, both are virtual machines that provide a platform for multiple languages. The difference is that
 on the JVM there really are many languages. While on the CLR, we mostly have C#, VB.NET (a dying bread) and F#, on the JVM there is Java, Scala, Clojure, Ceylon, Groovy, JRuby, Go and Kotlin just to [name a few](http://en.wikipedia.org/wiki/List_of_JVM_languages)
+
+### JVM Bytecode
+
+JVM bytecode is what JVM based languages compile down to to run on the JVM. It's similar to IL in .NET.
 
 ### Cross Platform
 
