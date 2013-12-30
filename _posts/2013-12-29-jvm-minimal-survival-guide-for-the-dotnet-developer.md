@@ -220,7 +220,7 @@ A lot of the web frameworks are based off of a [common interface which is the Ja
 
 Applications can then be hosted on [GlassFish](https://glassfish.java.net/), [Jetty](http://www.eclipse.org/jetty/), [Apache TomCat](http://tomcat.apache.org/).
 
-Oh btw, Oracle announced it will discontinue GlassFish commercial support and its main Evangelist, Arun Gupta, recently left Oracle for RedHate. [He now offers as alternative WildFly](http://blog.arungupta.me/2013/12/webinar-wildfly-for-innovation-redhat-jboss-eap-for-commercial-support/)
+Oh btw, Oracle announced it will discontinue GlassFish commercial support and its main Evangelist, Arun Gupta, recently left Oracle for RedHat. [He now offers as alternative WildFly](http://blog.arungupta.me/2013/12/webinar-wildfly-for-innovation-redhat-jboss-eap-for-commercial-support/)
 
 A very modern and lightweight option for web development is [Vert.x](http://vertx.io/). Built on [Netty](networking), you can even use different languages such as Java, JavaScript, Ruby.
 
