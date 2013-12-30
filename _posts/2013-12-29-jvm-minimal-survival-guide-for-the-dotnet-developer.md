@@ -66,7 +66,8 @@ Here we go:
 * **Java SE (JDK) - Java Standard Edition**. Also known as the JDK. This is the minimum you need to develop applications on the JVM.
 * **Java EE - Java Enterprise Edition**. Well, name says it all. It's where you get all the Enterprisey stuff like distributed, large-scale applications. Yes, couldn't be more ambiguous. It includes Java SE.
 * **Java ME - Java Micro Edition**. This is a smaller subset focused for mobile phones and smaller devices. It's like the .NET Micro Framework.
-* **JavaFX** - A newer platform for creating rich Internet applications. Yeah.
+* **JavaFX** - A newer platform for creating RIA's (as if HTML/JS/CSS isn't good enough?). It's also meant as a replacement for Swing, which was/is the main GUI toolkit in Java.
+
 
 As you can deduce, all Java XY's are also JDK's.
 
