@@ -378,4 +378,12 @@ hr.style-eight:after {
 }
 
 
+table, th, td
+{
+    border: 1px solid #3e3e3e;
+}
+
+table th {
+    background-color: #686868;
+}
 
