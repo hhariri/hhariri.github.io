@@ -48,7 +48,7 @@ JVM bytecode is what JVM based languages compile down to to run on the JVM. It's
 
 ### Cross Platform
 
-The JVM is 100% cross platform. Apart from Windows, OSX, Linux and Android, it also runs on many other types of devices.
+The JVM is 100% cross platform. Apart from Windows, OSX and Linux, it also runs on many other types of devices.
 
 ## JVM Implementations, Editions and Versions
 
