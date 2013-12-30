@@ -302,3 +302,12 @@ I've been going to Java Conferences for the past few years even when I wasn't do
 * [JavaOne](http://www.oracle.com/javaone/index.html) - The Big One. This is like the TechEd of the Java world.
 
 There are also some 'cross-platform' conferences such as [QCon](http://qconlondon.com), [YOW!](http://yowconference.com.au), [GOTO](http://gotocon.com), etc.
+
+## Changelog
+
+Tracks changes made to this guide.
+
+| Date | Change |
+| 30 December | Added reference to Swing in JavaFX. Added ChangeLog Section |
+
+
