@@ -308,6 +308,7 @@ There are also some 'cross-platform' conferences such as [QCon](http://qconlondo
 Tracks changes made to this guide.
 
 | Date | Change |
+|------|--------|
 | 30 December | Updated JavaFX description. Added ChangeLog Section |
 
 
