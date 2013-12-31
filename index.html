@@ -2,20 +2,16 @@
 layout: default
 title: Hadi Hariri
 ---
-
+<img src="/images/header1.png" class="welcome">
 <div class="posts">
+  <h2>Latest Blog Posts</h2>
+  <br/>
   {% for post in paginator.posts %}
   <div class="post">
-    <h1>
       <a href="{{ post.url }}">
-        <p class="title">{{ post.title }}</p>
+        <p class="title-entry">{{ post.title }} - <span class="post-date">{{ post.date | date_to_long_string }}</span></p>
       </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-    <hr class="style-eight">
+    <hr class="line-style">
   </div>
   {% endfor %}
 </div>

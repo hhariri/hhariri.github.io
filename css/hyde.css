@@ -32,9 +32,9 @@ Learn more at http://andhyde.com or https://github.com/mdo/hyde.
 
 html,
 body {
-  margin: 0;
   padding: 0;
 }
+
 
 body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
@@ -77,7 +77,6 @@ p {
 
 hr {
   position: relative;
-  margin: 40px 0;
   border: 0;
   border-top: 1px solid #eee;
   border-bottom: 1px solid #fff;
@@ -228,11 +227,13 @@ ol, ul {
 
 /* Single post */
 .post {
-  margin-top: 40px;
-  margin-bottom: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
+
 .post-date {
-  display: block;
+  display: inline;
+  font-size: 0.8em;
   margin: -10px 0 10px;
   color: #9a9a9a;
 }
@@ -267,24 +268,16 @@ ol, ul {
   background-color: #f5f5f5;
 }
 
-hr.style-eight {
+hr.line-style {
     padding: 0;
-    border: none;
-    border-top: thin;
-    color: #6b6b6b;
+    border-style: dotted;
+    color: #3e3e3e;
     text-align: center;
 }
 
-hr.style-eight:after {
-    content: "§";
-    display: inline-block;
-    position: relative;
-    top: -0.7em;
-    font-size: 1em;
-    padding: 0 0.25em;
-    background: white;
+.title-entry a:hover {
+    background-color: #848484;
 }
-
 /* Responsive
 -------------------------------------------------- */
 
@@ -343,8 +336,8 @@ hr.style-eight:after {
   }
   /* Increase space between posts */
   .post {
-    margin-top: 60px;
-    margin-bottom: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
 
   /* Make pagination stand alone */
@@ -370,6 +363,11 @@ hr.style-eight:after {
     color: #5c5e5f;
 }
 
+.title-entry {
+    color: #5a5c5d;
+    font-size: 1.2em;
+}
+
 .about {
     margin-top: 3em;
     display: inline-block;
@@ -392,4 +390,11 @@ table th {
     color: #ffffff;
     border: 1px solid #6d6d6d;
     padding: 3px;
+}
+
+.welcome {
+    width: 100%;
+    float: left;
+    font-size: 3em;
+    margin-bottom: 30px;
 }

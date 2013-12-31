@@ -1,7 +1,7 @@
 markdown: kramdown
 permalink:    /:year/:month/:day/:title/
 pygments:     true
-paginate:     5
+paginate:     15
 images:       /images
 
 name: Hadi Hariri
