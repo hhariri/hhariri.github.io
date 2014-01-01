@@ -11,6 +11,7 @@ meta:
   draftfeedback_requests: a:2:{s:13:"529e234d4c50b";a:3:{s:3:"key";s:13:"529e234d4c50b";s:4:"time";s:10:"1386095437";s:7:"user_id";s:7:"5078411";}s:13:"529e253a8f208";a:3:{s:3:"key";s:13:"529e253a8f208";s:4:"time";s:10:"1386095930";s:7:"user_id";s:7:"5078411";}}
   _publicize_pending: '1'
   _elasticsearch_indexed_on: '2013-12-05 23:00:41'
+comments: true
 ---
 Did you call out on the other kids in School?
 

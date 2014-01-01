@@ -15,6 +15,7 @@ meta:
   draftfeedback_requests: a:1:{s:13:"50fd6ae5cc0ad";a:3:{s:3:"key";s:13:"50fd6ae5cc0ad";s:4:"time";s:10:"1358785253";s:7:"user_id";s:7:"5078411";}}
   _publicize_pending: '1'
   _elasticsearch_indexed_on: '2013-01-21 18:35:17'
+comments: true
 ---
 Take a look at the following code, an example of a specification written using <a href="http://github.com/hhariri/spek">spek</a>
 

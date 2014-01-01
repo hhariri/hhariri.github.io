@@ -11,6 +11,7 @@ meta:
   draftfeedback_requests: a:1:{s:13:"52190df978a85";a:3:{s:3:"key";s:13:"52190df978a85";s:4:"time";s:10:"1377373689";s:7:"user_id";s:7:"5078411";}}
   _publicize_pending: '1'
   _elasticsearch_indexed_on: '2013-08-24 19:46:57'
+comments: true
 ---
 Microsoft uses a system to <a href="http://www.slate.com/blogs/future_tense/2013/08/23/stack_ranking_steve_ballmer_s_employee_evaluation_system_and_microsoft_s.html">evaluate its employees</a>, commonly referred to as <em>stack ranking</em>. To quote the article:
 <blockquote>“The system—also referred to as “the performance model,” “the bell curve,” or just “the employee review”—has, with certain variations over the years, worked like this: <strong>every unit was forced to declare a certain percentage of employees as top performers, then good performers, then average, then below average, then poor. …”</strong></blockquote>

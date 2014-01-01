@@ -14,6 +14,7 @@ meta:
   _elasticsearch_indexed_on: '2013-10-16 05:24:11'
   twitter_cards_summary_img_size: a:6:{i:0;i:610;i:1;i:499;i:2;i:3;i:3;s:24:"width="610"
     height="499"";s:4:"bits";i:8;s:4:"mime";s:9:"image/png";}
+comments: true
 ---
 Did you know that Kotlin can target JavaScript as well as the JVM? Don’t be too surprised if you didn’t know, as we’ve not been giving it too much coverage, despite already shipping a <a href="http://blog.jetbrains.com/webide/2012/08/liveedit-plugin-features-in-detail/">successful product</a> that uses this capability. But here’s hoping to change things.
 <h1>The Basics – A Simple Project</h1>

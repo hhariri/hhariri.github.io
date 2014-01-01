@@ -11,6 +11,7 @@ published: true
 meta:
   _publicize_pending: '1'
   _elasticsearch_indexed_on: '2013-05-29 12:43:51'
+comments: true
 ---
 At the beginning of May, I held a Kotlin workshop at Skills Matter in London. The attendees had to go through a series of exercises to get familiar with Kotlin’s language constructs and then do two larger exercises.
 

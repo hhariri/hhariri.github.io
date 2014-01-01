@@ -12,6 +12,7 @@ published: true
 meta:
   _publicize_pending: '1'
   _elasticsearch_indexed_on: '2013-05-21 06:07:45'
+comments: true
 ---
 Did you know you can write applications for Android using <a href="http://kotlin.jetbrains.org">Kotlin</a> instead of Java? Here's how, in one minute!
 

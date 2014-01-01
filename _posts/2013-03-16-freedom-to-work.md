@@ -23,6 +23,7 @@ meta:
     ";}}}
   _publicize_pending: '1'
   _elasticsearch_indexed_on: '2013-03-16 08:38:47'
+comments: true
 ---
 Yahoo has <a href="http://www.businessinsider.com/marissa-mayer-tells-hundreds-of-remote-yahoo-employees-work-in-an-officeor-quit-2013-2">called in all their remote workers</a>. Come June, they're either sitting at desk in Silicon Valley or they're looking for another job.
 

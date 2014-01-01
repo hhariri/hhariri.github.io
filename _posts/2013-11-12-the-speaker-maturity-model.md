@@ -13,6 +13,7 @@ meta:
   _elasticsearch_indexed_on: '2013-11-12 15:29:09'
   twitter_cards_summary_img_size: a:6:{i:0;i:1544;i:1;i:1348;i:2;i:3;i:3;s:26:"width="1544"
     height="1348"";s:4:"bits";i:8;s:4:"mime";s:9:"image/png";}
+comments: true
 ---
 <p style="text-align:center;"><img class="size-medium wp-image-3119 aligncenter" alt="Levels" src="{{ site.images }}/levelagain.png?w=300" width="300" height="262" /></p>
 <strong><em style="line-height:1.714285714;font-size:1rem;">Dear Conference Organizers</em></strong><span style="line-height:1.714285714;font-size:1rem;">,</span>

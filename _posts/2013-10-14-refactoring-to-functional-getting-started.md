@@ -14,6 +14,7 @@ meta:
   draftfeedback_requests: a:1:{s:13:"525ae6c4d104e";a:3:{s:3:"key";s:13:"525ae6c4d104e";s:4:"time";s:10:"1381689028";s:7:"user_id";s:7:"5078411";}}
   _publicize_pending: '1'
   _elasticsearch_indexed_on: '2013-10-13 22:00:48'
+comments: true
 ---
 This is a multi-part series on Refactoring to Functional Programming
 <ol>

@@ -15,6 +15,7 @@ meta:
   draftfeedback_requests: a:1:{s:13:"5112442000c21";a:3:{s:3:"key";s:13:"5112442000c21";s:4:"time";s:10:"1360151584";s:7:"user_id";s:7:"5078411";}}
   _publicize_pending: '1'
   _elasticsearch_indexed_on: '2013-02-06 11:24:47'
+comments: true
 ---
 <h3>Scenario</h3> <p>You're running an OSS project* and someone makes a pull request. You've got two choices:</p>
 

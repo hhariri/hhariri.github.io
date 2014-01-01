@@ -14,6 +14,7 @@ meta:
   _elasticsearch_indexed_on: '2013-01-09 21:07:18'
   twitter_cards_summary_img_size: a:6:{i:0;i:1200;i:1;i:202;i:2;i:3;i:3;s:25:"width="1200"
     height="202"";s:4:"bits";i:8;s:4:"mime";s:9:"image/png";}
+comments: true
 ---
 On YouTrack, you can vote for issues. There's a button right at the top, beneath the title. It's quite big. It doesn't say "Vote" but it's still pretty apparent 
 

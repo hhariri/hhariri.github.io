@@ -13,6 +13,7 @@ published: true
 meta:
   _publicize_pending: '1'
   _elasticsearch_indexed_on: '2013-11-24 16:08:26'
+comments: true
 ---
 This is a multi-part series on Refactoring to Functional Programming
 <ol>

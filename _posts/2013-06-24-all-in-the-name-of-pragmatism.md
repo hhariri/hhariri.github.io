@@ -12,6 +12,7 @@ meta:
   draftfeedback_requests: a:2:{s:13:"51c8105453a21";a:3:{s:3:"key";s:13:"51c8105453a21";s:4:"time";s:10:"1372065876";s:7:"user_id";s:7:"5078411";}s:13:"51c8174e71fd6";a:3:{s:3:"key";s:13:"51c8174e71fd6";s:4:"time";s:10:"1372067662";s:7:"user_id";s:7:"5078411";}}
   _publicize_pending: '1'
   _elasticsearch_indexed_on: '2013-06-24 09:20:45'
+comments: true
 ---
 
 Knowing what a Unit Test is

@@ -13,6 +13,7 @@ published: true
 meta:
   _publicize_pending: '1'
   _elasticsearch_indexed_on: '2012-12-31 07:14:55'
+comments: true
 ---
 Couple of days ago I discovered <a href="http://github.com/tinymission/kara">Kara</a>, a Web Framework written in <a href="http://kotlin.jetbrains.org">Kotlin</a>. 
 
