@@ -1,9 +1,67 @@
-markdown: kramdown
-permalink:    /:year/:month/:day/:title/
-pygments:     true
-paginate:     15
-images:       /images
+title:            Hadi Hariri
+description:      Ramblings of a mostly technical nature
+disqus_shortname: hadihariri
+#Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              http://hadihariri.com
+images:           /images
+# Owner/author information
+owner:
+  name:           Hadi Hariri
+  avatar:         pic.png
+  bio:            "Developer. Speaker. "
+  email:          mail@hadihariri.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        hhariri
+  facebook:       
+  github:         hhariri
+  stackexchange:  
+  linkedin:       http://es.linkedin.com/pub/hadi-hariri/83/68a/b03
+  instagram:      
+  flickr:         
+  tumblr:         
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:   https://plus.google.com/+HadiHariri1
 
-name: Hadi Hariri
-description: Rambling of mostly technical nature
-url: http://hadihariri.com
+# Background image to be tiled on all pages
+background: ps_neutral.png
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:  UA-381926-1
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Talks
+    url: /talks
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Madrid
+future:      true
+pygments:    true
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:year/:month/:day/:title/
+
+# Amount of post to show on home page
+paginate: 5
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: true
+
+  coderay:
+    coderay_line_numbers: nil
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

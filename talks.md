@@ -1,6 +1,13 @@
 ---
-layout: default
-title: "Talks and Presentations"
+layout: page
+permalink: /talks/
+title: Presentations
+tags: [talks, conferences, speaking]
+image:
+  feature: header.jpg
+  credit:
+  creditlink:
+share: true
 ---
 
 ## 2014
