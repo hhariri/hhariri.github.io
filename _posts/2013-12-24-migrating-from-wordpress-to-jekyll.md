@@ -4,6 +4,7 @@ title: Migrating from WordPress.com to Jekyll
 status: publish
 type: post
 published: true
+commenst: true
 ---
 
 ### Why migrate?

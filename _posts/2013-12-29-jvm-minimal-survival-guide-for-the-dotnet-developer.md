@@ -4,6 +4,7 @@ title: JVM Minimal Survival Guide for the .NET Developer
 status: draft
 type: post
 published: true
+comments: true
 ---
 
 **Last updated:** 30 December, 2013
