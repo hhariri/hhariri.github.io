@@ -17,8 +17,8 @@ comments: true
 ---
 This is a multi-part series on Refactoring to Functional Programming
 <ol>
-	<li><a href="https://hadihariri.com/2013/10/14/refactoring-to-functional-getting-started/">Getting Started</a></li>
-	<li><a href="https://hadihariri.com/2013/11/09/refactoring-to-functional-basic-primitives">Basic Primitives</a></li>
+	<li><a href="http://hadihariri.com/2013/10/14/refactoring-to-functional-getting-started/">Getting Started</a></li>
+	<li><a href="http://hadihariri.com/2013/11/09/refactoring-to-functional-basic-primitives">Basic Primitives</a></li>
 	<li>Reducing and Flattening Lists</li>
 	<li><a href="http://hadihariri.com/2013/11/24/refactoring-to-functionalwhy-class/">Why Class?</a></li>
 </ol>
