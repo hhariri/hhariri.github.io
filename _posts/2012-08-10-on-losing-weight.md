@@ -10,6 +10,7 @@ published: true
 meta:
   _wpas_skip_twitter: '1'
   _elasticsearch_indexed_on: '2012-08-10 07:03:55'
+comments: true
 ---
 Last year I ran into a friend of mine at a conference and was shocked to see how he'd lost over 20 Kg since the last time we'd met. It came around a time when I was feeling genuinely unhappy with my appearance and wanted to try losing weight. Having weighed at some point in my life 125 Kg and having dropped down to 73 Kg over the interval of a few years, I knew it was possible. Seeing him just gave me the motivation to try again.
 

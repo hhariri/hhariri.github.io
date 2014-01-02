@@ -9,6 +9,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2009-02-12 08:11:00'
+comments: true
 ---
 <p>
 My mother wants to become a computer programmer (not to be taken literally). And guess what, she can. With all the RAD environments nowadays you really don&#039;t need to know much about the basics of programming to <strong>make applications</strong>. You can use anything you want. First step, pick an environment. You have lots to choose from (Visual Studio, Delphi, Ruby on Rails). In under 1 hour you&#039;ll have your first application working. Next step, sell it.

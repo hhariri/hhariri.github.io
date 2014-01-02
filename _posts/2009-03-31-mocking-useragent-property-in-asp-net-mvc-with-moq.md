@@ -10,6 +10,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2009-03-31 06:54:26'
+comments: true
 ---
 A question popped up today about someone having trouble mocking the UserAgent property of a Controller. There's enough information on the Internet with solutions to this problem, so I'm going to describe how to figure it out if you don't have an Internet connection.
 

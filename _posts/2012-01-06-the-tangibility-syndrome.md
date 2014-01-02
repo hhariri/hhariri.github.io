@@ -11,6 +11,7 @@ published: true
 meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1385521007;}
   _elasticsearch_indexed_on: '2012-01-06 11:56:27'
+comments: true
 ---
 &nbsp;
 

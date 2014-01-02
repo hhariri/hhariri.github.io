@@ -16,6 +16,7 @@ meta:
   tagazine-media: a:7:{s:7:"primary";s:65:"http://hhariri.files.wordpress.com/2011/05/08-05-2011-9-52-45.png";s:6:"images";a:1:{s:65:"http://hhariri.files.wordpress.com/2011/05/08-05-2011-9-52-45.png";a:6:{s:8:"file_url";s:65:"http://hhariri.files.wordpress.com/2011/05/08-05-2011-9-52-45.png";s:5:"width";s:3:"732";s:6:"height";s:3:"414";s:4:"type";s:5:"image";s:4:"area";s:6:"303048";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:7:"5078411";s:7:"blog_id";s:8:"11677451";s:9:"mod_stamp";s:19:"2011-05-08
     07:57:25";}
   _elasticsearch_indexed_on: '2011-05-08 07:50:49'
+comments: true
 ---
 My talk at DevDays in The Netherlands on Real World Architectures with MVC is now available on Channel 9. It was my first TechDays Belgium / DevDays The Netherlands and I was quite impressed with organization. Kudos to <a href="http://twitter.com/katriendg">Katrien</a>, Helen, and everyone else involved. I'm guessing the videos from TechDays will be online at some point too, on <a href="http://dev9.cloudapp.net/Events/TechDays/TechDays-2011-Belgium">Channel 9</a>.
 

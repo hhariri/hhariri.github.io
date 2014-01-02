@@ -13,6 +13,7 @@ meta:
     1505
     video/avi
   _elasticsearch_indexed_on: '2009-04-16 23:13:09'
+comments: true
 ---
 <p>One of the cool features Resharper has is to allow you to define live code templates, i.e. snippets that you can interact with. Say for example you continuously type:</p> <p>&nbsp;</p> <div> <div style="font-size:8pt;overflow:visible;width:100%;color:black;line-height:12pt;font-family:consolas, 'Courier New', courier, monospace;background-color:#f4f4f4;border-style:none;padding:0;"><pre style="font-size:8pt;overflow:visible;width:100%;color:black;line-height:12pt;font-family:consolas, 'Courier New', courier, monospace;background-color:white;border-style:none;margin:0;padding:0;"><span style="color:#606060;">   1:</span> var customerServices = <span style="color:#0000ff;">new</span> Mock&lt;ICustomerServices&gt;();</pre></div></div>
 <p>&nbsp;</p>

@@ -9,6 +9,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2010-08-16 17:09:11'
+comments: true
 ---
 <a href="http://twitter.com/derickbailey">Derick Bailey</a> pointed out today on Twitter that during an upgrade, he lost his <a href="http://www.jetbrains.com/resharper">ReSharper</a> templates.
 

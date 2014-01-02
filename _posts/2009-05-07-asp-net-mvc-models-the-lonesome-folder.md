@@ -12,6 +12,7 @@ published: true
 meta:
   _elasticsearch_indexed_on: '2009-05-07 07:14:00'
   twitter_cards_summary_img_size: ''
+comments: true
 ---
 <p>
 ASP.NET MVC comes with a Models folder but no Model. Although some see this as a shortcoming, I&#039;m actually delighted that the framework does not bind me to a specific data technology or pattern. If I want to use Active Record I can use Castle&#039;s ActiveRecord. If I want to use a Repository Pattern, I can use NHibernate. If I want to throw something together for a quick prototype, I can use Linq 2 Sql. The advantage of not being tied to a specific data access pattern for me is a win situation.

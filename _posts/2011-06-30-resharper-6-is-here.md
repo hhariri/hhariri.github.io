@@ -12,6 +12,7 @@ published: true
 meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1385704308;}
   _elasticsearch_indexed_on: '2011-06-30 08:56:31'
+comments: true
 ---
 We are extremely happy to announce the release of the new ReSharper: please <strong><a href="http://www.jetbrains.com/resharper/download/?dotnetblog">download ReSharper 6</a> right now.</strong>
 

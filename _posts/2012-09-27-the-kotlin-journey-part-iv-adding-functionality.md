@@ -13,6 +13,7 @@ meta:
   _elasticsearch_indexed_on: '2012-09-27 11:45:27'
   twitter_cards_summary_img_size: a:6:{i:0;i:410;i:1;i:124;i:2;i:3;i:3;s:24:"width="410"
     height="124"";s:4:"bits";i:8;s:4:"mime";s:9:"image/png";}
+comments: true
 ---
 This is a multi-part series on Kotlin, a new statically typed language from JetBrains targeting the JVM and JavaScript
 

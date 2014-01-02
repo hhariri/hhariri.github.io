@@ -10,6 +10,7 @@ published: true
 meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1364993458;}
   _elasticsearch_indexed_on: '2008-12-07 16:24:00'
+comments: true
 ---
 <p>
 I just upgraded to the latest release of StructureMap (2.5) and spent a good portion of time trying to figure out a bug I was having in a complex dependency graph. The original exception is a StructureMap exception, with code 207, which per documentation, you need to look at the inner exception. The problem is that the inner exception isn&#039;t awfully helpful:

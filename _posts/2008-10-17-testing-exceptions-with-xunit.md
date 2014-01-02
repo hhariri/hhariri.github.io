@@ -9,6 +9,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2008-10-17 18:53:20'
+comments: true
 ---
 <p>Testing for exceptions in unit tests can be tricky. Most frameworks use the <em>ExpectedException </em>attribute to denote that the test will pass when a specific exception is raised. As an example, let's look at the following test:</p>  <p>&#160;</p>  <div style="border-bottom:gray 1px solid;border-left:gray 1px solid;line-height:12pt;background-color:#f4f4f4;width:97.5%;font-family:consolas, &#039;height:230px;max-height:200px;font-size:8pt;overflow:auto;border-top:gray 1px solid;cursor:text;border-right:gray 1px solid;margin:20px 0 10px;padding:4px;">   <div style="line-height:12pt;background-color:#f4f4f4;width:100%;font-family:consolas, &#039;color:black;font-size:8pt;overflow:visible;border-style:none;padding:0;">     <pre style="line-height:12pt;background-color:white;width:100%;font-family:consolas, &#039;color:black;font-size:8pt;overflow:visible;border-style:none;margin:0;padding:0;"><span style="color:#606060;">   1:</span> [TestMethod]</pre>
 

@@ -13,6 +13,7 @@ published: true
 meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1365252208;}
   _elasticsearch_indexed_on: '2012-06-18 07:20:14'
+comments: true
 ---
 <p>The three talks I gave at NDC a couple of weeks ago are now online. </p>
 <p>If you want to hear me rant on Prima Donna Developers:</p>

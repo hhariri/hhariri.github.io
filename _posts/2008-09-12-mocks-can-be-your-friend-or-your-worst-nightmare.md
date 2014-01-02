@@ -10,6 +10,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2008-09-12 06:56:54'
+comments: true
 ---
 <p>Take a look at the following test:</p>  <div class="csharpcode-wrapper">   <div class="csharpcode">     <div class="csharpcode-wrapper">       <div class="csharpcode">         <pre class="alt"><span class="lnum">   1:</span> <span class="kwrd">public</span> <span class="kwrd">void</span> EmployeeServicesTest_GetAllEmployeesByCompanyId_When_Employees_Are_Marked_Returns_Non_Marked_Employees()</pre>
 

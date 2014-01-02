@@ -13,6 +13,7 @@ published: true
 meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1385704308;}
   _elasticsearch_indexed_on: '2011-06-26 10:00:34'
+comments: true
 ---
 <p align="left">On and off I’ve been working on a .NET library that is a wrapper around <a href="http://www.jetbrains.com/youtrack/">YouTrack</a> ReST API’s.  If you’re not familiar with <a href="http://www.jetbrains.com/youtrack/">YouTrack</a>, it’s our Web-Based Issue Management system, which is currently at version 3 and recently we announced the <a href="http://www.jetbrains.com/youtrack/buy/index.jsp">availability of a free version</a>. If you like keyboard-centric tools (like for instance <a href="http://www.jetbrains.com/resharper">ReSharper</a>), you’ll love YouTrack.</p>
 <p align="left">YouTrack offers quite a lot of possibilities when it comes to interacting with it. I’ve previously <a href="http://hadihariri.com/2010/12/14/generating-graphs-for-youtrack-with-html-5-and-jquery/">blogged about how we can easily</a> create some HTML 5 graphs using nothing but the ReST API and some jQuery. Of course, we could also take advantage of this API from .NET using merely an <a href="http://hadihariri.com/2011/01/16/easyhttp/">HTTP client</a>.</p>

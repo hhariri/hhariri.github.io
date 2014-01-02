@@ -11,6 +11,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2009-12-01 16:40:00'
+comments: true
 ---
 <p>
 I recently wrote a small 500 word article on Behavior Driven Development and

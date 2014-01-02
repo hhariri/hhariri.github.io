@@ -12,6 +12,7 @@ meta:
   _wpas_skip_twitter: '1'
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1386313011;}
   _elasticsearch_indexed_on: '2012-03-04 22:04:03'
+comments: true
 ---
 I posted this on Twitter today.
 

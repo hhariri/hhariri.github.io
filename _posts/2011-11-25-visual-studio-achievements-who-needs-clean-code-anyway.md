@@ -17,6 +17,7 @@ meta:
   _elasticsearch_indexed_on: '2011-11-25 07:56:04'
   twitter_cards_summary_img_size: a:6:{i:0;i:487;i:1;i:302;i:2;i:3;i:3;s:24:"width="487"
     height="302"";s:4:"bits";i:8;s:4:"mime";s:9:"image/png";}
+comments: true
 ---
 I stumbled upon <a href="http://channel9.msdn.com/achievements/visualstudio/">Visual Studio Achievements</a> this morning via <a href="http://twitter.com/#!/maartenballiauw/">Maarten</a>. The idea of combining development with game play might be enticing to some and as others have pointed out, could be a way to introduce younger generations to development and potentially get them interested. As such, the idea in itself is not an issue. What is however disturbing is the point system.
 

@@ -10,36 +10,6 @@ status: publish
 type: post
 published: true
 meta:
-  reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1366805825;}
-  draftfeedback_requests: a:4:{s:19:"mail@hadihariri.com";a:3:{s:3:"key";s:13:"4f833bd669073";s:4:"time";s:10:"1334000598";s:7:"user_id";s:7:"5078411";}s:13:"4f8362ffb1945";a:3:{s:3:"key";s:13:"4f8362ffb1945";s:4:"time";s:10:"1334010623";s:7:"user_id";s:7:"5078411";}s:13:"4f8367caaf91b";a:3:{s:3:"key";s:13:"4f8367caaf91b";s:4:"time";s:10:"1334011850";s:7:"user_id";s:7:"5078411";}s:13:"4f836b5ca2250";a:3:{s:3:"key";s:13:"4f836b5ca2250";s:4:"time";s:10:"1334012764";s:7:"user_id";s:7:"5078411";}}
-  draft_feedback: "a:2:{s:13:\"4f8362ffb1945\";a:1:{i:0;a:2:{s:4:\"time\";s:10:\"1334011588\";s:7:\"content\";s:1262:\"
-    The only thing that I see that walks a fine grey line is the \"Creates small focused
-    classes\" section. You state; \"Why create a CustomerServices <'class' is missing
-    here> that takes in five dependencies as opposed to...\"\n\nAt some point in time
-    if I'm building a set of publicly exposed services I'll want to roll my small
-    components together into larger service surfaces that the UI/consumer can call.
-    For example I'll pull all the customer related pieces together into a CustomerServices.svc.
-    I still want to inject those smaller components into the CustomerServices.svc.cs
-    file (how I do that is irrelevant) to maintain componentization and composability
-    within my codebase. The result will be a CustomerServices.svc.cs file that has
-    a whole bunch of injected dependencies and that would go against what you are
-    stating in this section. I would love this class though...especially if each method
-    in the svc.cs were a one-liner delegating off to a command/class that did the
-    real work.\n\nThis is the area that I struggle with, but I'm at the point where
-    I'm comfortable with lots of injection as long as the methods are only delegating
-    to the more specific components. The offending class becomes a surface area consolidator
-    for the purposes of API organization.\";}}s:13:\"4f836b5ca2250\";a:1:{i:0;a:2:{s:4:\"time\";s:10:\"1334013609\";s:7:\"content\";s:901:\"The
-    article highlights the point that developers use Dependecy Injection for testability
-    rather than decoupling of classes. This is because that is what they are told
-    when writing Unit Tests. Dependecy Injection itself is not a way to write clean
-    code as you have stated - it is merely a tool in order to write clean code. It
-    needs to be used with the other tools (SOLID, DRY and YAGNI). There are not enough
-    developers who know about this IMO and this is a good way to raise awareness\n\nI
-    love the R# plugin idea - I think its the type of thing that would allow a developer
-    to keep track of things. \n\nBut what happens to the poor assholes using webforms?
-    A lot of their code is encapsulated in the page_load method. We know what happens
-    to Twitter timelines when you exclude people :). \n\nIts a good post - it shows
-    that you have spent a lot of time writing it :) I look forward to seeing the comments\n\";}}}"
   _wpas_skip_twitter: '1'
   _wpas_skip_fb: '1'
   tagazine-media: a:7:{s:7:"primary";s:53:"http://hhariri.files.wordpress.com/2012/04/image4.png";s:6:"images";a:1:{s:53:"http://hhariri.files.wordpress.com/2012/04/image4.png";a:6:{s:8:"file_url";s:53:"http://hhariri.files.wordpress.com/2012/04/image4.png";s:5:"width";s:3:"519";s:6:"height";s:3:"470";s:4:"type";s:5:"image";s:4:"area";s:6:"243930";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:7:"5078411";s:7:"blog_id";s:8:"11677451";s:9:"mod_stamp";s:19:"2012-04-10
@@ -47,6 +17,7 @@ meta:
   _elasticsearch_indexed_on: '2012-04-09 16:53:33'
   twitter_cards_summary_img_size: a:6:{i:0;i:519;i:1;i:470;i:2;i:3;i:3;s:24:"width="519"
     height="470"";s:4:"bits";i:8;s:4:"mime";s:9:"image/png";}
+comments: true
 ---
 Earlier <a href="http://hadihariri.com/2012/04/09/too-many-dependencies/">I asked</a> whether people thought the issue of passing in too many dependencies into a class was an actual problem. This was in response to another post I did about <a href="http://hadihariri.com/2012/04/07/test-setups-and-design-smells/">test smells</a>. A few people had asked me how the problem of a controller having way too many dependencies should be solved. My <a href="https://twitter.com/#!/hhariri/status/188730907115528194">response</a> to <a href="https://twitter.com/#!/hhariri/status/188705084971028480">them</a> was to apply Single Responsibility Principle, which is pretty much <a href="http://hadihariri.com/2012/04/09/too-many-dependencies/#comments">what others also said</a>.
 <h3>The problem</h3>

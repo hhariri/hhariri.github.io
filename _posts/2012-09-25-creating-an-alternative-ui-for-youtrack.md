@@ -12,6 +12,7 @@ meta:
   draftfeedback_requests: a:1:{s:13:"50615b8f7aea5";a:3:{s:3:"key";s:13:"50615b8f7aea5";s:4:"time";s:10:"1348557711";s:7:"user_id";s:7:"5078411";}}
   draft_feedback: a:1:{s:13:"50615b8f7aea5";a:1:{i:0;a:2:{s:4:"time";s:10:"1348565811";s:7:"content";s:62:"http://youtrack.jetbrains.com/issue/EVAN-278#comment=27-384456";}}}
   _elasticsearch_indexed_on: '2012-09-25 07:19:40'
+comments: true
 ---
 Customers often ask us whether submitting issues in YouTrack is complicated, in the sense that if it requires many fields to be filled in. Need being of course, that many QA departments don’t want to spend too much time filling out field after field of information to submit a bug.
 

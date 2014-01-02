@@ -14,6 +14,7 @@ meta:
     22:37:43";}
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1386313009;}
   _elasticsearch_indexed_on: '2012-04-05 22:37:43'
+comments: true
 ---
 As of ASP.NET MVC 4.0, the once-named WCF WebAPI project is now part of MVC. To provide a quick summary for those not familiar with either of the two:
 <ul>

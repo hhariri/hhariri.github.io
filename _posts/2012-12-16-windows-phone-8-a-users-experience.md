@@ -16,6 +16,7 @@ meta:
   _elasticsearch_indexed_on: '2012-12-16 20:32:04'
   twitter_cards_summary_img_size: a:7:{i:0;i:400;i:1;i:534;i:2;i:2;i:3;s:24:"width="400"
     height="534"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}
+comments: true
 ---
 Around two months ago I received a Nokia Lumia 920. Having been a long time iPhone user (3G and 4), I decided it's time to give another phone a try. After having used it for over a month, I'm back to my iPhone <a href="http://hadihariri.com/2010/09/25/samsung-galaxy-s-from-a-recovering-iphone-user/">(my switch to Android lasted 8 months)</a>.
 

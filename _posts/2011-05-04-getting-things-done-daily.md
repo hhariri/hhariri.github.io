@@ -11,6 +11,7 @@ published: true
 meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1387049206;}
   _elasticsearch_indexed_on: '2011-05-04 09:13:53'
+comments: true
 ---
 For over a decade now, except for one year, I’ve been working from home. Home is kind of metaphorical considering the amount of travelling I do. However, to all effects, it means working alone, physically isolated and with no real 9-5 schedule.
 

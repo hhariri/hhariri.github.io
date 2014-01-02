@@ -10,6 +10,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2008-11-27 18:42:00'
+comments: true
 ---
 <p>
 <a href="http://blogs.remobjects.com/blogs/mh">marc</a> recently <a href="http://blogs.remobjects.com/blogs/mh/2008/11/25/the_world_does_not_revolve_around_delphi">made a blog post</a> regarding the world not revolving around Delphi, and in particular <a href="http://www.delphifeeds.com">DelphiFeeds</a>. My blog goes through a sophisticated Yahoo piping system to filter only Delphi related things, so that only posts that actually have words like Delphi, Borland, CodeGear, Embarcadero, etc.. come through the pipe (the reason for using Yahoo pipes was that I previously didn&#039;t have support for tags on my blog engine).

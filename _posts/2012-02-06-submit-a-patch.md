@@ -11,6 +11,7 @@ published: true
 meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1385704298;}
   _elasticsearch_indexed_on: '2012-02-06 15:35:16'
+comments: true
 ---
 We love to complain, and Twitter has just made is so much easier. By merely including a handle or keyword of some company or product, we can attract the attention of those we’re moaning about and have them run to try and solve our problem. The speed at which they run is proportionally direct to the number of followers we have or the ‘people we know’ (I have 10 followers but my best friend is a celebrity with 300K followers and RT’s anything I ask him to). Apparently it’s called Social Media Damage Control.
 

@@ -11,6 +11,7 @@ meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1386313010;}
   _wpas_skip_twitter: '1'
   _elasticsearch_indexed_on: '2012-03-18 10:45:05'
+comments: true
 ---
 Teaching, in any form, is a voyage, during which you reach different milestones. One of the first ones, is accomplishing that level of knowledge in order to share what you have learned with certain confidence. From then on, it is about improving, learning, correcting. It is not always about the topic, but often about finding better ways to communicate, to improve techniques to explain topics that are often complex.
 

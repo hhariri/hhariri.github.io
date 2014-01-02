@@ -12,6 +12,7 @@ meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1385704310;}
   _oembed_3c3bcc4f81bc4ea6c9de0f1a82dc21e6: '{{unknown}}'
   _elasticsearch_indexed_on: '2011-05-18 11:35:47'
+comments: true
 ---
 <a href="http://hhariri.files.wordpress.com/2011/05/image2.png"><img style="display:inline;border:0;" title="image" src="http://hhariri.files.wordpress.com/2011/05/image_thumb1.png" alt="image" width="665" height="364" border="0" /></a>
 

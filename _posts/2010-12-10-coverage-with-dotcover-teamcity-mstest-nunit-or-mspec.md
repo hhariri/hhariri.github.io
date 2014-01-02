@@ -15,6 +15,7 @@ meta:
   _elasticsearch_indexed_on: '2010-12-10 11:12:15'
   twitter_cards_summary_img_size: a:6:{i:0;i:646;i:1;i:133;i:2;i:3;i:3;s:24:"width="646"
     height="133"";s:4:"bits";i:8;s:4:"mime";s:9:"image/png";}
+comments: true
 ---
 As some of you know, we recently shipped <a href="http://www.jetbrains.com/teamcity">TeamCity</a> 6 which includes, out of the box, a bundled version of <a href="http://www.jetbrains.com/dotcover">dotCover</a>. What this means is that you can now get coverage reports for your code easily, and of course, for free if you’re using the Professional version of <a href="http://www.jetbrains.com/teamcity">TeamCity</a>.  The setup is quite easy if you are using MSTest and NUnit. For MSpec, you need to take a few additional steps.
 <h3>Using MSTest / NUnit Runners</h3>

@@ -9,6 +9,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2009-03-30 10:19:00'
+comments: true
 ---
 <p>
 In the <a href="http://blogs.imeta.co.uk/HHariri/archive/2009/03/25/spending-time-with-fluent-nhibernate-part-1.aspx">first part of this series</a>, we saw the basics of what Fluent NHibernate is about. In this second part, we&#039;re going to look into relationships and some of the mappings that FNH produces for us, as well as overriding certain mappings.

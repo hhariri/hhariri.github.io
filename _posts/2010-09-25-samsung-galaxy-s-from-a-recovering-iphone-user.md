@@ -15,6 +15,7 @@ meta:
   _elasticsearch_indexed_on: '2010-09-25 20:21:01'
   twitter_cards_summary_img_size: a:7:{i:0;i:291;i:1;i:387;i:2;i:2;i:3;s:24:"width="291"
     height="387"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}
+comments: true
 ---
 <strong>[UPDATE NOTE: Although much of this post is accurate and my overall impressions are in the Summary, you might be interested in knowing that after 8 months, I ended up selling this device and purchasing an iPhone 4. Why? Some day I'll blog about it....]</strong>
 

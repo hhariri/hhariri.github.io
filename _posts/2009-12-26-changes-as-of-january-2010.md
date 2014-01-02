@@ -9,6 +9,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2009-12-26 19:07:00'
+comments: true
 ---
 <p>
 It&rsquo;s with a bittersweet feeling that I write this post. As of January, I will no longer be with <a href="http://www.imeta.co.uk">iMeta Technologies</a>. During my time there, I&rsquo;ve been involved in some awesome projects, had the privilege of working with some very smart and talented people, and made some great friends. I wish them all the best success in the future.

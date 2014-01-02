@@ -9,6 +9,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2008-11-29 10:27:00'
+comments: true
 ---
 <p>
 Visual Studio comes with TODO markers where you can mark sections of code with little comments to indicate that you need to do something. However, TODO sometimes becomes too generic. You start to mark tasks, features, futures, (bugs have their own by default) with the same tag. Fortunately you can add custom ones. If you have Re-sharper installed, you get additional benefits since it allows you to create filters, identify the tags inside comments and highlight them on the right margin.

@@ -14,6 +14,7 @@ meta:
   tagazine-media: a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:7:"5078411";s:7:"blog_id";s:8:"11677451";s:9:"mod_stamp";s:19:"2012-01-04
     12:20:30";}
   _elasticsearch_indexed_on: '2012-01-04 12:12:54'
+comments: true
 ---
 Went to renew my driving license this morning, a process the DGT (Traffic Authority in Spain) has made extremely simple now: you just head over to a private clinic, pay quite a bit more than you actually should and have them deal with the bureaucracy.
 

@@ -13,6 +13,7 @@ published: true
 meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1385704306;}
   _elasticsearch_indexed_on: '2011-07-20 14:07:45'
+comments: true
 ---
 Many, myself included, have been eagerly awaiting the release of the ReSharper Runner of Machine.Specification (MSpec) for ReSharper 6. I’m glad to announce that this is now available, which is the result of a team-effort between <a href="http://twitter.com/kropp">Victor Kropp</a>, <a href="http://twitter.com/#!/lucisferre">Chris Nicola</a>, myself and of course <a href="http://twitter.com/#!/agross">Alexander Gross</a>, long-time contributor and main maintainer of the MSpec project.
 

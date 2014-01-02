@@ -15,6 +15,7 @@ meta:
   _wpas_skip_twitter: '1'
   _wpas_skip_fb: '1'
   _elasticsearch_indexed_on: '2012-05-15 04:40:51'
+comments: true
 ---
 Want instant updating to HTML / CSS pages you're editing?
 

@@ -15,6 +15,7 @@ meta:
   _elasticsearch_indexed_on: '2012-10-10 10:22:10'
   twitter_cards_summary_img_size: a:6:{i:0;i:669;i:1;i:702;i:2;i:3;i:3;s:24:"width="669"
     height="702"";s:4:"bits";i:8;s:4:"mime";s:9:"image/png";}
+comments: true
 ---
 Did you know that you can run <a href="http://www.jetbrains.com/resharper">ReSharper</a> Code Inspections on the server using <a href="http://www.jetbrains.com/teamcity">TeamCity</a>? In fact, we added support for this functionality in <a href="http://blogs.jetbrains.com/teamcity/2011/10/13/now-we-see-dead-code-too/">TeamCity just over a year ago</a> but it seems that the feature is not widely known, specially by ReSharper users.
 

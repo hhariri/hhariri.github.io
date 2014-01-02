@@ -12,6 +12,7 @@ published: true
 meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1386096526;}
   _elasticsearch_indexed_on: '2011-06-27 06:05:46'
+comments: true
 ---
 With the imminent release of <a href="http://www.jetbrains.com/resharper">ReSharper</a> 6, and support for JavaScript as well as CSS, we’ve had a few people ask us how to prevent ReSharper 6 from detecting issues in certain files that are not supported, for instance .less. Although many operations are available for these types of files, including "Move To Folder" (and consequent reference updates), analysis is not currently available.
 <h2>Eliminating Items from Analysis</h2>

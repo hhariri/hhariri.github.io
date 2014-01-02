@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2005-08-25 20:32:00'
+comments: true
 ---
 <p>Very impressed with Google Talk. Both the Chat and the Voice are clear and simple to use.
  I really hope it takes off. I&#039;ve been using Skype since the early days and I loved it.

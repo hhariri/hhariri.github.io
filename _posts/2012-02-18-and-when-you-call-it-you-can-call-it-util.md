@@ -12,6 +12,7 @@ meta:
   _wp_old_slug: and-when-you-call-me-you-can-call-me-util
   _wpas_skip_twitter: '1'
   _elasticsearch_indexed_on: '2012-02-18 22:21:35'
+comments: true
 ---
 No. Actually you can't call it Util*. You might think I'm a pain in the backside, nitpicking on issues like naming. I'm not.
 

@@ -10,6 +10,7 @@ published: true
 meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1385704311;}
   _elasticsearch_indexed_on: '2011-05-05 12:24:06'
+comments: true
 ---
 We sell Windows licenses. We sell SQL Server. We sell Office.
 

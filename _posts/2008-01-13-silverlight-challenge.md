@@ -8,5 +8,6 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2008-01-13 07:56:00'
+comments: true
 ---
 [No text]

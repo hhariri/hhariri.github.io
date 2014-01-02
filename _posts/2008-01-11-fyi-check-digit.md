@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2008-01-11 07:57:48'
+comments: true
 ---
 In Spain, bank accounts have twenty digits, two of which represent the check digits (known in Spanish as "Digito de Control"). The purpose of a check digit is to perform a validation of a value. In this case, we have four digits representing the bank, four representing the branch, ten for the actual account number and last but definitely not least, the two check digits. It's important to have them since you can often get confused why typing in twenty numbers and find you've incorrectly put in a two instead of a three. You don't want the 1M€ to be transferred to the wrong account.
 

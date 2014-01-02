@@ -11,6 +11,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2009-06-11 17:32:00'
+comments: true
 ---
 <p>
 ASP.NET MVC is not new. Ignoring the pattern for a moment, the way things work dates back to the days of CGI&rsquo;s and ISAPI&rsquo;s, where you had to role out pretty much everything by hand. You would get your data, format it and send it back to the browser, producing HTML. It wasn&rsquo;t easy, but you did have one advantage. You had full control.

@@ -10,6 +10,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2009-03-14 06:27:00'
+comments: true
 ---
 <p>
 I&#039;m off to Rome next week for <a href="http://www.bastaitalia.it/">BASTA! Italia</a>, and quite excited since it&#039;s my first time in Italy. Mind you, I always say that but my trips normally involve

@@ -12,6 +12,7 @@ published: true
 meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1385704326;}
   _elasticsearch_indexed_on: '2010-11-10 22:11:12'
+comments: true
 ---
 As many of you know, <a href="http://tv.jetbrains.net/videocontent/aspnet-features-in-resharper-5-part-1">ReSharper enhances the behavior</a> of ASP.NET and Visual Studio in general. Yesterday the ASP.NET team released ASP.NET MVC 3 Release Candidate. The release includes support for Intellisense and Syntax Highlighting for Razor View Engine. There is however an issue if you have ReSharper installed, as it currently does not support Razor. As much as we’d like to sim-ship support for Razor as it’s made available, this is not always possible. Nonetheless we are working hard to bring you Razor support for <a href="http://www.jetbrains.com/resharper">ReSharper</a>, along with first class support for JavaScript and CSS (all the goodness of Code Inspections, Refactoring, Intellisense and more). However, this does not mean that you cannot use ReSharper and Visual Studio’s default Razor Intellisense today. In this post I’ll show you how to do this.
 <h4>Choosing the type of Intellisense</h4>

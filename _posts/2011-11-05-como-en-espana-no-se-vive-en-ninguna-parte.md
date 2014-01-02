@@ -10,6 +10,7 @@ published: true
 meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1385521011;}
   _elasticsearch_indexed_on: '2011-11-05 18:02:22'
+comments: true
 ---
 Esas ganas de vivir, unido a la pasión que nos caracteriza, las ganas de marcha y el buen tiempo. ¿Cómo vamos a negar que mejor que en España no se vive en ninguna parte?
 

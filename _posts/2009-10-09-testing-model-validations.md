@@ -11,6 +11,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2009-10-09 08:09:56'
+comments: true
 ---
 <p>&#160;</p>  <p>ASP.NET MVC 2 allows you to do data validation, either using the de-facto Data Annotations or plugging in your own, much in the same way xVal work. If you’re interested in seeing how that works, take a look at <a href="http://hadihariri.com/blogengine/post/2009/10/06/Client-Side-Validation-in-MVC-20.aspx">this post</a>. </p>  <p>This post however concerns testing. Here’s some code:</p>  <div class="csharpcode">   <pre class="alt">[AcceptVerbs(HttpVerbs.Post)]</pre>
 

@@ -10,6 +10,7 @@ meta:
   _oembed_cd29e84077c5ff3c65af9fc63ef9d236: '{{unknown}}'
   _oembed_cecad7795552760a81d0b5df8ac503b0: '{{unknown}}'
   _elasticsearch_indexed_on: '2010-01-25 12:50:00'
+comments: true
 ---
 <div class="wlWriterHeaderFooter" style="float:right;margin:0;padding:0 0 4px 8px;">
 

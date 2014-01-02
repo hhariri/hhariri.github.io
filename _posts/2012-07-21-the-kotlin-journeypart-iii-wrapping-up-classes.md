@@ -20,6 +20,7 @@ meta:
     On delegation: if something has too many supertypes in any language its code looks funny. And I agree about the code smell for most cases.";}}}
   _wpas_skip_twitter: '1'
   _elasticsearch_indexed_on: '2012-07-21 12:24:05'
+comments: true
 ---
 This is a multi-part series on Kotlin, a new statically typed language from JetBrains targeting the JVM and JavaScript
 

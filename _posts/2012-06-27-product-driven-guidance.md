@@ -11,6 +11,7 @@ meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1357473012;}
   _wpas_skip_twitter: '1'
   _elasticsearch_indexed_on: '2012-06-27 11:04:27'
+comments: true
 ---
 It's not right!
 <ul>

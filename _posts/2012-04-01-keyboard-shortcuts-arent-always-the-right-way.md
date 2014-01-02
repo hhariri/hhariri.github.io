@@ -11,6 +11,7 @@ meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1386313010;}
   _wpas_skip_twitter: '1'
   _elasticsearch_indexed_on: '2012-04-01 21:17:27'
+comments: true
 ---
 Scott Hanselman had a <a href="http://www.hanselman.com/blog/TheWebIsTheNewTerminalAreYouUsingTheWebsKeyboardShortcutsAndHotkeys.aspx">post recently about shortcuts and web applications</a>. Going through the list can be somewhat scary, specially if you using more than three or four of the applications listed: think about all the shortcuts you have to remember. Nightmare! Seriously, as humans, were we destined to have to remember hundreds of shortcuts? Isn't there a better way to spend our time?
 

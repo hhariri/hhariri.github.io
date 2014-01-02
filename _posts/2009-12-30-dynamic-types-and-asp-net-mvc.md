@@ -9,6 +9,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2009-12-30 12:25:00'
+comments: true
 ---
 <p>
 If you&rsquo;re using ViewModels in your ASP.NET MVC applications, know that if working with .NET 4.0, you can now create dynamic view models. And it&rsquo;s actually very simple to do.

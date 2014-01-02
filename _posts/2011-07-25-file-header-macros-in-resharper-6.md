@@ -15,6 +15,7 @@ meta:
   _elasticsearch_indexed_on: '2011-07-25 08:37:10'
   twitter_cards_summary_img_size: a:6:{i:0;i:562;i:1;i:480;i:2;i:3;i:3;s:24:"width="562"
     height="480"";s:4:"bits";i:8;s:4:"mime";s:9:"image/png";}
+comments: true
 ---
 Sometime ago I wrote about <a href="http://hadihariri.com/2010/12/20/automating-file-header-information-with-resharper/">Automating File Header Information</a>, showing how to insert license information and other data in project files. One of the shortcomings ReSharper had however was the inability to support macros. Something as simple as inserting the current year or filename required the support of StyleCopy for ReSharper. ReSharper 6 now support macros allowing file headers to contain varying information:
 

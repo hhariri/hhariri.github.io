@@ -10,6 +10,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2008-11-01 07:53:00'
+comments: true
 ---
 <p>
 Here&#039;s an <a href="http://blogs.msdn.com/adonet/archive/2008/10/29/update-on-linq-to-sql-and-linq-to-entities-roadmap.aspx">update

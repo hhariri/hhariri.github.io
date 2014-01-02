@@ -16,6 +16,7 @@ meta:
   tagazine-media: a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:7:"5078411";s:7:"blog_id";s:8:"11677451";s:9:"mod_stamp";s:19:"2011-04-03
     11:20:55";}
   _elasticsearch_indexed_on: '2011-04-03 11:12:16'
+comments: true
 ---
 On Tuesday, 5th April 2011, I'll be giving a webinar (in Spanish) on how to setup an environment with TeamCity, YouTrack and your favorite OSS tools and frameworks.
 

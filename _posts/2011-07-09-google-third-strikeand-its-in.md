@@ -13,6 +13,7 @@ published: true
 meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1385704306;}
   _elasticsearch_indexed_on: '2011-07-09 14:45:15'
+comments: true
 ---
 Google+ is what could possibly be considered Google’s third attempt at Social networks. With the failure of Wave and Buzz, is Google+ going to make it this time? My first knee-jerk reaction to it was that it’s a Facebook AND Twitter killer, and after the short amount of time I’ve used it, and <a href="http://hadihariri.com/2010/09/25/samsung-galaxy-s-from-a-recovering-iphone-user/">not knowing any better than to write about something you’ve not used long enough</a>, I’ll give my opinion. If I’m right and this thing takes off, I’ll be a Social Expert. If I’m wrong, I’m not a Social Expert. And?
 <h2>Why do I need Twitter AND Facebook?</h2>

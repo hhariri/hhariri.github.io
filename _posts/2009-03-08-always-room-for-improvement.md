@@ -9,6 +9,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2009-03-08 19:17:00'
+comments: true
 ---
 <p>
 As if what Alt.NET is or isn&#039;t, whether it&#039;s <a href="http://www.lostechies.com/blogs/chad_myers/archive/2009/03/01/alt-net-mean-how-do-we-fix-it.aspx">mean</a> or not, wasn&#039;t enough, now we have a new guy on the <a href="http://manifesto.softwarecraftsmanship.org/">scene</a>, and already the <a href="http://serialseb.blogspot.com/2009/03/why-im-not-signing-software.html">first reactions</a> on the blogsphere (not to mention mailing lists and twitter world).

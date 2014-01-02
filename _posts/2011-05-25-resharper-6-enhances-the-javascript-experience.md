@@ -12,6 +12,7 @@ published: true
 meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1385704309;}
   _elasticsearch_indexed_on: '2011-05-25 12:15:02'
+comments: true
 ---
 We <a href="http://blogs.jetbrains.com/dotnet/2010/12/resharper-6-eap-is-open-details-on-javascript-support/">already mentioned</a> some of the benefits that ReSharper brings to the table when it comes to JavaScript development previously. In this post we are going to have a more in-depth look at some of the features.
 <h2>Pimping jQuery</h2>

@@ -14,6 +14,7 @@ meta:
   tagazine-media: a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";i:0;s:6:"author";s:7:"5078411";s:7:"blog_id";s:8:"11677451";s:9:"mod_stamp";s:19:"2012-10-01
     15:20:14";}
   _elasticsearch_indexed_on: '2012-10-01 14:58:09'
+comments: true
 ---
 Every now and again I read a post or comment around the topic of TDD and how it constitutes a somewhat futile effort. Forgetting for a moment TDD, let me say a few words around unit testing.
 

@@ -11,6 +11,7 @@ published: true
 meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1385704298;}
   _elasticsearch_indexed_on: '2012-02-15 06:55:45'
+comments: true
 ---
 <p align="justify">I had to set up a new project yesterday on YouTrack and needed to customize some of the default
 status fields. One of the ones I added was a ‘Paused’ status, for those times when a task gets held up for whatever the reason.

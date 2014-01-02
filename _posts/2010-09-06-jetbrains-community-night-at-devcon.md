@@ -10,6 +10,7 @@ published: true
 meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1385704330;}
   _elasticsearch_indexed_on: '2010-09-06 07:21:46'
+comments: true
 ---
 <a href="http://hadihariri.com/blogengine/image.axd?picture=WindowsLiveWriter/JetBrainsCommunityNightatDevCon/04B332E5/image.png">
 </a>From the 27th to the 29th of September, <a href="http://devconlondon.com/">DevCon London is taking place</a>. DevCon is organized by Software and Support, the great team behind conferences such as <a href="http://basta.net">BASTA</a>, JAX, PHPCon and many more. The conference is in parallel with <a href="http://jaxlondon.com">JAX London</a> so there’s for sure going to be a mix of crowds between .NET and Java developers. There’s a <a href="http://devconlondon.com/2010/speakers">great line-up of speakers</a> (a few more not on the list including Greg Young and Neil Robbins) and <a href="http://dotnetrocks.com">Richard and Carl</a> will be there with their .NET Rocks Panel. If you’ve not signed up yet, I recommend you do. It’s going to be a great event.

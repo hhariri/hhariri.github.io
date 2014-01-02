@@ -14,6 +14,7 @@ meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1386313011;}
   _wpas_skip_twitter: '1'
   _elasticsearch_indexed_on: '2012-03-10 22:25:41'
+comments: true
 ---
 This is a multi-part series on Kotlin, a new statically typed language from JetBrains targeting the JVM and JavaScript
 

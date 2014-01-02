@@ -14,6 +14,7 @@ meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1385704296;}
   _wpas_skip_twitter: '1'
   _elasticsearch_indexed_on: '2012-02-26 12:39:16'
+comments: true
 ---
 <p align="justify">Today Paul Campbell asked on Twitter about the possibility of having an automated testing scenario using WebStorm and Mocha.</p>
 <a href="http://hhariri.files.wordpress.com/2012/02/image44.png"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;margin:4px 10px;" title="image" src="{{ site.images}}/mocha-1.png" alt="image" width="623" height="240" border="0" /></a>

@@ -12,6 +12,7 @@ published: true
 meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1385704327;}
   _elasticsearch_indexed_on: '2010-10-30 09:25:00'
+comments: true
 ---
 <h3>D&eacute;j&agrave; Vu </h3>
 <p>

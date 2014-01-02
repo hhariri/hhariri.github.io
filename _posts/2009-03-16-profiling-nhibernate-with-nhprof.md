@@ -9,6 +9,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2009-03-16 00:50:00'
+comments: true
 ---
 <p>
 There&#039;s a common conception that developers suck at creating user interfaces. And it&#039;s probably right on target. One of the reasons is that, as developers, we look at things differently than a normal user would. And usually this causes problems, except in one scenario where it&#039;s an advantage: when our end users are of our own species. NHProf fits that bill perfectly.

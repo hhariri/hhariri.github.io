@@ -10,6 +10,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2009-02-08 12:07:00'
+comments: true
 ---
 <p>
 Take a look at this code:

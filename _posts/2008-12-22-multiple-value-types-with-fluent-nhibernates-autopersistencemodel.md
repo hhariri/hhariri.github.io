@@ -9,6 +9,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2008-12-22 11:01:32'
+comments: true
 ---
 <p>The AutoPersistenceModel in Fluent NHibernate doesn't support values types automatically (yet), but getting them to work isn't that difficult. Take the following example:</p>  <p>&#160;</p>  <div>   <div style="font-size:8pt;overflow:visible;width:100%;color:black;line-height:12pt;font-family:consolas, &#039;background-color:#f4f4f4;border-style:none;padding:0;">     <pre style="font-size:8pt;overflow:visible;width:100%;color:black;line-height:12pt;font-family:consolas, &#039;background-color:white;border-style:none;margin:0;padding:0;"><span style="color:#606060;">   1:</span> <span style="color:#0000ff;">public</span> <span style="color:#0000ff;">class</span> Company</pre>
 

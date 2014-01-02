@@ -9,6 +9,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2009-02-14 15:37:00'
+comments: true
 ---
 <p>
 According to you <a href="http://www.codinghorror.com">Jeff</a>, 80% of developers are people that don&#039;t care much about improving the quality of their craft. In other words, it&#039;s mostly those who just care about the paycheck...programming is a job that pays the bills.

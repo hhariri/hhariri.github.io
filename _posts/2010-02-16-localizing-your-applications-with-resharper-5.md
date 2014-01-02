@@ -9,6 +9,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2010-02-16 10:01:00'
+comments: true
 ---
 <div class="wlWriterHeaderFooter" style="float:right;margin:0;padding:0 0 4px 8px;">
 

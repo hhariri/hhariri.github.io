@@ -9,6 +9,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2009-03-28 19:35:00'
+comments: true
 ---
 <p>
 I&#039;ve been playing with ASP.NET MVC from the first preview that was released, and it&#039;s also very similar to a technology I used to use back in 1998, called WebBroker (part of Delphi). Point being, I&#039;m pretty comfortable with the MVC approach. I also have had the opportunity to do talks and workshops on ASP.NET MVC recently, and one of the questions that come up frequently is whether or not people should use ASP.NET MVC or stick with WebForms. Generally my answer is, if it&#039;s a new application, go with MVC. If it&#039;s an existing ASP.NET WebForms application, stick with it, <em>unless</em> it is causing maintenance nightmares, requires continuous work and expansion, then it might be worthwhile considering a port (read <em>rewrite</em>) to ASP.NET MVC.

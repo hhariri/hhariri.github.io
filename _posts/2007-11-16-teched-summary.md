@@ -8,5 +8,6 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2007-11-16 08:13:00'
+comments: true
 ---
 <p>A small <a href="http://www.programmersheaven.com/user/pheaven/blog/69-News-From-TechEd-2007/">summary</a> of TechEd</p>

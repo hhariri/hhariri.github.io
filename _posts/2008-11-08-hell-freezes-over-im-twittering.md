@@ -9,6 +9,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2008-11-08 07:19:00'
+comments: true
 ---
 <p>
 Ok, I know I said I&#039;ll never do it, but I&#039;m going to <a href="http://twitter.com/hhariri">try it out</a>.

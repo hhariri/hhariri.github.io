@@ -12,6 +12,7 @@ published: true
 meta:
   _elasticsearch_indexed_on: '2009-10-09 09:23:14'
   twitter_cards_summary_img_size: ''
+comments: true
 ---
 <p>&#160;</p>  <p>I’m having a discussion on the ASP.NET MVC forums with one of the guys from the ASP.NET team in regard to the Data Annotations in MVC 2 and I’m not sure I agree with him. Here’s an issue <a href="http://devlicio.us/blogs/casey/">Jak</a> and I have run into: </p>  <p>In MVC 2 there’s a new Html Helper named <em>EditorForModel(); </em>that renders out a form based on the properties of your model, along with the validation messages, labels, etc. So something like this:</p>  <p>&#160;</p>  <div class="csharpcode">   <pre class="alt">   &lt;% <span class="kwrd">using</span> (Html.BeginForm())  &gt;</pre>
 

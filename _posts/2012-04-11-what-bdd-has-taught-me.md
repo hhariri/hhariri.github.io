@@ -8,32 +8,13 @@ status: publish
 type: post
 published: true
 meta:
-  draftfeedback_requests: a:1:{s:13:"4f85d53598866";a:3:{s:3:"key";s:13:"4f85d53598866";s:4:"time";s:10:"1334170933";s:7:"user_id";s:7:"5078411";}}
-  draft_feedback: "a:1:{s:13:\"4f85d53598866\";a:1:{i:0;a:2:{s:4:\"time\";s:10:\"1334178702\";s:7:\"content\";s:1385:\"Typo\n\nUnder
-    It's about communication reads \"why the need that feature\" believe that the
-    the should actually be they\n\nFeedback\n\nIn the sections BDD frameworks are
-    for higher level,  BDD frameworks are for Customers to use and BDD is not AAA
-    at the end of each of these sections you say something like  I'll cover that shortly
-    or I'll come back to this later.  Reading this I found the repetition of the similar
-    phrase jarring and was left wanting you to explain what you meant at that point.\n\nYou
-    mention that you start at the UI and drive specifications or do you start at the
-    interactions the UI has? I ask the question as you are likely to get somebody
-    say \"you don't test the UI with MSpec\" \n\nYou mention that some frameworks
-    making certain things easier and I can see some people wanting examples of this
-    (they'll focus on the technical rather than the principles).\n\nI like the article
-    and understand entirely what you are saying and to me makes sense, what you are
-    describing around the frameworks is the focus on the technology rather than the
-    principles, and when people focus on the technology they tend to invest in the
-    technology and end up quarrelling when somebody says their particular techology
-    isn't the best.\n\nOne other thing you might want to mention is the fact that
-    a lot of people focus on the technology i.e. the framework rather than the idea/principle
-    behind BDD\";}}}"
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1366805826;}
   _wpas_skip_twitter: '1'
   _wpas_skip_fb: '1'
   _elasticsearch_indexed_on: '2012-04-11 16:16:24'
   twitter_cards_summary_img_size: a:6:{i:0;i:504;i:1;i:187;i:2;i:3;i:3;s:24:"width="504"
     height="187"";s:4:"bits";i:8;s:4:"mime";s:9:"image/png";}
+comments: true
 ---
 Every so often I hear comments such as the one below:
 <blockquote>I don't get what BDD offers me over TDD</blockquote>

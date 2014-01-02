@@ -9,6 +9,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2009-03-25 08:52:00'
+comments: true
 ---
 <p>
 A couple of days ago, there was a <a href="http://codebetter.com/blogs/howard.dierking/archive/2009/03/22/an-evening-with-fluent-nhibernate.aspx">post</a> by <a href="http://codebetter.com/blogs/howard.dierking/">Howard Dierking</a> covering the topic of Fluent NHibernate. What caught my attention was one of the comments:

@@ -13,6 +13,7 @@ meta:
   _wpas_skip_fb: '1'
   _wp_old_slug: is-your-mail-in-your-own-hands
   _elasticsearch_indexed_on: '2012-04-07 09:05:05'
+comments: true
 ---
 <em>If you're using a @gmail.com address, you should read this</em>
 

@@ -9,6 +9,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2008-11-06 18:11:00'
+comments: true
 ---
 <p>
 Sometime ago I <a href="/blogengine/post/2008/09/30/Native-applications.aspx">posted an entry</a> about some comments Michael Swindell had made about how Delphi was a better choice for enterprises because of it&#039;s speed. <a href="http://blog.marcocantu.com">Marco</a> followed-up to that <a href="http://blog.marcocantu.com/blog/delphi_native_code.html">post</a> with another one yesterday about how really .NET vs Win32 speed is not relevant, but what is relevant is being able to upgrade your application to the latest compiler, that same application written in Delphi 2.

@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   _elasticsearch_indexed_on: '2008-05-01 10:58:00'
+comments: true
 ---
 Next week (finally) "Introducción a Windows Communication Foundation" will hit the book stores. It's the first book I've authored entirely on my own, and for now I can say that I won't be writing another for at least a few years. It drains a lot out of you. It's been a fun and at times frustrating ride, but at the end of the day, it's good to see your work completed.
 

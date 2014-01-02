@@ -12,6 +12,7 @@ published: true
 meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1385704302;}
   _elasticsearch_indexed_on: '2011-08-24 19:34:45'
+comments: true
 ---
 A few months ago, <a href="http://twitter.com/shanselman">Scott Hanselman</a> gave a session at TechEd US were he showed some new features we were working on for TeamCity, in order to provide first class support for NuGet. He later <a href="http://www.hanselman.com/blog/NuGetForTheEnterpriseNuGetInAContinuousIntegrationAutomatedBuildSystem.aspx">blogged about it here</a>. 
 

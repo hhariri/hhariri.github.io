@@ -11,6 +11,7 @@ meta:
   reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1385704326;}
   _wpas_skip_twitter: '1'
   _elasticsearch_indexed_on: '2010-11-24 09:36:11'
+comments: true
 ---
 Many big players are using NoSQL as their storage mechanism. When reading or hearing about NoSQL, names such as Google, Facebook or Amazon are brought up. And why not? I mean surely if they’ve gone down the road of NoSQL and things are working out for them, despite the occasional hiccup, it must be good. It provides credibility.
 

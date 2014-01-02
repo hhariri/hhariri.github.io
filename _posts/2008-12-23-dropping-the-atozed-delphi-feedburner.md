@@ -11,6 +11,7 @@ meta:
   _oembed_2bd1e02d178c3d3699c1b30ec4b87c70: '{{unknown}}'
   _oembed_cd29e84077c5ff3c65af9fc63ef9d236: '{{unknown}}'
   _elasticsearch_indexed_on: '2008-12-23 20:12:00'
+comments: true
 ---
 <p>
 As of tomorrow I&#039;ll be deleting the feed: <a href="http://feeds.feedburner.com/Atozed">http://feeds.feedburner.com/Atozed</a>.
