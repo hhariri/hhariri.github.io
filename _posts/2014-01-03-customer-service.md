@@ -49,7 +49,7 @@ Let's see how the conversation unfolds
 
 If you solve my issue, you've just saved me some time and messing around. If you haven't, for whatever the reason, you've given me the opportunity to help myself by helping you.
 
-## It won't work
+## But it won't work...
 
 You could argue that this doesn't work because it's not the most efficient for your support team.
 
