@@ -14,6 +14,15 @@ comments: true
 <img src="{{ site.images }}/customer-support-7.png" alt="CloudsAndAll" style="width:60%;height=60%">
 
 
+As a company, what you're probably thinking is:
+
+*"I've just routed him to our support channels because we have this awesome ticketing system that is designed to be the most efficient for us and our customers"*
+
+As a customer you've just lost me. Why? Because what I'm hearing is:
+
+*"We're too busy to listen to you"*
+
+And I'm already frustrated with your service, whether it is my fault or not. You're not helping the situation.
 
 ## A different conversation on Twitter
 
@@ -23,8 +32,11 @@ comments: true
 
 <img src="{{ site.images }}/customer-support-1.png" alt="Joe Smith" style="width:60%;height=60%">
 
+In this version of the conversation, you've just broken down my initial defenses. While I'm frustrated, you've responded showing you're listening.
 
-## Ways in which the second conversation can develop
+What's the next step?
+
+Let's see how the conversation unfolds
 
 1. It's solved
 
@@ -34,20 +46,23 @@ comments: true
 
     <img src="{{ site.images }}/customer-support-3.png" alt="CloudsAndAll" style="width:60%;height=60%">
 
-While it might seem that the second conversation is merely just adding an extra step to having directed the customer to support in the first place, it is not. There is a subtle but
-important difference:
 
-1. In the first conversation the customer is hearing that you're too busy to deal with their issues.
+If you solve my issue, you've just saved me some time and messing around. If you haven't, for whatever the reason, you've given me the opportunity to help myself by helping you.
 
-2. In the latter, you're telling the customer that you're listening and their issues are important to you.
+## It won't work
 
-While it might also seem more efficient (and probably is) to create a support ticket, and have the customer send their details so that you can investigate any potential issues
-more appropriately, there's a difference:
+You could argue that this doesn't work because it's not the most efficient for your support team.
 
-1. In the first conversation, you're telling the customer that you have the appropriate channels in place and they should follow them, no matter what.
+It's not about your support team. It's about the customer.
 
-2. In the latter, you're telling the customer that you're listening and their issues are important to you.
+You could argue that this doesn't scale.
 
-Enable your customers.
+If you can't make it scale, don't be on social media. But I'd argue it does. There are quite a few very large companies out there that are getting it.
 
+You could argue that if you give someone a hand, they'll take your arm.
+
+True. But there are ways to handle those situations also. And it's not always the case.
+
+
+Enable your customers. Don't build a fortress to protect yourself from them. They want to deal with a human being and be treated as one.
 
