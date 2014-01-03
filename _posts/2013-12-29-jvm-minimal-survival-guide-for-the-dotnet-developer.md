@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JVM Minimal Survival Guide for the .NET Developer
-status: draft
+status: publish
 type: post
 published: true
 comments: true
