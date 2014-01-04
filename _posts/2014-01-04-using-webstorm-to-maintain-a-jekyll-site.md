@@ -8,9 +8,7 @@ comments: true
 ---
 
 I've recently moved this blog over to Jekyll, hosting it on GitHub Pages and I've been using WebStorm
-for maintaining both my blog and some new web sites I'm working on.
-
-It's working out really well so I thought I'll share a few tips and tricks I'm using.
+for maintaining both my blog and some new web sites I'm working on. It's working out really well so I thought I'll share a few tips and tricks I'm using.
 
 ## Install the Markdown plugin
 
