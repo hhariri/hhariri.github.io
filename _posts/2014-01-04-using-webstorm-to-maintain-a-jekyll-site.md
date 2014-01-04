@@ -7,14 +7,14 @@ published: true
 comments: true
 ---
 
-I've recently moved this blog over to Jekyll and hosting on GitHub Pages and I've been using WebStorm
+I've recently moved this blog over to Jekyll, hosting it on GitHub Pages and I've been using WebStorm
 for maintaining both my blog and some new web sites I'm working on.
 
-It's working out really well so I thought I'll share a few tips and tricks I'm using, if you could call them that.
+It's working out really well so I thought I'll share a few tips and tricks I'm using.
 
 ## Install the Markdown plugin
 
-WebStorm does not ship with Markdown support out of the box, but you can easily install the Markdown plugin. While Jekyll supports various flavors of markdown (I'm using Kramdown), the all share some common
+WebStorm does not ship with Markdown support out of the box, but you can easily install the Markdown plugin. While Jekyll supports various flavors of markdown (I'm using Kramdown), they all share some common
 syntax, so you're good to go with the general Markdown plugin.
 
 
@@ -32,7 +32,7 @@ Alternatively, you could also create a file with extension *.md* and WebStorm wi
 
 ## Find posts and other files efficiently
 
-WebStorm allows you to navigate to files very quickly. If you're using the latest WebStorm, just double-click the *Shift* key to go to *Search Everywhere*. Alternatively choose the shortcut
+WebStorm allows you to navigate to files very quickly. If you're using the latest version (7.0.3), just double-click the *Shift* key to go to *Search Everywhere*. Alternatively choose the shortcut
 associated with *Go To File* (Cmd+Shift+O on OSX)
 
 Remember, you can even use wildcards.
@@ -53,9 +53,7 @@ new files.
 
 ![Cmd New]({{ site.images }}/webstorm-guide-6.png)
 
-The last entry is to edit file templates, allowing to create new ones, ideal for Jekyll templates.
-
-Most Jekyll files consist of a header containing some metadata. For instance these post has:
+The last entry is to edit file templates, allowing to create new ones, ideal for Jekyll templates. Most Jekyll files consist of a header containing some metadata. For instance this post has:
 
     ---
     layout: post
@@ -85,9 +83,7 @@ I've created a set of live templates with WebStorm to help me with this:
 
 ![Live Templates]({{ site.images }}/webstorm-guide-9.png)
 
-making things a little quicker. Now I can simply type for instance *iu* and get the template expanded, filling in the gaps. You can do the same for emphasis, bold, keywords, etc.
-
-
+making things a little quicker. Now I can simply type for instance *iu* and get the template expanded for internal links, filling in the gaps. You can do the same for emphasis, bold, keywords, etc.
 
 ## Configure *jekyll serve* as an external tool
 
@@ -104,11 +100,12 @@ You can configure it via **Preferences**, **External Tools**
 
 ![Jekyll Tool Configuration]({{ site.images }}/webstorm-guide-11.png)
 
-
 ## Publish from inside WebStorm
 
 If you enable VCS support inside WebStorm, it will automatically detect new files being added and will prompt you to add it to your Git Repository. Much the same way
-it detects modified and deleted files. Once you're ready to publish (or just commit), you can hit
+it detects modified and deleted files. Once you're ready to publish you can do so easily using **VCS | Commit File**, which allows you to either commit or commit and push
+
+![Commit]({{ site.images }}/webstorm-guide-13.png)
 
 ## Spell Checker
 
@@ -118,9 +115,9 @@ Not much to configure there. It's built in and works. Just hit Alt+Enter when yo
 
 You can also provide custom dictionaries for any language via **Preferences**.
 
-## Web related features
+## There's more
 
-Of course, there's a whole bunch of other features I've not covered that you can use from WebStorm for web site maintenance including CSS, LESS, SASS and other style editing
+I've only covered a few [features of WebStorm](http://www.jetbrains.com/webstorm/features/index.html), the ones that I've found I'm using mostly on a daily basis to work with Jekyll / GitHub pages, but obviously as Web IDE it
+supports a ton of other things such as JavaScript, LESS, CSS, et al.
 
-PIC OF CSS selector
 
