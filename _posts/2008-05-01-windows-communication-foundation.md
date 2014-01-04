@@ -10,7 +10,7 @@ meta:
   _elasticsearch_indexed_on: '2008-05-01 10:58:00'
 comments: true
 ---
-Next week (finally) "Introducción a Windows Communication Foundation" will hit the book stores. It's the first book I've authored entirely on my own, and for now I can say that I won't be writing another for at least a few years. It drains a lot out of you. It's been a fun and at times frustrating ride, but at the end of the day, it's good to see your work completed.
+Next week (finally) "Introduccion a Windows Communication Foundation" will hit the book stores. It's the first book I've authored entirely on my own, and for now I can say that I won't be writing another for at least a few years. It drains a lot out of you. It's been a fun and at times frustrating ride, but at the end of the day, it's good to see your work completed.
 
 <a href="http://hhariri.files.wordpress.com/2008/05/7.png"><img class="alignnone size-full wp-image-657" title="7" src="http://hhariri.files.wordpress.com/2008/05/7.png" alt="" width="166" height="244" /></a>
 
@@ -33,7 +33,7 @@ Having said all that, if you buy it, I hope you enjoy it and provide me with fee
 
 -------------------------------------------------------------------
 
-La semana que viene (por fin), Introducción a Windows Communication Foundation estará disponible en las distintas librerías (FNAC, Casa del Libro) así como directamente desde <a href="http://www.krasispress.com">Krasis Press</a>. Es el primer libro que he escrito como único autor y puedo decir que no escribiré otro hasta pasado por lo menos un par de años. Aunque ha sido muy divertido, también requiere mucho esfuerzo. Pero al final del día, merece la pena ver el trabajo de uno mismo plasmado en algo físico.
+La semana que viene (por fin), Introducción a Windows Communication Foundation estará disponible en las distintas librerías (FNAC, Casa del Libro) así como directamente desde <a href="http://www.krasispress.com">Krasis Press</a>. Es el primer libro que he escrito como unico autor y puedo decir que no escribire otro hasta pasado por lo menos un par de años. Aunque ha sido muy divertido, tambien requiere mucho esfuerzo. Pero al final del día, merece la pena ver el trabajo de uno mismo plasmado en algo fisico.
 
 ¿Por qué el libro y por qué en castellano? El libro empezó como un proyecto que iba a ser un tutorial sobre WCF, a vista de la falta de información sobre esta tecnología en castellano. Sin embargo, por varios motivos, se convirtió en un libro.
 
