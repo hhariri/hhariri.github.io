@@ -39,17 +39,17 @@ comments: true
 <p>We first do a BUILD ALL and notice how seven projects get built:</p>
 <p>&nbsp;</p>
 <p><em>Solution Window</em></p>
-<p><a href="http://hhariri.files.wordpress.com/2012/07/1.png"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="1" border="0" alt="1" src="http://hhariri.files.wordpress.com/2012/07/1_thumb.png" width="411" height="386"></a></p>
+<p><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="1" border="0" alt="1" src="{{ site.images }}/hidden-gem-1.png" width="411" height="386"></p>
 <p>&nbsp;</p>
 <p><em>Build Output</em></p>
-<p><a href="http://hhariri.files.wordpress.com/2012/07/2.png"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="2" border="0" alt="2" src="http://hhariri.files.wordpress.com/2012/07/2_thumb.png" width="672" height="146"></a></p>
+<p><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="2" border="0" alt="2" src="{{ site.images }}/hidden-gem-2.png" width="672" height="146"></p>
 <p>&nbsp;</p>
 <p>Now let's make a change to NHibernate.csproj, which is referenced by the majority of the other projects. We'll add a new public class to it:</p>
-<p><a href="http://hhariri.files.wordpress.com/2012/07/3.png"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="3" border="0" alt="3" src="http://hhariri.files.wordpress.com/2012/07/3_thumb.png" width="538" height="394"></a></p>
+<p><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="3" border="0" alt="3" src="{{ site.images }}/hidden-gem-3.png" width="538" height="394"></p>
 <p>&nbsp;</p>
 <p>If we now Build the entire solution, all projects that reference NHibernate will get re-built. This is expected behaviour since we've made a change to the public interface of the referenced assembly. However, what would happen if we just added a few lines of comments:</p>
 <p>&nbsp;</p>
-<p><a href="http://hhariri.files.wordpress.com/2012/07/4.png"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="4" border="0" alt="4" src="http://hhariri.files.wordpress.com/2012/07/4_thumb.png" width="423" height="146"></a></p>
+<p><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="4" border="0" alt="4" src="{{ site.images }}/hidden-gem-4.png" width="423" height="146"></p>
 <p>&nbsp;</p>
 <p>Despite the public interface not changing, all assemblies that reference NHibernate will be re-built (You can verify this by looking at the timestamps of the assemblies).</p>
 <p>&nbsp;</p>
@@ -61,12 +61,12 @@ comments: true
 <p align="left"><br>Here's some screenshots of it in action:</p>
 <p align="left"><br>&nbsp;</p>
 <p align="left"><br><em>Projects building concurrently when possible:</em></p>
-<p align="left"><br><a href="http://hhariri.files.wordpress.com/2012/07/5.png"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="5" border="0" alt="5" src="http://hhariri.files.wordpress.com/2012/07/5_thumb.png" width="352" height="136"></a></p>
-<p align="left"><br><a href="http://hhariri.files.wordpress.com/2012/07/6.png"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="6" border="0" alt="6" src="http://hhariri.files.wordpress.com/2012/07/6_thumb.png" width="352" height="137"></a></p>
-<p align="left"><a href="http://hhariri.files.wordpress.com/2012/07/7.png"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="7" border="0" alt="7" src="http://hhariri.files.wordpress.com/2012/07/7_thumb.png" width="354" height="138"></a><br></p>
+<p align="left"><br><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="5" border="0" alt="5" src="{{ site.images }}/hidden-gem-5.png" width="352" height="136"></p>
+<p align="left"><br><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="6" border="0" alt="6" src="{{ site.images }}/hidden-gem-6.png" width="352" height="137"></p>
+<p align="left"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="7" border="0" alt="7" src="{{ site.images }}/hidden-gem-7.png" width="354" height="138"><br></p>
 <p align="left"><br>&nbsp;</p>
 <p align="left"><br><em>Build Results:</em></p>
-<p align="left"><a href="http://hhariri.files.wordpress.com/2012/07/8.png"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="8" border="0" alt="8" src="http://hhariri.files.wordpress.com/2012/07/8_thumb.png" width="387" height="194"></a><br></p>
+<p align="left"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="8" border="0" alt="8" src="{{ site.images}}/hidden-gem-8.png" width="387" height="194"><br></p>
 <p align="left"><br>&nbsp;</p>
 <p align="left"><br>If we run the same changes steps against NHibernate as we've done above, using ReSharper's solution builder, we'll see that if there is no interface change on the referenced assemblies, those assemblies that use them don't get re-built. When in a large solution, this saves substantial amount of time as you can imagine. Combined with parallel builds of independent projects and we're on to a winner!</p>
 <p align="left"><br>&nbsp;</p>
@@ -79,22 +79,22 @@ comments: true
 <p>&nbsp;</p>
 <p align="left"><br>To enable these features, close down Visual Studio and then start it up with the following command line option: <strong>/ReSharper.Internal</strong>. If all goes well, you'll have some new options enabled in the ReSharper menu (see image below). If you've got something named wrong, you'll get an error. Shut down and try again.</p>
 <p align="left"><br>&nbsp;</p>
-<p align="left"><br><a href="http://hhariri.files.wordpress.com/2012/07/9.png"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="9" border="0" alt="9" src="http://hhariri.files.wordpress.com/2012/07/9_thumb.png" width="451" height="400"></a></p>
+<p align="left"><br><a href="http://hhariri.files.wordpress.com/2012/07/9.png"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="9" border="0" alt="9" src="{{ site.images }}/hidden-gem-9.png" width="451" height="400"></a></p>
 <p align="left"><br>&nbsp;</p>
 <p align="left"><br>Obviously, apart from the Solution Builder, you'll see a whole slew of new features pop up under the ReSharper menu. I've not played with a lot of them yet, but plan to when I get a chance. </p>
 <p align="left"><br>&nbsp;</p>
 <h3>Building using the Solution Builder</h3>
 <p>When you first open a project after launching Visual Studio with these features enabled, and try and Build, you'll get a screen asking you if you want to use Visual Studio solution builder or ReSharper's Solution Builder. You need to click MSBuild for the latter:</p>
 <p>&nbsp;</p>
-<p><a href="http://hhariri.files.wordpress.com/2012/07/10.png"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="10" border="0" alt="10" src="http://hhariri.files.wordpress.com/2012/07/10_thumb.png" width="315" height="158"></a></p>
+<p><a href="http://hhariri.files.wordpress.com/2012/07/10.png"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="10" border="0" alt="10" src="{{ site.images }}/hidden-gem-10.png" width="315" height="158"></a></p>
 <p>&nbsp;</p>
 <p>You can also enable this via the ReSharper options:</p>
 <p>&nbsp;</p>
 <p><em>Choose Internals under Options:</em></p>
-<p><a href="http://hhariri.files.wordpress.com/2012/07/11.png"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="11" border="0" alt="11" src="http://hhariri.files.wordpress.com/2012/07/11_thumb.png" width="289" height="157"></a></p>
+<p><a href="http://hhariri.files.wordpress.com/2012/07/11.png"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="11" border="0" alt="11" src="{{ site.images }}/hidden-gem-11.png" width="289" height="157"></a></p>
 <p>&nbsp;</p>
 <p><em>Set options as below:</em></p>
-<p><a href="http://hhariri.files.wordpress.com/2012/07/12.png"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="12" border="0" alt="12" src="http://hhariri.files.wordpress.com/2012/07/12_thumb.png" width="442" height="308"></a></p>
+<p><a href="http://hhariri.files.wordpress.com/2012/07/12.png"><img style="background-image:none;border-bottom:0;border-left:0;padding-left:0;padding-right:0;display:inline;border-top:0;border-right:0;padding-top:0;" title="12" border="0" alt="12" src="{{ site.images }}/hidden-gem-12.png" width="442" height="308"></a></p>
 <p>&nbsp;</p>
 <p>Have fun!</p>
 <p>&nbsp;</p>

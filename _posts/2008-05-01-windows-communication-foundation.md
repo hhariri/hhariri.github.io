@@ -12,7 +12,7 @@ comments: true
 ---
 Next week (finally) "Introduccion a Windows Communication Foundation" will hit the book stores. It's the first book I've authored entirely on my own, and for now I can say that I won't be writing another for at least a few years. It drains a lot out of you. It's been a fun and at times frustrating ride, but at the end of the day, it's good to see your work completed.
 
-<a href="http://hhariri.files.wordpress.com/2008/05/7.png"><img class="alignnone size-full wp-image-657" title="7" src="http://hhariri.files.wordpress.com/2008/05/7.png" alt="" width="166" height="244" /></a>
+<a href="http://hhariri.files.wordpress.com/2008/05/7.png"><img class="alignnone size-full wp-image-657" title="7" src="{{ site.images }}/wcf-1.png" alt="" width="166" height="244" /></a>
 
 So what is this book and why is it in Spanish? Well to be honest, it started out as a tutorial I started writing in Spanish, seeing the lack of documentation that existed on WCF. However, the project got converted into a book and took a bit longer than expected. Who is this book aimed at? For people who have little or no knowledge of WCF. It's not an in-depth book (around 200 pages), but at the same time it's not a "superficial" one either. I try and cover most of the important concepts that are used in WCF and are needed in daily work.
 It's not a Hands-On-Lab (which I don't like personally) in that you don't follow a series of steps to create a project. I explain the concepts behind each thing I introduce and don't cover each and every individual step required, since most of them are obvious and not related to WCF. In other words, if you're expecting a book like:

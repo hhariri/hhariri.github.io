@@ -20,6 +20,6 @@ However, what if we were to apply the same concept to our machine? My main machi
 
 Let's take it one step further: why restrict this to location? Why not take it to the next phase and create security profiles for the same user? Based on a security profile I select, I could have my different applications ask me for credentials or not. There are many ways we could implement this. Browser and other applications could use a common API to retrieve such information about Windows. There wouldn't even be a need to store credentials. It's pretty much the same idea as using Windows authentication with your applications, combined with different profiles for different users but under the same username, i.e. take make use of the various technologies and techniques we currently have.
 
-<a href="http://hhariri.files.wordpress.com/2008/02/6.png"><img class="alignnone size-full wp-image-653" title="6" src="http://hhariri.files.wordpress.com/2008/02/6.png" alt="" width="244" height="175" /></a>
+<a href="http://hhariri.files.wordpress.com/2008/02/6.png"><img class="alignnone size-full wp-image-653" title="6" src="{{ site.images }}/profile-1.png" alt="" width="244" height="175" /></a>
 
 I can't find an immediate downside to this but as with everything, it might have it's flaws. Has this already been thought of or does it exist? If it has, it's definitely not mainstream.

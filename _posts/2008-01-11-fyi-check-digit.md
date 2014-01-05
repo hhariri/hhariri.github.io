@@ -14,6 +14,6 @@ In Spain, bank accounts have twenty digits, two of which represent the check dig
 
 Now any good system should verify the check digit and notify the user if it's incorrect. That's what my bank does. However, mine goes one step further. It actually tells me what the correct control digit is!!! @#!??!. Only one scenario comes to mind where that would be useful. Otherwise I think it can cause more harm than good.
 
-<a href="http://hhariri.files.wordpress.com/2008/01/5.png"><img class="alignnone size-full wp-image-650" title="5" src="http://hhariri.files.wordpress.com/2008/01/5.png" alt="" width="244" height="150" /></a>
+<a href="http://hhariri.files.wordpress.com/2008/01/5.png"><img class="alignnone size-full wp-image-650" title="5" src="{{ site.images }}/check-1.png" alt="" width="244" height="150" /></a>
 
 [Translation: the check digit is incorrect. It should be 41]

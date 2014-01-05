@@ -290,8 +290,7 @@ A collection of tools that I find useful and will add to as I come across them.
 
 ## IntelliJ IDEA for the Visual Studio User
 
-// TODO
-
+This has become [its own guide]({% post_url 2014-01-05-intellij-idea-for-vs-users %})
 
 ## Conferences
 
@@ -302,7 +301,7 @@ I've been going to Java Conferences for the past few years even when I wasn't do
 * [JavaZone](http://javazone.com) - It's like NDC but Java. A lot of talks in Norwegian though.
 * [JavaOne](http://www.oracle.com/javaone/index.html) - The Big One. This is like the TechEd of the Java world.
 
-There are also some 'cross-platform' conferences such as [QCon](http://qconlondon.com), [YOW!](http://yowconference.com.au), [GOTO](http://gotocon.com), etc.
+There are also some 'cross-platform' conferences such as [NDC](http://ndcoslo.com), [QCon](http://qconlondon.com), [YOW!](http://yowconference.com.au), [GOTO](http://gotocon.com), etc.
 
 ## Changelog
 
