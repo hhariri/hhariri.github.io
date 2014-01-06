@@ -57,7 +57,7 @@ IntelliJ IDEA is cross-platform. It run on Java, which means you can run it on W
 IntelliJ IDEA is not just a Java IDE, where Java refers to Java the language. There are dozens of plugins for multiple languages including Clojure, Scala, Kotlin, Go, HTML, JavaScript, etc. Some of these plugins are
 developed by JetBrains, others by the community.
 
-You can use IntelliJ IDEA to develop even web applications that are built using HTML and JavaScript and have nothing to do with Java. Although in these cases, it's recommended that you use WebStorm (if you don't need JVM technology).
+You can use IntelliJ IDEA to even develop web applications that are built using HTML and JavaScript and have nothing to do with Java. Although in these cases, it's recommended that you use WebStorm (if you don't need JVM technology).
 
 In addition to languages, it supports an array of technologies and frameworks such as Spring, Android, Java EE, et al.
 
@@ -104,7 +104,7 @@ When working with IntelliJ IDEA you have various options on how you want to deal
 
 #### Modules and Libraries
 
-An IntelliJ Project is similar to a Visual Studio Solution and can consist of modules and libraries:
+An IntelliJ IDEA Project is similar to a Visual Studio Solution and can consist of modules and libraries:
 
 * **Module**: A discrete unit of functionality that can be compiled, debugged, tested independently. Think of them as Projects in Visual Studio. Configuration information for
 a module is stored in a file with extensions *.iml*. Each module inside the project has its own *.iml* file.
@@ -138,7 +138,7 @@ the *workspace.xml* and *tasks.xml* files. [See Serge's explanation for more inf
 
 1. Click on **File \| New Project**
 
-2. Select the type of module. The most basic one is *Java*, independently of the language you're going to use. Remember, IntelliJ IDEA is multi-language so in eseence you can have multiple
+2. Select the type of module. The most basic one is *Java*, independently of the language you're going to use. Remember, IntelliJ IDEA is multi-language so in essence you can have multiple
 languages in the same module. The other options are technology specific. So for instance, Android will create an Android application, Spring will create a Spring application, et al.
 
     ![New Project]({{ site.images }}/idea-guide-1.png)
@@ -376,7 +376,7 @@ Along with File templates, you also have Live Templates which are interactive sn
 
 ## Navigation
 
-Very rich navigation and pretty much aligned feature-wise with ReSharper. If there's one key to remember that's Double-Shift (IntelliJ 13+): *Search Everywhere*
+Very rich navigation and pretty much aligned feature-wise with ReSharper. If there's one key to remember that's Double-Shift (IntelliJ IDEA 13+): *Search Everywhere*
 
 Check out the [Navigation tutorial](http://confluence.jetbrains.com/display/IntelliJIDEA/Navigation) for more information.
 
@@ -445,7 +445,7 @@ Want to talk to your HTTP servers? Issue POST/PUT/DELETE or JSON even? Use the b
 
 See this [tutorial from PhpStorm](http://www.jetbrains.com/phpstorm/webhelp/testing-restful-web-services.html) for more information. Or [watch this video](http://www.youtube.com/watch?v=fpNhaMRaLgY).
 
-Note: This any many other features and tools of IntelliJ IDEA are part of the core platform so they are available in all the different JetBrains IDE products.
+Note: This, and many other features and tools of IntelliJ IDEA are part of the core platform so they are available in all the different JetBrains IDE products.
 
 ### File Comparisons
 
@@ -479,7 +479,7 @@ keyboard mappings, templates, fonts, colors are all saved in the same file. You 
 
 ### Key Bindings and Schemes
 
-Configure the key bindings to best adapt to your needs. If you are coming from Visual Studio and using ReSharper with IntelliJ or ReSharper 2.x key mapping, there's an option
+Configure the key bindings to best adapt to your needs. If you are coming from Visual Studio and using ReSharper with IntelliJ IDEA or ReSharper 2.x key mapping, there's an option
 available for you. If you prefer ReSharper settings, [I've created a file (although I no longer maintain) with these mappings](https://github.com/hhariri/Tidbits/blob/master/resharper.jar).
 
 If you're coming from Eclipse, you have one too.
