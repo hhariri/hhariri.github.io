@@ -13,3 +13,7 @@ table th {
     border: 1px solid #6d6d6d;
     padding: 3px;
 }
+
+.warning {
+    color: #ff0000;
+}

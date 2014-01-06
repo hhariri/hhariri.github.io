@@ -290,7 +290,7 @@ A collection of tools that I find useful and will add to as I come across them.
 
 ## IntelliJ IDEA for the Visual Studio User
 
-This has become [its own guide]({% post_url 2014-01-05-intellij-idea-for-vs-users %})
+This has become [its own guide]({% post_url 2014-01-06-intellij-idea-minimal-survival-guide %})
 
 ## Conferences
 
