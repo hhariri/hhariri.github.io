@@ -7,15 +7,15 @@ published: true
 comments: true
 ---
 
-**Last updated:** 05 January, 2014
+**Last updated:** 06 January, 2014
 
 * Test
 {:toc}
 
 ## Why this Guide
 
-Much like its counterpart, [the JVM Guide]({% post_url 2013-12-29-jvm-minimal-survival-guide-for-the-dotnet-developer %} the purpose of this guide is to make it easier for those using Visual Studio to get up to speed faster with
-IntelliJ IDEA.
+Much like its counterpart, [the JVM Guide]({% post_url 2013-12-29-jvm-minimal-survival-guide-for-the-dotnet-developer %} the purpose of this guide is to make it easier for newbies to
+get up to speed faster with IntelliJ IDEA.
 
 
 ### Work in progress
@@ -24,10 +24,10 @@ While it is a blog post, it is also a page that I will update as and when I come
 
 ### Target Audience
 
-This guide is for anyone starting out on IntelliJ IDEA. Main comparisons are made with Visual Studio, so if you're familiar with .NET and Visual Studio, you'll feel
+This guide is for anyone starting out on IntelliJ IDEA. Some comparisons are made with Visual Studio, so if you're familiar with .NET and Visual Studio, you'll feel
 right at home.
 
-### What this Guide is not
+### What this guide is not
 
 This guide is not meant to replace the [documentation for IntelliJ IDEA](http://www.jetbrains.com/idea/webhelp) or the many [tutorials available](http://confluence.jetbrains.com/display/IntelliJIDEA/Getting+Started). When appropriate this guide links to help and tutorials available.
 
@@ -78,7 +78,7 @@ Ultimate builds on top of Community Edition, adding some features. See [full com
 
 ### IntelliJ IDEA or Android Studio?
 
-Android Studio is a Google product that is built on top of IntelliJ IDEA Community Edition. It is also free and OSS but is maintained by Google, not JetBrains.
+[Android Studio](http://developer.android.com/sdk/installing/studio.html) is a Google product that is built on top of IntelliJ IDEA Community Edition. It is also free and OSS but is maintained by Google, not JetBrains.
 If you're doing only Android development and want to adopt Google's release cycle, use Android Studio. If you're doing other types of development, be it JVM, Web, etc.
 then you're best bet is to use IntelliJ IDEA.
 
@@ -96,7 +96,7 @@ All of them are based on the same platform: IntelliJ IDEA Platform. If you are d
 All the functionality included in each of these individual IDE's (with the exception of AppCode), are also available in IntellIJ IDEA. However, the release cycles may vary so while
 you won't necessarily get it out of the box at the same time, you will find it as a [plugin](http://plugins.jetbrains.com)
 
-## Projects
+## Project Formats
 
 When working with IntelliJ IDEA you have various options on how you want to deal with projects. You can use IntelliJ IDEA's own format or use Maven/Gradle projects.
 
@@ -110,7 +110,7 @@ An IntelliJ Project is similar to a Visual Studio Solution and can consist of mo
 a module is stored in a file with extensions *.iml*. Each module inside the project has its own *.iml* file.
 * **Libraries**: An archive of compiled code (i.e. JAR) that a module can depend on.
 
-A single IntellIJ project can consist one or more modules and/or libraries.
+A single IntellIJ project can consist of one or more modules and/or libraries.
 
 #### Storage Format
 
@@ -427,29 +427,101 @@ You can add, delete, commit, revert, branch, push, pull, and pretty much do anyt
 Something that can save you often is **Local History**. IntelliJ IDEA keeps a local history of your changes, so even if you haven't committed or attached the project
 to version control, you can still benefit from being able to rollback changes.
 
+![Local History]({{ site.images }}/idea-guide-24.png)
+
 ## Tools
 
-// TODO
+IntelliJ IDEA comes with a series of frequently used tools. Too many to cover in this guide in one go but here are some important ones you might need:
 
 ### Terminal
 
+Just launch the **Tools \| Terminal** and you have complete shell access from inside the IDE
+
 ### REST Client
+
+Want to talk to your HTTP servers? Issue POST/PUT/DELETE or JSON even? Use the built-in *Test RESTful Web Service*.
+
+![REST]({{ site.images }}/idea-guide-26.png)
+
+See this [tutorial from PhpStorm](http://www.jetbrains.com/phpstorm/webhelp/testing-restful-web-services.html) for more information. Or [watch this video](http://www.youtube.com/watch?v=fpNhaMRaLgY).
+
+Note: This any many other features and tools of IntelliJ IDEA are part of the core platform so they are available in all the different JetBrains IDE products.
 
 ### File Comparisons
 
+Same as you can do with [Local History](#local-history), you can select two files and compare them, as well as edit in place. Just select the two files in the
+Project Window, right-click and *Compare files*
+
+![Compare Files]({{ site.images }}/idea-guide-27.png)
+
 ### Database Tools
+
+Want to talk to a SQL Database? Just use the [built-in database tools](http://blog.jetbrains.com/phpstorm/2013/10/database-tools-and-sql-editor-changes-in-phpstorm-7/).
+(this post is a bit outdated as it's now much easier to set up new connections. No need to specify JDBC string anymore).
 
 ## Configuration
 
-### Key Bindings
+IntelliJ IDEA is extremely configurable and you'll discover features as you use it more. It would be impossible to cover every aspect in this guide, but a couple of hints:
 
-Just remember Shift+Ctrl+A
+![Configuration]({{ site.images }}/idea-guide-28.png)
 
-#### Schemes
+Do not sit looking through pages and tabs of configuration, just open up the dialog box and start typing. There's a quick find. For instance, want to go to change
+inspection settings for obsolete code, start typing 'obsol...'
 
-### Most important shortcuts
+![Search Settings]({{ site.images }}/idea-guide-29.png)
 
-### Plugins
+### Importing and Exporting Settings
+
+To import and export settings use **File \| Import Settings** and **File \| Export Settings** respectively. Settings are saved as *.jar* files. All settings, be it
+keyboard mappings, templates, fonts, colors are all saved in the same file. You can pick what you want to import/export.
+
+![Settings Import Export]({{ site.images }}/idea-guide-35.png)
+
+### Key Bindings and Schemes
+
+Configure the key bindings to best adapt to your needs. If you are coming from Visual Studio and using ReSharper with IntelliJ or ReSharper 2.x key mapping, there's an option
+available for you. If you prefer ReSharper settings, [I've created a file (although I no longer maintain) with these mappings](https://github.com/hhariri/Tidbits/blob/master/resharper.jar).
+
+If you're coming from Eclipse, you have one too.
+
+![Keymaps]({{ site.images }}/idea-guide-30.png)
+
+Personally I try and adapt to a new environment learning the settings for that one. On Mac I use the default Mac OSX+ keymap scheme.
+
+### Fonts, Colors and Theme
+
+I use Darcula theme with my own font size. You can change it to your needs. But remember, you need to first Save the scheme to a new name before you can change it.
+
+![Font Settings]({{ site.images }}/idea-guide-31.png)
+
+#### Remember these two keyboard shortcuts
+
+If all else fails remember:
+
+* **Double Shift**: Search everywhere. And I really mean everywhere. Even settings.
+
+    ![Shift+Ctrl+A]({{ site.images }}/idea-guide-32.png)
+
+* **Shift+Ctrl+A**: Can't remember a keyboard shortcut or menu entry? Start looking for it
+
+    ![Search Everywhere]({{ site.images }}/idea-guide-33.png)
+
+## Plugins
+
+Over 1000 plugins so too many to even consider mentioning here. You can either browse or search for them via the browser on the [JetBrains plugin site](http://plugins.jetbrains.com)
+or directly from inside IntelliJ IDEA
+
+![Plugins]({{ site.images }}/idea-guide-34.png)
+
+You can install plugins from:
+
+* **JetBrains Plugins**: These are plugins created and maintained by JetBrains (i.e. official)
+* **Browse Repositories**: By default points to plugins.jetbrains.com but you can point to other repositories too.
+* **Install plugin from disk**: Point to a zip file (plugins ship as zip files)
+
+You can also of course [create your own plugins](http://confluence.jetbrains.com/display/IntelliJIDEA/Plugin+Development).
+
+And while I can't mention any because there are way too many cool ones, for VIM lovers, there's IDEAVim which gives you a somewhat Vim experience inside IntelliJ IDEA.
 
 ## Change Log
 
