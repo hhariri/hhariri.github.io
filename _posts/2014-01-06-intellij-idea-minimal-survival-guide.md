@@ -14,7 +14,7 @@ comments: true
 
 ## Why this Guide
 
-Much like its counterpart, [the JVM Guide]({% post_url 2013-12-29-jvm-minimal-survival-guide-for-the-dotnet-developer %} the purpose of this guide is to make it easier for newbies to
+Much like its counterpart, [the JVM Guide]({% post_url 2013-12-29-jvm-minimal-survival-guide-for-the-dotnet-developer %}) the purpose of this guide is to make it easier for newbies to
 get up to speed faster with IntelliJ IDEA.
 
 
