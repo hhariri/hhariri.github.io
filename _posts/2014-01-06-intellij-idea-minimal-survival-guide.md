@@ -529,4 +529,4 @@ Tracks changes made to this guide.
 
 | Date | Change |
 |------|--------|
-| 6th Jan | First Draft Published |
+| 06th Jan 2014 | First Draft Published |

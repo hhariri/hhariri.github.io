@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JVM Minimal Survival Guide for the .NET Developer
+title: JVM Minimal Survival Guide
 status: publish
 type: post
 published: true
@@ -25,8 +25,8 @@ While it is a blog post, it is also a page that I will update as and when I come
 
 ### Target Audience
 
-Although the title says "for the .NET Developer", this guide is for anyone that is new to the JVM platform. While there will be some comparison to the .NET platform, it is not
-exclusively targeted at .NET Developers.
+This guide was primarily focused for .NET Developers as there are quite a few comparisons with .NET. In fact the URL still indicates it. Having said that, I'm hoping it is just as
+useful for non .NET developers that are also new to the Java platform.
 
 ## The Basics
 
@@ -309,6 +309,7 @@ Tracks changes made to this guide.
 
 | Date | Change |
 |------|--------|
-| 30 December | Updated JavaFX description. Added ChangeLog Section |
+| 30th Dec 2013 | Updated JavaFX description. Added ChangeLog Section |
+| 06th Jan 2014 | Updated title and fixed added link to IntelliJ IDEA guide |
 
 
