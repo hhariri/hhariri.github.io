@@ -265,7 +265,7 @@ Once you define them you can then access them from the **Build** menu.
 
 ### SDK's
 
-These are globally available SKD's for IntelliJ IDEA. Add and remove at will. Obviously don't remove those required!
+These are globally available SDK's for IntelliJ IDEA. Add and remove at will. Obviously don't remove those required!
 
 ### Global Libraries
 
