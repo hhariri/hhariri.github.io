@@ -7,7 +7,7 @@ published: true
 comments: true
 ---
 
-**Last updated:** 06 January, 2014
+**Last updated:** 07 January, 2014
 
 * Test
 {:toc}
@@ -500,11 +500,11 @@ If all else fails remember:
 
 * **Double Shift**: Search everywhere. And I really mean everywhere. Even settings.
 
-    ![Shift+Ctrl+A]({{ site.images }}/idea-guide-32.png)
+    ![Shift Everywhere]({{ site.images }}/idea-guide-32.png)
 
-* **Shift+Ctrl+A**: Can't remember a keyboard shortcut or menu entry? Start looking for it
+* **Cmd+Shift+A**: Can't remember a keyboard shortcut or menu entry? Start looking for it
 
-    ![Search Everywhere]({{ site.images }}/idea-guide-33.png)
+    ![Cmd+Shift+A]({{ site.images }}/idea-guide-33.png)
 
 ## Plugins
 
@@ -530,3 +530,4 @@ Tracks changes made to this guide.
 | Date | Change |
 |------|--------|
 | 06th Jan 2014 | First Draft Published |
+| 07th Jan 2014 | Fixed typo's |
