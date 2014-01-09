@@ -50,8 +50,7 @@ IntelliJ IDEA is a full-fledged IDE with all the things you'd come to expect fro
 
 ### Cross Platform
 
-IntelliJ IDEA is cross-platform. It run on Java, which means you can run it on Windows, OSX and Linux. You can use either Oracle's JVM distribution or OpenJDK (a warning comes up but in general it should work fine).
-
+IntelliJ IDEA is cross-platform. It run on Java, which means you can run it on Windows, OSX and Linux. You can use either Oracle's JVM distribution or OpenJDK (except OpenJDK 6).
 ### Multiple Languages and Technologies
 
 IntelliJ IDEA is not just a Java IDE, where Java refers to Java the language. There are dozens of plugins for multiple languages including Clojure, Scala, Kotlin, Go, HTML, JavaScript, etc. Some of these plugins are
@@ -93,8 +92,10 @@ JetBrains provides specialized IDE's which are more focused around a specific la
 * **AppCode**: Objective-C
 
 All of them are based on the same platform: IntelliJ IDEA Platform. If you are doing JVM Development, you need IntelliJ IDEA. Otherwise pick the IDE that's most appropriate for you.
-All the functionality included in each of these individual IDE's (with the exception of AppCode), are also available in IntellIJ IDEA. However, the release cycles may vary so while
-you won't necessarily get it out of the box at the same time, you will find it as a [plugin](http://plugins.jetbrains.com)
+All the functionality included in each of these individual IDE's (with the exception of AppCode), are also available in IntellIJ IDEA, some ship out of the box, others you can
+download as [plugins](http://plugins.jetbrains.com).
+
+The release cycles for IntelliJ IDEA and other IDE's vary though.
 
 ## Project Formats
 
@@ -505,6 +506,12 @@ If all else fails remember:
 * **Cmd+Shift+A**: Can't remember a keyboard shortcut or menu entry? Start looking for it
 
     ![Cmd+Shift+A]({{ site.images }}/idea-guide-33.png)
+
+## Editing
+
+### No Save
+
+You don't need to save files in IntelliJ IDEA. It automatically does so.
 
 ## Plugins
 

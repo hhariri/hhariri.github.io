@@ -7,7 +7,7 @@ published: true
 comments: true
 ---
 
-**Last updated:** 6th January, 2014
+**Last updated:** 9th January, 2014
 
 * Test
 {:toc}
@@ -292,6 +292,137 @@ A collection of tools that I find useful and will add to as I come across them.
 
 This has become [its own guide]({% post_url 2014-01-06-intellij-idea-minimal-survival-guide %})
 
+
+## Working with the JVM
+
+This section describes some common tasks you'd do with the JVM. Most examples will be in Kotlin but can easily be adapted to other languages.
+
+### Class Loaders
+
+Class Loaders on the JVM is a long topic, way too long for this guide, so I'm just going to touch on the basics.
+
+In .NET you have an Assembly class that loads other classes. On the JVM, you have Class Loaders. And that's plural, i.e. there can be more than one class loader.
+The default class loader which is used to start up your app can be obtained using the method *getSystemClassLoader()* of the *ClassLoader* class:
+
+{% highlight kotlin %}
+    val classLoader = ClassLoader.getSystemClassLoader()
+{% endhighlight %}
+
+Don't try firing up a new instance of *ClassLoader* because it's an abstract type. There are a couple of implementations of class loaders which are often used, one of
+which is the *URLClassLoader*.
+
+One very important concept of Class Loaders. Each Class Loader has a property which points to a parent class loader.
+
+How does this effect class loading? Well, when you're trying to load a class, the JVM will first try and ask the parent to load the class. If the parent cannot load the class, then your class loader will try and load the class.
+
+Class Loaders, including *URLClassLoader* allow you to specify an alternative parent when creating an instance.
+
+The default system class loader always kicks in and tries to load classes that are on the given classpath, if this behavior is not overridden by subclasses.
+
+Also, class identity in JVM is similar to .NET, which means that the same classes loaded from different class loaders are not compatible, even when on the same chain.
+
+#### Creating your own class loaders
+
+You can not only create your own class loaders, inheriting from *ClassLoader*, but you can also change the default class loader, something that's not possible in .NET.
+
+#### More information on class loaders
+
+There are so many articles out there on class loaders. Here are a few I found:
+
+* [The Basics of Java Class Loaders](http://www.javaworld.com/article/2077260/learn-java/the-basics-of-java-class-loaders.html)
+* [Ted Newards's Papers on Finding, Loading Classes and more](http://www.tedneward.com/writing.aspx)
+* [Oracle's Papers on Java Class Loading](http://docs.oracle.com/javase/tutorial/ext/basics/load.html)
+
+and just use Google, because there are tons of blog posts, articles and papers on the topic.
+
+
+#### Dynamic Class Loading from Current Module
+
+In .NET, to load a class from the current assembly, you can do something like:
+
+{% highlight csharp %}
+    var assembly = Assembly.GetExecutingAssembly();
+
+    var loadedClass = assembly.GetType("Loader.Customer");
+{% endhighlight %}
+
+where Loader is the current namespace of the assembly where Customer is. This works as long as classes are in the current assembly.
+
+The equivalent on the JVM would be:
+
+{% highlight kotlin %}
+    val classLoader = ClassLoader.getSystemClassLoader()
+
+    val loadedClass = classLoader?.loadClass("org.loader.Customer")
+{% endhighlight %}
+
+*?* is a Kotlin specific construct which basically means only execute the operation if classLoader is not null. It's shortcut for
+
+{% highlight kotlin %}
+    if (classLoader != null) {
+        val loadedClass = classLoader.loadClass("org.loader.Customer")
+    }
+{% endhighlight %}
+
+#### Dynamic Class Loading from Another Module
+
+In .NET, you'd do:
+
+{% highlight csharp %}
+    var assembly = Assembly.LoadFrom(@"C:\Folder\SampleModule.dll");
+
+    var loadedClass = assembly.GetType("SampleModule.Customer");
+{% endhighlight %}
+
+On the JVM, you usually use *URLClassLoader*, where you pass in a list of URL's, not folders. The benefit of URL's means that you can load from disk, from the web, etc.
+
+If your classes are packaged as a JAR, you pass in the JAR filename:
+
+{% highlight kotlin %}
+    val url = URL("file:///path-to-folder/sampleModule.jar")
+
+    val urls = array(url)
+
+    val classLoader = URLClassLoader.newInstance(urls)
+
+    val loadedClass = classLoader?.loadClass("org.sampleModule.Customer")
+{% endhighlight %}
+
+You can of course use File instead of URL and point to a file, which is more common, but then you need to convert the file to a URL:
+
+{% highlight kotlin %}
+    val file = File("/path-to-folder/sampleModule.jar")
+
+    val url = file.toURI().toURL()
+{% endhighlight %}
+
+If your classes are located as individual *.class* files in a folder, you pass in the folder.
+
+{% highlight kotlin %}
+    val url = URL("file:///path-to-root-folder/")
+
+    val urls = array(url)
+
+    val classLoader = URLClassLoader.newInstance(urls)
+
+    val loadedClass = classLoader?.loadClass("org.sampleModule.Customer")
+{% endhighlight %}
+
+Why am I not instantiating *URLClassLoader* and using the *newInstance* method instead? Well apparently it has the benefit of
+calling *securityManager.checkPackageAccess* if a Security Manager is installed.
+
+***A couple of very important points that will save you headaches when using directories (not JARS):***
+
+1. Make sure you pass the trailing / to the URL/File.
+2. Make sure you stop at the root folder. What does this mean? When you compile org.sampleModule.Customer class, it generates an output of:
+
+    output-root-folder/org/sampleModule/Customer.class
+
+where the dots are replaced with /. This means that you the *URLLoader* is expecting you to point to the root, not where the namespaces start. The full namespace
+is provided in the call to *loadClass*.
+
+Thanks [@orangy](http://twitter.com/orangy) for saving me from this headache.
+
 ## Conferences
 
 I've been going to Java Conferences for the past few years even when I wasn't doing more Java development. Here's a pick of some I've gone to that are decent:
@@ -311,5 +442,6 @@ Tracks changes made to this guide.
 |------|--------|
 | 30th Dec 2013 | Updated JavaFX description. Added ChangeLog Section |
 | 06th Jan 2014 | Updated title and fixed added link to IntelliJ IDEA guide |
+| 09th Jan 2014 | Added Section on Class Loading |
 
 
