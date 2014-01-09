@@ -329,6 +329,7 @@ You can not only create your own class loaders, inheriting from *ClassLoader*, b
 
 There are so many articles out there on class loaders. Here are a few I found:
 
+* [Extensive tutorial on Class Loaders for Zeroturnaround](http://zeroturnaround.com/rebellabs/rebel-labs-tutorial-do-you-really-get-classloaders/)
 * [The Basics of Java Class Loaders](http://www.javaworld.com/article/2077260/learn-java/the-basics-of-java-class-loaders.html)
 * [Ted Newards's Papers on Finding, Loading Classes and more](http://www.tedneward.com/writing.aspx)
 * [Oracle's Papers on Java Class Loading](http://docs.oracle.com/javase/tutorial/ext/basics/load.html)
