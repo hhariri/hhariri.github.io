@@ -13,9 +13,15 @@ share: true
 ## 2014
 
 * BASTA! Spring, Darmstadt, February 2014
+* NETwork Conference, Kharkov, March 2014
+* CodeMotion, Rome, April 2014
+* Devoxx France, April 2014
 * JAX! Mainz, May 2014
 * SDD Conference, London, May 2014
 * Agile Practices, Berlin, May 2014
+* NDC, Oslo, June 2014
+* GeekOut, Tallinn, June 2014
+
 
 
 ## 2013
