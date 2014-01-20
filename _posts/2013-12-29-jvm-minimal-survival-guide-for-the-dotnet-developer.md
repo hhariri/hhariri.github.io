@@ -162,7 +162,7 @@ Maven is quite popular. When you see a project with a pom.xml file, that's Maven
 However, Maven is more than just a build tool. It's a packaging system. It's like NuGet in .NET, like NPM in Node.js. Much like nuget.org there's also a maven.org. And similar to the whole
 "if it's not on nuget.org it doesn't exist", well, kind of the same situation in the Java ecosystem.
 
-Like NuGet, you can also host your own Maven repostiory. [Artifactory](http://www.jfrog.com/home/v_artifactory_opensource_overview) is a product that allows you to do so.
+Like NuGet, you can also host your own Maven repository. [Artifactory](http://www.jfrog.com/home/v_artifactory_opensource_overview) is a product that allows you to do so.
 
 ### Gradle
 
