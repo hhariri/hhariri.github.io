@@ -52,7 +52,7 @@ comments: true
 
 **James**: Any new interesting things on the horizon?
 
-**John**: Yeah. Might get to lead a new project that is putting a place a way to lower traffic accidents.
+**John**: Yeah. Might get to lead a new project that we're putting in place as a way to lower traffic accidents.
 
 **James**: Very cool. I'd love to participate in something that has a direct impact on people's lives.
 
