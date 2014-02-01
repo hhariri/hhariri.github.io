@@ -32,8 +32,10 @@ And then of course there's Big Data in case everything else fails to convince us
 The flip-side of all this is that so much focus on scalability often detracts other merits of certain technologies.
 
 [I started using CouchDB](http://hadihariri.com/2010/11/24/nosql-couchdb/) because I was tired of database migrations amongst other things.
-I started using node.js because I was tired of ceremony of more traditional frameworks I was using to at the time. And to a certain extent like JavaScript. I started using AngularJS because I was
-tired of doing the same crap over and over again by hand. And I didn't discard AngularJS or any client-side framework when I was told that Twitter did because, "it doesn't scale".
+
+I started using node.js because I was tired of ceremony of more traditional frameworks I was using to at the time. And to a certain extent, I like JavaScript.
+
+I started using AngularJS because I was tired of doing the same crap over and over again by hand. And I didn't discard AngularJS or any client-side framework when I was told that Twitter did because, "it doesn't scale".
 
 It's not all about scale.
 
