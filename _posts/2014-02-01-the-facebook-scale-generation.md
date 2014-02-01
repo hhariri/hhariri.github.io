@@ -21,7 +21,8 @@ be sold to Twitter or Facebook.
 
 And yet, lately it seems that every technology, every language, every framework is being sold to us based on its scalability merits.
 
-Conferences have all become about scalability. Languages have all become about concurrency. Frameworks have become all about scalability.
+Conferences have become about scalability. Languages have become about concurrency. Frameworks have become about scalability.
+
 And then of course there's Big Data in case everything else fails to convince us we need to scale.
 
 ## Also, it's not all about scale
