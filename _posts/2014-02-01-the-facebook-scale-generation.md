@@ -7,8 +7,9 @@ published: true
 comments: true
 ---
 
-Yet another [post about how Node.js is faster than Java](http://strongloop.com/strongblog/node-js-is-faster-than-java/). For the sake of argument, let's agree that
-big companies choosing node.js means that it's safe for us to pick it. And if that isn't sufficient reason, the 50K modules available definitely should persuade us.
+Yet another [post about how Node.js is faster than Java](http://strongloop.com/strongblog/node-js-is-faster-than-java/).
+
+For the sake of argument, let's agree that big companies choosing and backing node.js means that it's safe for us to pick it. And if that isn't sufficient reason, the 50K modules available definitely should persuade us.
 Of course, we won't question how many out of those 50K are currently active, not abandoned, and written perfectly using asynchronous non-blocking code.
 
 Let's just pretend it's all good and it's scalable. Damn scalable.
