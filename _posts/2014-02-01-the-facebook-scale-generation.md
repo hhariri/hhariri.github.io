@@ -35,6 +35,8 @@ The flip-side of all this is that so much focus on scalability often detracts ot
 I started using node.js because I was tired of ceremony of more traditional frameworks I was used to at the time. And to a certain extent like JavaScript. I started using AngularJS because I was
 tired of doing the same crap over and over again by hand. And I didn't discard AngularJS or any client-side framework when I was told that Twitter did because, "it doesn't scale".
 
+It's not all about scale. 
+
 
 
 
