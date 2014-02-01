@@ -51,6 +51,7 @@ IntelliJ IDEA is a full-fledged IDE with all the things you'd come to expect fro
 ### Cross Platform
 
 IntelliJ IDEA is cross-platform. It run on Java, which means you can run it on Windows, OSX and Linux. You can use either Oracle's JVM distribution or OpenJDK (except OpenJDK 6).
+
 ### Multiple Languages and Technologies
 
 IntelliJ IDEA is not just a Java IDE, where Java refers to Java the language. There are dozens of plugins for multiple languages including Clojure, Scala, Kotlin, Go, HTML, JavaScript, etc. Some of these plugins are
