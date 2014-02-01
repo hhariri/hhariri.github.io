@@ -16,7 +16,7 @@ Let's just pretend it's all good and it's scalable. Damn scalable.
 
 ## It's not all about scale
 
-Here's the thing, not everyone is creating the next Twitter or Facebook or the application that needs to scale to hundreds of millions of users accessing it concurrently, and then
+The reality is, not everyone is creating the next Twitter or Facebook or the application that needs to scale to hundreds of millions of users accessing it concurrently, and then
 be sold to Twitter or Facebook.
 
 And yet, lately it seems that every technology, every language, every framework is being sold to us based on its scalability merits.
@@ -35,7 +35,7 @@ The flip-side of all this is that so much focus on scalability often detracts ot
 
 I started using node.js because I was tired of ceremony of more traditional frameworks I was using to at the time. And to a certain extent, I like JavaScript.
 
-I started using AngularJS because I was tired of doing the same crap over and over again by hand. And I didn't discard AngularJS or any client-side framework when I was told that Twitter did because, "it doesn't scale".
+I started using AngularJS because I was tired of doing the same crap over and over again by hand. And I didn't discard AngularJS or any client-side framework when I was told that Twitter did so because, "it doesn't scale".
 
 It's not all about scale.
 
