@@ -21,7 +21,7 @@ If you're familiar with Jasmine, Mocha, Cucumber or Machine Specifications, then
 
 ![Spek Example]({{ site.images }}/spek-1.png)
 
-If you're not familiar, let me briefly explain:
+If you're not familiar with this style of syntax, let me briefly explain:
 
 * **Given** - Establish the context of the test, i.e. Arrange
 * **On** - Execute the action, i.e. Act
