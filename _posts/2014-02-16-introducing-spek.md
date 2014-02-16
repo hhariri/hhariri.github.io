@@ -34,7 +34,7 @@ action. It's good practice (well I say so), that you keep each *it* with a singl
 ### What language is that?
 
 Spek is written in Kotlin, but your code doesn't need to be. Kotlin is 100% compatible with Java, which means that you can test/write your specifications in Kotlin
-and keep your code in Java (if you really wnat to that is).
+and keep your code in Java (if you really want to that is).
 
 ### How do I run it?
 
