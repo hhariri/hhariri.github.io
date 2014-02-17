@@ -17,7 +17,7 @@ in a state that it can be used in applications.
 
 ### Spek
 
-If you're familiar with Jasmine, Mocha, Cucumber or Machine Specifications, then you'll immediately see the resemblance
+If you're familiar with Jasmine, Mocha or Machine Specifications, then you'll immediately see the resemblance
 
 ![Spek Example]({{ site.images }}/spek-1.png)
 
