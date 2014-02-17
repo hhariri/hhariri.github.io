@@ -531,6 +531,11 @@ You can also of course [create your own plugins](http://confluence.jetbrains.com
 
 And while I can't mention any because there are way too many cool ones, for VIM lovers, there's IDEAVim which gives you a somewhat Vim experience inside IntelliJ IDEA.
 
+## IntelliJ IDEA For Eclipse Users
+
+Anton from Zeroturnaround has written an [awesome and complete guide for IntelliJ IDEA users coming from Eclipse](http://zeroturnaround.com/rebellabs/getting-started-with-intellij-idea-as-an-eclipse-user/). Highly recommended if it's your case. And still recommended even if you're not coming from Eclipse as
+it contains a ton of tips and tricks. 
+
 ## Change Log
 
 Tracks changes made to this guide.
@@ -539,3 +544,4 @@ Tracks changes made to this guide.
 |------|--------|
 | 06th Jan 2014 | First Draft Published |
 | 07th Jan 2014 | Fixed typo's |
+| 12th Feb 2014 | Added IntelliJ for Eclipse Users |

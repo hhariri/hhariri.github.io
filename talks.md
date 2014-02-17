@@ -13,7 +13,6 @@ share: true
 ## 2014
 
 * BASTA! Spring, Darmstadt, February 2014
-* NETwork Conference, Kharkov, March 2014
 * CodeMotion, Rome, April 2014
 * Devoxx France, April 2014
 * JAX! Mainz, May 2014
