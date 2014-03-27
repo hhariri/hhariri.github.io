@@ -63,7 +63,6 @@
 {% unless background contains 'http://' or background contains 'https://' %}{% capture background %}{{ site.url }}/images/{{ background }}{% endcapture %}{% endunless %}
 <style type="text/css">body {background-image:url({{ background }});}</style>
 {% endif %}
-
 <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
 <link rel="stylesheet" type="text/css" href="http://assets.cookieconsent.silktide.com/current/style.min.css"/>
 <script type="text/javascript" src="http://assets.cookieconsent.silktide.com/current/plugin.min.js"></script>
@@ -72,9 +71,14 @@
 	cc.initialise({
 			cookies: {
 						analytics: {}
-							}
-						});
-						// ]]>
-					</script>
-					<!-- End Cookie Consent plugin -->
+							},
+								settings: {
+											bannerPosition: "bottom",
+													tagPosition: "vertical-right",
+															disableallsites: true
+																}
+															});
+															// ]]>
+														</script>
+														<!-- End Cookie Consent plugin -->
 
