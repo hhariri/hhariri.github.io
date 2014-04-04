@@ -56,7 +56,7 @@ and in fact mostly changes the mood. And that's very useful when you're working 
 
 Of course, not always do we say it. But we should.
 
-### Initiatives are demanded
+### Initiative is demanded
 
 I expect people on my team to show initiatives, to come up with ideas. Our work isn't limited to just doing tasks that are
 assigned to us. It's finding areas where we can improve things and working on these things.
