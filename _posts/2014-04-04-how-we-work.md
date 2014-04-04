@@ -44,7 +44,7 @@ going on, specially since quite a few of us are involved with multiple products 
 
 ### We use YouTrack
 
-We use YouTrack to track our work. We use it to communicate with each other and the teams. We use to plan things out and schedule activities and it serves to control
+We use YouTrack to track our work. We use it to communicate with each other and the teams. We use it to plan things out and schedule activities and it serves to control
 the different stages some activities need to go through.
 
 ### There's one meeting a week
