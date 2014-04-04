@@ -24,18 +24,18 @@ in micro-management and I'd hate to be micro-managed myself.
 
 I trust people on my team. We share the same vision. I give them the freedom to work and I believe that
 they will act in the best interests of our common goals.
-Find good people. Trust them. Care for them. You'll get the same back.
+If you find good people, trust them and care for them, you'll get the same back.
 
 
 ### There's no Management
 
-Technically I manage or lead the team, but I find that my role is more associated with that of a Scrum Master, except I
-don't like much the word Master, specially when it's something you can be certified in in two days. But I think the duties are somewhat the same.
-
-My main role is to try and solve issues when they come up, and to make sure that everyone is happy on my team as well
+Technically I manage or lead the team, but I find that my role is to try and solve issues when they come up, and to make sure that everyone is happy on my team as well
 as those teams for which we work with. And of course ultimately all of you, our users.
 
 I'm also that extra set of eyes when someone wants a second opinion.
+
+You could say I'm more like a Scrum Master, except I
+don't like much the word Master, specially when it's something you can be certified in in two days. But I think the duties are somewhat the same.
 
 ### There's no Reporting
 
@@ -87,5 +87,5 @@ we're offered a slot, then we always try and do some presentation that provides 
 unrelated to our tools. Again, we only speak on things we're passionate about and believe in.
 
 
-###
+
 
