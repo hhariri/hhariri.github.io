@@ -66,7 +66,7 @@ never does things without asking for permission first.
 ### We code
 
 I made a pact to myself when I joined JetBrains that I'd not become a pundit. How could I possibly show people how to make better use of our tools or solve issues
-if I myself weren't facing those issues or working with those tools? In addition, I love software development. I enjoy it and I always want o continue to write code. And I make sure I do.
+if I myself weren't facing those issues or working with those tools? In addition, I love software development. I enjoy it and I always want to continue to write code. And I make sure I do.
 
 I also demand it of the team. Whether this is working on internal things, extensions, plugins or Open Source Projects, it's a team policy that everyone should write code. And I'm happy to say that it's not
  enforced because we all love writing code.
