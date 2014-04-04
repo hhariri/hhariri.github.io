@@ -24,7 +24,6 @@ in micro-management and I'd hate to be micro-managed myself.
 
 I trust people on my team. We share the same vision. I give them the freedom to work and I believe that
 they will act in the best interests of our common goals.
-If you find good people, trust them and care for them, you'll get the same back.
 
 
 ### There's no Management
@@ -87,5 +86,9 @@ we're offered a slot, then we always try and do some presentation that provides 
 unrelated to our tools. Again, we only speak on things we're passionate about and believe in.
 
 
+### It's about Trust. It's about Caring.
+
+One of the most important aspects I think of building a good team is of finding the right people and trusting these people, caring for them.
+If you do that, you'll get the same back.
 
 
