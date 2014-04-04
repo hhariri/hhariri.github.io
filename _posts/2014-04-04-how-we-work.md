@@ -23,7 +23,8 @@ One thing I make very clear from the start to anyone joining my team, is that I 
 in micro-management and I'd hate to be micro-managed myself.
 
 I trust people on my team. We share the same vision. I give them the freedom to work and I believe that
-they will act in the best interests of our common goals. Trust people. Care for them. You'll get the same back.
+they will act in the best interests of our common goals.
+Find good people. Trust them. Care for them. You'll get the same back.
 
 
 ### There's no Management
@@ -36,7 +37,7 @@ as those teams for which we work with. And of course ultimately all of you, our 
 
 I'm also that extra set of eyes when someone wants a second opinion.
 
-### There's no reporting
+### There's no Reporting
 
 I don't believe in detailed reporting of what you do each day. We have a mailing list where each of us sends a short weekly
 summary of things we did. Everyone on the team sees it, not only me. The report is more about having awareness of what's
@@ -63,7 +64,7 @@ assigned to us. It's finding areas where we can improve things and working on th
 Sometimes initiatives don't always work out or go according to plan, but I'd much rather work with someone that tries, screws up, and says sorry than someone that
 never does things without asking for permission first.
 
-### We Code
+### We code
 
 I made a pact to myself when I joined JetBrains that I'd not become a pundit. How could I possibly show people how to make better use of our tools or solve issues
 if I myself weren't facing those issues or working with those tools? In addition, I love software development. I enjoy it and I always want o continue to write code. And I make sure I do.
@@ -86,5 +87,5 @@ we're offered a slot, then we always try and do some presentation that provides 
 unrelated to our tools. Again, we only speak on things we're passionate about and believe in.
 
 
-
+###
 
