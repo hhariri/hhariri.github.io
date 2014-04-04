@@ -40,7 +40,7 @@ don't like much the word Master, specially when it's something you can be certif
 
 I don't believe in detailed reporting of what you do each day. We have a mailing list where each of us sends a short weekly
 summary of things we did. Everyone on the team sees it, not only me. The report is more about having awareness of what's
-going on, specially since quite a few of us are involved with multiple products and sometimes there are overlaps.
+going on, specially since quite a few of us are involved with multiple products and sometimes these overlap.
 
 ### We use YouTrack
 
