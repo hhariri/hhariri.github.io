@@ -1,41 +1,43 @@
 title:            Hadi Hariri
-description:      Ramblings of a mostly technical nature
+description:      Writings
+# Your site's domain goes here. Leave localhost server or blank when working locally.
+url:
 disqus_shortname: hadihariri
-#Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://hadihariri.com
+
 images:           /images
 # Owner/author information
 owner:
   name:           Hadi Hariri
-  avatar:         pic.png
-  bio:            "Developer. Speaker. "
+  avatar:         bio.png
+  bio:            "Developer. Student. Teacher"
   email:          mail@hadihariri.com
-  # Social networking links used in footer. Update and remove as you like.
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        hhariri
-  facebook:       
   github:         hhariri
-  stackexchange:  
-  linkedin:       http://es.linkedin.com/pub/hadi-hariri/83/68a/b03
-  instagram:      
-  flickr:         
-  tumblr:         
+  linkedin:       pub/hadi-hariri/83/68a/b03
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:   https://plus.google.com/+HadiHariri1
-
-# Background image to be tiled on all pages
-background:
+  google_plus:    HadiHariri1
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:  UA-381926-1
-google_verify:
+google_analytics: UA-381926-1
+google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:        
 
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: About
+    url: /about/
+  - title: Posts
+    url: /posts/
   - title: Talks
-    url: /talks
+    url: /talks/
+  - title: Projects
+    url: /projects/
+  - title: Videos
+    url: https://www.youtube.com/channel/UCmglzRyUElGoMA7s03lWk8Q
+    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Madrid
@@ -46,18 +48,15 @@ markdown:    kramdown
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:year/:month/:day/:title/
 
-# Amount of post to show on home page
-paginate: 5
-
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: true
+  use_coderay: false
 
   coderay:
-    coderay_line_numbers: nil
+    coderay_line_numbers: 
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10

@@ -1,26 +1,37 @@
 ---
 layout: page
 permalink: /talks/
-title: Presentations
-tags: [talks, conferences, speaking]
+title: Talks
+description: "Upcoming and past talks"
+tags: [conferences, talks, presentations]
 image:
-  feature: header.jpg
-  credit:
-  creditlink:
-share: true
+  feature: texture-feature-02.jpg
+  credit: Texture Lovers
+  creditlink: http://texturelovers.com
 ---
 
-## 2014
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3 >Contents</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
 
-* BASTA! Spring, Darmstadt, February 2014
-* CodeMotion, Rome, April 2014
+## Upcoming
+
 * Devoxx France, April 2014
 * JAX! Mainz, May 2014
 * SDD Conference, London, May 2014
 * NDC, Oslo, June 2014
 * GeekOut, Tallinn, June 2014
 
+## 2014
 
+* BASTA! Spring, Darmstadt, February 2014
+* CodeMotion, Rome, April 2014
 
 ## 2013
 
@@ -177,3 +188,5 @@ share: true
 * Delphi Developers Conference 2003 – UK
 * Delphi Developers Conference 2002 – UK
 * Entwickler Konferenz 2002 – Germany
+
+

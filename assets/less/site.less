@@ -1,21 +1,16 @@
-// Selection
-// --------------------------------------------------
+/* Selection ============================================= */
 ::-moz-selection { 
-	background-color: lighten(@base-color, 65%); 
-	color: @base-color; 
+	background-color: lighten(@basecolor, 65%); 
+	color: @basecolor; 
 	text-shadow: none; 
 }  	
 ::selection { 
-	background-color: lighten(@base-color, 65%); 
-	color: @base-color; 
+	background-color: lighten(@basecolor, 65%); 
+	color: @basecolor; 
 	text-shadow: none; 
 }
 
-// Global Classes
-// --------------------------------------------------
-.wrap {
-	margin: 0 auto;
-}
+/* Global Classes ======================================== */
 .all-caps {
 	text-transform: uppercase;
 }
@@ -23,7 +18,22 @@
 	float: left;
 }
 .pull-right {
-	float:right;
+	float: right;
+}
+.image-pull-right {
+	float: right;
+	margin-top: 0;
+}
+.clearfix {
+	*zoom: 1;
+	&:before,
+	&:after {
+		display: table;
+	    content: "";
+	}
+	&:after {
+		clear: both;
+	}
 }
 .unstyled-list {
 	list-style: none;
@@ -33,18 +43,8 @@
 		list-style-type: none;
 	}
 }
-.inline-list {
-	list-style: none;
-	margin-left: 0;
-	padding-left: 0;
-	li {
-		list-style-type: none;
-		display: inline;
-	}
-}
 
-// Global Transition
-// ---------------------------------------------------
+/* Global Transition ==================================== */
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a {
 	.transition(all .2s ease);
 }

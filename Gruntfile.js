@@ -9,7 +9,7 @@ module.exports = function(grunt) {
       all: [
         'Gruntfile.js',
         'assets/js/*.js',
-        'assets/js/plugins/*.js',
+        '!assets/js/plugins/*.js',
         '!assets/js/scripts.min.js'
       ]
     },
@@ -63,8 +63,7 @@ module.exports = function(grunt) {
     watch: {
       less: {
         files: [
-          'assets/less/*.less',
-          'assets/less/bootstrap/*.less'
+          'assets/less/*.less'
         ],
         tasks: ['recess']
       },

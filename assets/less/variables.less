@@ -1,35 +1,34 @@
-// Typography
-// --------------------------------------------------
-
-@base-font: 'Lato', Calibri, Arial, sans-serif;
-@heading-font: @base-font;
-@caption-font: @base-font;
-@code-font: monospace;
-@alt-font: serif;
-
+// TYPOGRAPHY ================================================
 @doc-font-size: 16;
 @doc-line-height: 26;
+@base-font: 'PT Serif', serif;
+@heading-font: 'PT Sans Narrow', sans-serif;
+@code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
+@alt-font: @base-font;
 
+// COLOR ======================================================
+@bodycolor      : #fff;
+@body-color     : @bodycolor;
+@textcolor      : #333332;
+@text-color     : @textcolor;
+@border-color   : @text-color;
+@basecolor 		: #343434;	  
+@compcolor 		: spin(@basecolor, 180); 
+@bordercolor    : @basecolor;
+@white          : #fff;
+@black          : #111;
+@accentcolor    : @black;
 
-// set-up the body font-size / line-height
-body {
-	margin-top: 0px + @doc-line-height;
-	font-size: 0px + @doc-font-size;	
-}
-
-// Colors
-// --------------------------------------------------
-@base-color				: #222;
-@body-color      		: #e8e8e8;
-@text-color      		: #222;
-@comp-color 	 		: spin(@base-color, 180); 
-@border-color    		: lighten(@base-color,60);
-@white           		: #fff;
-@black           		: #000;
-@link-color 		    : #222;
-
-@primary			: @base-color;
+// Buttons
+@primary			: @black;
 @success			: #5cb85c;
 @warning			: #dd8338;
 @danger				: #C64537;
 @info				: #308cbc;
+
+// Links
+@linkcolor 		    : #343434;
+@link-color: @linkcolor;
+@linkcolorhover 	: darken(@linkcolor, 10);
+@linkcolorvisited   : lighten(@linkcolorhover, 20);
+@linkcolorfocus 	: darken(@linkcolorvisited, 10);
