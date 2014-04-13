@@ -1,7 +1,7 @@
 title:            Hadi Hariri
 description:      Writings
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-baseurl:          http://hadihairi.com
+baseurl:          
 disqus_shortname: hadihariri
 
 images:           /images
