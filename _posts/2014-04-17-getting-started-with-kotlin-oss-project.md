@@ -10,7 +10,7 @@ comments: true
 Some conversations yesterday on Twitter led to a few people being interested in contributing to a [new OSS project](https://github.com/MehdiK/Humanizer.jvm) that [Mehdi](https://twitter.com/MehdiKhalili) and I have
 started, which is a port of [Humanizer](https://github.com/MehdiK/Humanizer) to the JVM and JavaScript, using Kotlin.
 
-
+<br/>
 As Kotlin, JVM and IntelliJ IDEA are new territory for a few, here's a small step-by-step on how to get started.
 
 ## IntelliJ IDEA, or not.
