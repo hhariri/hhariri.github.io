@@ -10,6 +10,7 @@ comments: true
 Some conversations yesterday on Twitter led to a few people being interested in contributing to a [new OSS project](https://github.com/MehdiK/Humanizer.jvm) that [Mehdi](https://twitter.com/MehdiKhalili) and I have
 started, which is a port of [Humanizer](https://github.com/MehdiK/Humanizer) to the JVM and JavaScript, using Kotlin.
 
+
 As Kotlin, JVM and IntelliJ IDEA is new territory to a few, here's a small step-by-step on how to get started.
 
 ## IntelliJ IDEA, or not.
@@ -17,6 +18,7 @@ As Kotlin, JVM and IntelliJ IDEA is new territory to a few, here's a small step-
 While I work with IntelliJ and recommend it, you don't have to use it. Kotlin comes with a command line compiler and Ant/Gradle
 tasks that you can download and very easily compile applications. In addition, this particular project uses Gradle, so you can just
 build it from the command line using gradle.
+
 
 If you do decide on IntelliJ IDEA, you can use either [Ultimate or the free Community OSS edition](http://www.jetbrains.com/idea/download/). Both work.
 
@@ -41,6 +43,7 @@ If you're using IntelliJ IDEA, then:
 1. If the project has previously been opened and the source contains a folder called .idea, all you need to do is use **File | Open** to open the project (which is the case with Humanizer)
 
 2. If the project has not previously been opened or .idea folder is not in source control, then use **File | Import** to open the project.
+
 
 Point to contents of the root folder. IntelliJ IDEA is directory based by default so you don't open a specific file.
 
