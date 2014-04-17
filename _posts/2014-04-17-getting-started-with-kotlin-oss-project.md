@@ -51,7 +51,7 @@ Point to contents of the root folder. IntelliJ IDEA is directory based by defaul
 ![Folder]({{ site.images }}/gsp1.png)
 
 
-You should now be able to Make the project using **Build|Make Project** and run tests (Ctrl+Shift+R or right-click and Run)
+You should now be able to Make the project using *Build|Make Project* and run tests (Ctrl+Shift+R or right-click and Run)
 
 
 ![Tests]({{ site.images }}/gsp2.png)
