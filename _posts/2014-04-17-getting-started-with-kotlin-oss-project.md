@@ -11,7 +11,7 @@ Some conversations yesterday on Twitter led to a few people being interested in 
 started, which is a port of [Humanizer](https://github.com/MehdiK/Humanizer) to the JVM and JavaScript, using Kotlin.
 
 
-As Kotlin, JVM and IntelliJ IDEA is new territory to a few, here's a small step-by-step on how to get started.
+As Kotlin, JVM and IntelliJ IDEA are new territory for a few, here's a small step-by-step on how to get started.
 
 ## IntelliJ IDEA, or not.
 
