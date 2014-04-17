@@ -47,14 +47,17 @@ If you're using IntelliJ IDEA, then:
 
 Point to contents of the root folder. IntelliJ IDEA is directory based by default so you don't open a specific file.
 
+
 ![Folder]({{ site.images }}/gsp1.png)
 
 
 You should now be able to Make the project using **Build|Make Project** and run tests (Ctrl+Shift+R or right-click and Run)
 
+
 ![Tests]({{ site.images }}/gsp2.png)
 
 You can also use Gradle from inside IntellIJ IDEA via the Gradle window. From there you can execute any task.
+
 
 ![Gradle]({{ site.images }}/gsp3.png)
 
