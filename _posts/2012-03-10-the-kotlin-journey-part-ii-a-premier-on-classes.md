@@ -18,9 +18,13 @@ comments: true
 ---
 This is a multi-part series on Kotlin, a new statically typed language from JetBrains targeting the JVM and JavaScript
 
+
 <a href="http://hadihariri.com/2012/02/17/the-kotlin-journey-part-i-getting-things-set-up/">Part I: Getting things set up</a>
+
 <a href="http://hadihariri.com/2012/03/10/the-kotlin-journey-part-ii-a-premier-on-classes/">Part II: A primer on classes</a>
+
 <a href="http://hadihariri.com/2012/07/21/the-kotlin-journeypart-iii-wrapping-up-classes/">Part III: Wrapping up classes</a>
+
 <a href="http://hadihariri.com/2012/09/27/the-kotlin-journey-part-iv-adding-functionality" target="_blank">Part IV: Adding functionality</a>
 
 A small but important note
