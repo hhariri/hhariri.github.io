@@ -7,8 +7,8 @@ published: true
 comments: true
 ---
 
-Some conversations yesterday on Twitter led to a few people being interested in contributing to a (new OSS project)[https://github.com/MehdiK/Humanizer.jvm] that (Mehdi)(https://twitter.com/MehdiKhalili) and I have
-started, which is a port of (Humanizer)[https://github.com/MehdiK/Humanizer] to the JVM and JavaScript, using Kotlin.
+Some conversations yesterday on Twitter led to a few people being interested in contributing to a [new OSS project](https://github.com/MehdiK/Humanizer.jvm) that [Mehdi](https://twitter.com/MehdiKhalili) and I have
+started, which is a port of [Humanizer](https://github.com/MehdiK/Humanizer) to the JVM and JavaScript, using Kotlin.
 
 As Kotlin, JVM and IntelliJ IDEA is new territory to a few, here's a small step-by-step on how to get started.
 
@@ -18,12 +18,12 @@ While I work with IntelliJ and recommend it, you don't have to use it. Kotlin co
 tasks that you can download and very easily compile applications. In addition, this particular project uses Gradle, so you can just
 build it from the command line using gradle.
 
-If you do decide on IntelliJ IDEA, you can use either (Ultimate or the free Community OSS edition)[http://www.jetbrains.com/idea/download/]. Both work.
+If you do decide on IntelliJ IDEA, you can use either [Ultimate or the free Community OSS edition](http://www.jetbrains.com/idea/download/). Both work.
 
 ## Install the JDK
 
 Whether you use IntelliJ IDEA or not, you do need a JDK installed. And note, the JDK does not install the Ask toolbar!
-You can also use (chocolatey)[https://chocolatey.org/] to install it.
+You can also use [chocolatey](https://chocolatey.org/) to install it.
 
 
 ## Clone, Open, Build and Run
