@@ -40,9 +40,9 @@ Clone the repository:
 
 If you're using IntelliJ IDEA, then:
 
-1. If the project has previously been opened and the source contains a folder called .idea, all you need to do is use **File | Open** to open the project (which is the case with Humanizer)
+1. If the project has previously been opened and the source contains a folder called .idea, all you need to do is use *File | Open* to open the project (which is the case with Humanizer)
 
-2. If the project has not previously been opened or .idea folder is not in source control, then use **File | Import** to open the project.
+2. If the project has not previously been opened or .idea folder is not in source control, then use *File | Import* to open the project.
 
 
 Point to contents of the root folder. IntelliJ IDEA is directory based by default so you don't open a specific file.
