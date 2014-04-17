@@ -40,9 +40,9 @@ Clone the repository:
 
 If you're using IntelliJ IDEA, then:
 
-1. If the project has previously been opened and the source contains a folder called .idea, all you need to do is use *File | Open* to open the project (which is the case with Humanizer)
+1. If the project has previously been opened and the source contains a folder called .idea, all you need to do is use **File Open** to open the project (which is the case with Humanizer)
 
-2. If the project has not previously been opened or .idea folder is not in source control, then use *File | Import* to open the project.
+2. If the project has not previously been opened or .idea folder is not in source control, then use **File Import** to open the project.
 
 
 Point to contents of the root folder. IntelliJ IDEA is directory based by default so you don't open a specific file.
@@ -51,7 +51,7 @@ Point to contents of the root folder. IntelliJ IDEA is directory based by defaul
 ![Folder]({{ site.images }}/gsp1.png)
 
 
-You should now be able to Make the project using *Build|Make Project* and run tests (Ctrl+Shift+R or right-click and Run)
+You should now be able to Make the project using **Build Make Project** and run tests (Ctrl+Shift+R or right-click and Run)
 
 
 ![Tests]({{ site.images }}/gsp2.png)
@@ -84,5 +84,12 @@ After Gradle is installed, you can then execute tasks using
 ## More Getting Started Guides
 
 That's pretty much it for getting up and running with an existing Kotlin project. Not as daunting as one things. If
-you are new to JVM, make sure you check out my [JVM for .NET Developers](http://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/) and [IntelliJ IDEA for Visual Studio Users](http://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/#intellij-idea-for-the-visual-studio-user) Getting Started Guides.
-If you're new to Kotlin, check out some [short videos I'm publishing](https://www.youtube.com/playlist?list=PLQ176FUIyIUZ7PWtWmjc9lbMciPjZcnI9) as well as my [Getting Started with Kotlin series](http://hadihariri.com/2012/02/17/the-kotlin-journey-part-i-getting-things-set-up/).
+you are new to JVM, make sure you check out my Getting Started Guides:
+
+*[JVM for .NET Developers](http://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/)
+*[IntelliJ IDEA for Visual Studio Users](http://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/#intellij-idea-for-the-visual-studio-user)
+
+If you're new to Kotlin:
+
+*Check out some[short videos I'm publishing](https://www.youtube.com/playlist?list=PLQ176FUIyIUZ7PWtWmjc9lbMciPjZcnI9)
+*[Getting Started with Kotlin series](http://hadihariri.com/2012/02/17/the-kotlin-journey-part-i-getting-things-set-up/).
