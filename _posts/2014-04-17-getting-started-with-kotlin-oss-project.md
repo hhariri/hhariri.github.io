@@ -86,10 +86,10 @@ After Gradle is installed, you can then execute tasks using
 That's pretty much it for getting up and running with an existing Kotlin project. Not as daunting as one things. If
 you are new to JVM, make sure you check out my Getting Started Guides:
 
-*[JVM for .NET Developers](http://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/)
-*[IntelliJ IDEA for Visual Studio Users](http://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/#intellij-idea-for-the-visual-studio-user)
+* [JVM for .NET Developers](http://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/)
+* [IntelliJ IDEA for Visual Studio Users](http://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/#intellij-idea-for-the-visual-studio-user)
 
 If you're new to Kotlin:
 
-*Check out some[short videos I'm publishing](https://www.youtube.com/playlist?list=PLQ176FUIyIUZ7PWtWmjc9lbMciPjZcnI9)
-*[Getting Started with Kotlin series](http://hadihariri.com/2012/02/17/the-kotlin-journey-part-i-getting-things-set-up/).
+* [Short videos I'm publishing](https://www.youtube.com/playlist?list=PLQ176FUIyIUZ7PWtWmjc9lbMciPjZcnI9)
+* [Getting Started with Kotlin series](http://hadihariri.com/2012/02/17/the-kotlin-journey-part-i-getting-things-set-up/).
