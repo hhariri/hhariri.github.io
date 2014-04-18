@@ -46,7 +46,7 @@ a 2nd class marketing vendor session.
 
 <br/>
 This isn't the first time I've given a tips and tricks talk at a conference. In fact a few years ago, I did an impromptu
-talk at [NDC](http://www.ndcoslo.com) on ReSharper. It was not on the schedule and I just told people at the booth to come by.
+talk at [NDC on ReSharper](https://www.youtube.com/watch?v=pJifOq3ea1Q). It was not on the schedule and I just told people at the booth to come by.
 Over 150 people turned up. And it was held in parallel to some great talks.
 <br/>
 Point being, people come to these talks because they feel it provides value to them, independently of whether the contents might be around a commercial or free/OSS tool.
