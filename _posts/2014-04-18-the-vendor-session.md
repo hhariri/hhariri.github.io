@@ -30,7 +30,7 @@ with their area of expertise, and I'm sure other vendors were also successful.
 
 ## What did Devoxx France do right?
 
-I have to praise Devoox France and the Program Committee for how they handled these sessions. From what I was told,these vendor
+I have to praise Devoxx France and the Program Committee for how they handled these sessions. From what I was told,these vendor
 sessions were evaluated much the same way all other talks were and they worked towards providing content that would be suitable
 for attendees.
 
