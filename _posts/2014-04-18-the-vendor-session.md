@@ -66,9 +66,13 @@ I feel that it's time that conference organizers and committees stop focusing so
 provides value. Maybe it's time they should stop automatically discarding any content that is not specifically about an OSS/Free tool.
 
 <br/>
+This isn't about giving vendors a free marketing slot. It's about dropping prejudices and working together, organizers
+and vendors to provide better value for all, and most importantly for you, the attendee.
+
+
+<br/>
 It's somewhat ironic that in the Microsoft space, event organizers often say that they don't like to promote "vendors" at their events. Yet all events are promoting
 the single biggest vendor of them all, aren't they?
 
 <br/>
-Ultimately though, it's about you, the attendee. And it's important that prejudices disappear, and organizers and vendors work together to provide the best for you.
-
+Of course, I could be wrong. You tell me.
