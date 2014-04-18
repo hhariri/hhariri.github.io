@@ -13,7 +13,10 @@ little detail of my laptop falling from a height of about one meter onto the flo
 <br/>
 But it survived, and all went well.
 
-![Devoxx]({{ site.images}}/vs1.png)
+<br/>
+![Devoxx]({{ site.images}}/vs1.jpg)
+
+<br/>
 
 I submitted a few talks via their call for papers, and two got accepted, one of them though was a given since we
 were allowed to give one vendor session as part of the sponsorship package.
