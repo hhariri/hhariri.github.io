@@ -32,7 +32,7 @@ module.exports = function(grunt) {
 {% endhighlight %}
 
 I find it's very appropriately named, like the ugly little creatures in Halo.
-<br/>
+<br/><br/>
 Of course, you don't have to use Grunt. In fact, [Grunt is already dead](http://www.100percentjs.com/just-like-grunt-gulp-browserify-now/). It's all about Gulp nowadays:
 
 {% highlight javascript %}
@@ -108,7 +108,7 @@ task ? -Description "Helper to display task info" {
 
 <br/>
 If you don't like Ruby, install Java and use Gradle. It's Groovy and has [65 chapters of documentation](http://www.gradle.org/docs/current/userguide/userguide.html) as well as
-a few appendixes in case you run out of things to read.
+a few appendices in case you run out of things to read.
 
 {% highlight groovy %}
 
