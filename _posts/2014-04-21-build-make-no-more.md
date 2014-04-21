@@ -200,7 +200,7 @@ to download, configure and install. And for what? Just to have a bit of a nicer 
 of the legacy that we leave behind with all these new 'inventions'? Of course, some languages and platforms might need technology-specific tasks, but is a new build tool and syntax all that necessary?
 <br/>
 <br/>
-I think Gradle's tagline is somewhat approriate to describe all these different build tools: 'Automation Evolved'. Yes, we've involved
+I think Gradle's tagline is somewhat approriate to describe all these different build tools: 'Automation Evolved'. Yes, we've evolved
 because we've moved from tabs and lines, to XML and then to, well, hmm, tabs, lines and curly braces.
 
 ## Make, no more.
