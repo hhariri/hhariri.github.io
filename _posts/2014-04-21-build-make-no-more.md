@@ -8,7 +8,7 @@ comments: true
 ---
 
 Had to update some CSS on my site over the weekend, which led me to updating some LESS file. The template I use for the site
-uses Grunt, which forced me to download the entire Internet via npm. And all I wanted to was set a *text-indent* to 0.
+uses Grunt, which forced me to download the entire Internet via npm. And all I wanted to do was set a *text-indent* to 0.
 <br/><br/>
 If you've never seen Grunt, here's what it looks like:
 
