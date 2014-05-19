@@ -200,16 +200,16 @@ to download, configure and install. And for what? Just to have a bit of a nicer 
 of the legacy that we leave behind with all these new 'inventions'? Of course, some languages and platforms might need technology-specific tasks, but is a new build tool and syntax all that necessary?
 <br/>
 <br/>
-I think Gradle's tagline is somewhat approriate to describe all these different build tools: 'Automation Evolved'. Yes, we've involved
+I think Gradle's tagline is somewhat approriate to describe all these different build tools: 'Automation Evolved'. Yes, we've evolved
 because we've moved from tabs and lines, to XML and then to, well, hmm, tabs, lines and curly braces.
 
 ## Make, no more.
 
 If you're setting out to make another build tool, think about what benefit you're going to provide over the existing ones. Adding yet another
-custome DSL and grammar isn't going to really solve any problem.
-
-I feel there is innovation possible in build automation. We have a vast amount of existing knowldge on how software is built and the needs required,
+custom DSL and grammar isn't going to really solve any problem.
+<br/><br/>
+I feel there is innovation possible in build automation. We have a vast amount of existing knowledge on how software is built and the needs required,
 we have seen the benefits of using convention over configuration, we have created powerful analysis tools. Combining these things I feel there is potential
-to create a build tool that focuses more on discoverability than it does, about us, as developers, having to explicitly declare what we want done.
+to create a build tool that focuses more on discoverability than it does on us having to explicitly declare what we want done.
 <br/><br/>
 So please, no more Makes.
