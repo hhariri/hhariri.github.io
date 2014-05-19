@@ -27,6 +27,7 @@ image:
 * NDC, Oslo, June 2014
 * GeekOut, Tallinn, June 2014
 * Devoxx UK, June 2014
+* Skills Matter UK, June 2014
 * Agile 2014, Florida, July 2014
 * BuildStuff, Lithunia, October 2014
 
