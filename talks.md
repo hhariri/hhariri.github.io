@@ -22,12 +22,9 @@ image:
 
 ## Upcoming
 
-* JAX! Mainz, May 2014
-* SDD Conference, London, May 2014
 * NDC, Oslo, June 2014
 * GeekOut, Tallinn, June 2014
 * Devoxx UK, June 2014
-* Skills Matter UK, June 2014
 * Agile 2014, Florida, July 2014
 * BuildStuff, Lithunia, October 2014
 
@@ -36,6 +33,8 @@ image:
 * BASTA! Spring, Darmstadt, February 2014
 * CodeMotion, Rome, April 2014
 * Devoxx France, April 2014
+* JAX! Mainz, May 2014
+* SDD Conference, London, May 2014
 
 ## 2013
 
