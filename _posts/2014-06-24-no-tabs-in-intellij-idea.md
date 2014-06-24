@@ -15,7 +15,7 @@ My advice to all of them? Switch tabs off.
 You don't need tabs. 
 <br/><br/>
 Here's your typical layout with Tabs
-<br/>
+<br/><br/>
 ![No Tabs]({{ site.images}}/no-tabs-1.png)
 
 ### No more Tabs
@@ -66,7 +66,7 @@ And remember, most of these dialogs admit patterns such as wildcards, CCC (Camel
 
 ### Recent Positions
 
-*If you want to move back and forth between where you are and where you just were: **Cmd+[** to go back and **Cmd+]** to go forward. Of course, if your current and previous position is in different files, it will also go back and forth between them.
+* If you want to move back and forth between where you are and where you just were: **Cmd+[** to go back and **Cmd+]** to go forward. Of course, if your current and previous position is in different files, it will also go back and forth between them.
 * If you want to go to the last edited position: **Shift+Cmd+Backspace**
 
 ### Bookmarks
@@ -90,7 +90,7 @@ Project window and activate it:
 ### Navigation Bar
 
 Make sure you turn that off also. If you ever need it, invoke it using **Alt+Fn+LeftArrow**
-
+<br/><br/>
 ![Navigation Bar]({{ site.images}}/no-tabs-12.png)
 <br/><br/>
 And remember, you can even invoke the New File Command with **Cmd+N** (only way you should be creating files, packages and folders) on the Navigation bar. It's context-aware. 
