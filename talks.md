@@ -23,7 +23,7 @@ image:
 ## Upcoming
 
 * Agile 2014, Florida, July 2014
-* JavaZone, Oslo, Norway, September 2014
+* JavaZone, Oslo, Norway, September 2014`
 * JavaOne, San Francisco, September 2014
 * BuildStuff, Lithunia, October 2014
 
