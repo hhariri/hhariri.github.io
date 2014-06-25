@@ -11,7 +11,7 @@ layout: none
 <id>{{ site.baseurl }}/</id>
 <author>
   <name>{{ site.owner.name }}</name>
-  <uri>{{ site.baseurl }}/</uri>
+  <uri>http://hadihariri.com/</uri>
   <email>{{ site.owner.email }}</email>
 </author>
 {% for post in site.posts limit:20 %}
