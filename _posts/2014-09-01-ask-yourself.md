@@ -26,4 +26,4 @@ What am I doing?
 
 
 <br/>
-Easy to point out mistakes. Harder to judge ourselves.
+Easy to point out mistakes. Harder to judge oneself.
