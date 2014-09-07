@@ -26,6 +26,7 @@ image:
 * JavaOne, San Francisco, September 2014
 * QCon, Shanghai, October 2014
 * Oredev, Malmö, November 2014
+* Devoxx, Belgium, November 2014
 * BuildStuff, Lithunia, November 2014
 * NDC London, London, December 2014
 
