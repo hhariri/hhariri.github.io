@@ -60,8 +60,8 @@ Under **Preferences \| Code Style \| Java**, we can define how we want importing
 ![Import Settings]({{ site.images}}/import-all-2.png)
 
 
-<br/>
-The value in the red box indicates what number of imports are required for IntelliJ IDEA to replace each individual entry with an import all. By default this value is set to 5. By
+Unchecking the "Use Single Class import" will make IntelliJ IDEA use a single import statement. Alternatively, we can also define this behaviour based on the number of imported types using
+the class count, which is set to 5 by default. By
 setting it to 1 we can instruct IntelliJ IDEA to always import everything. Setting it to 2 will have it switch to all one the second entry, and so on and so forth.
 
 
