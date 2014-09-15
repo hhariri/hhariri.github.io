@@ -40,7 +40,7 @@ However there is one thing that does stands out in terms of the answers he found
 
 
 <br/>
-Of course, those aren't answers of why we do, they are just excuses. It pointed out nicely the exact issue Kevlin was trying to make: questioning why it is we do certain things.
+Of course, those aren't answers of why we do it, they are just excuses. It pointed out nicely the exact issue Kevlin was trying to make: questioning why it is we do certain things.
 In other words, not caring because a tool does it for us is not an answer.
 
 <br/>
