@@ -26,7 +26,7 @@ using System.Collections
 <br/>
 
 Like many things we do out of habit, these usually stem from somewhere, and I'm certain that we mostly know the reasons for individual imports in Java, including
-namespace collision, et al. Kevlin does a great job analysing this particular case in his talk, so I don't want to repeat it here.
+namespace collision, et al. Personally, I don't agree with the reasons, and Kevlin does a great job analysing this particular case in his talk, so I don't want to repeat it here.
 
 <br/>
 However there is one thing that does stands out in terms of the answers he found:
