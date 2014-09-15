@@ -10,7 +10,7 @@ Last week I ran into [Kevlin](https://twitter.com/KevlinHenney) at [JavaZone'14]
 [Making Steaks from Sacred Cows](https://vimeo.com/105758303), which I highly recommend you watch.
 
 
-In it, he discusses amongst other things, the habit of importing classes individually in the Java world. As someone that does C# development, I find it kind of bizarre:
+In it, he discusses amongst other things, the habit of importing classes individually in the Java world. As someone that does C# development also, I find it kind of bizarre:
 
 <br/>
 ![Individual Imports]({{ site.images}}/import-all-1.png)
