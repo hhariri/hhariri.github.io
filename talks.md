@@ -22,16 +22,17 @@ image:
 
 ## Upcoming
 
-* JavaZone, Oslo, Norway, September 2014`
-* JavaOne, San Francisco, September 2014
 * QCon, Shanghai, October 2014
 * Oredev, Malmö, November 2014
 * Devoxx, Belgium, November 2014
+* Visug, Belgium, November 2014
 * BuildStuff, Lithunia, November 2014
 * NDC London, London, December 2014
 
 ## 2014
 
+* JavaZone, Oslo, Norway, September 2014`
+* JavaOne, San Francisco, September 2014
 * Agile 2014, Florida, July 2014
 * BASTA! Spring, Darmstadt, February 2014
 * CodeMotion, Rome, April 2014
