@@ -18,7 +18,7 @@ aspect missing in the form - empathy.
 
 
 <br/>
-![Empathy]({{ site.images}}/empathy.png)
+![Empathy]({{ site.images}}/empathy-1.png)
 
 When providing feedback, we at times focus too much on showing what's right (or wrong) and how things could be improved and pay little attention in how we transmit that message, in how
 the person receiving that feedback would interpret it, whether they would feel offended, whether they'd be upset.
