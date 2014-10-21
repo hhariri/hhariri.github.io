@@ -19,7 +19,7 @@ aspect missing in the form - empathy.
 <br/>
 ![Empathy]({{ site.images}}/empathy.png)
 
-When providing feedback, we at times focus too much on showing what's right and how things could be improved and pay little attention in how we transmit that message, in how
+When providing feedback, we at times focus too much on showing what's right (or wrong) and how things could be improved and pay little attention in how we transmit that message, in how
 the person receiving that feedback would interpret it, whether they would feel offended, whether they'd be upset.
 
 We need to be more empathetic. We need to put ourselves in the shoes of the person receiving our comments and think, would we like to be the recipient of such feedback?
