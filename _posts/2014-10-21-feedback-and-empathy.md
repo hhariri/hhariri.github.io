@@ -12,7 +12,7 @@ from our mistakes, we also need positive feedback. An occasional pat on the back
  right path. It's something we should receive and something we should give.
 
 And much like positive feedback, we should also provide feedback to others where we feel things could be improved in. Most of us strive to provide this feedback in the form of
-constructive criticism, but often this is more reflected in a disclaimer than it is in the actual waiy in which we communicate it. Because many times, there's one important
+constructive criticism, but often this is more reflected in a disclaimer than it is in the actual way in which we communicate it. Because many times, there's one important
 aspect missing in the form - empathy.
 
 
