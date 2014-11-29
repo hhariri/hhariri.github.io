@@ -25,7 +25,6 @@ image:
 * NDC London, London, December 2014
 * JetBrains Night, December 2014
 * vJug, December 2014
-* QCon, London, March 2015
 * DevNexus, Atlanta, March 2015
 * Devoxx, Paris, April 2015
 * SDD Conference, London, May 2015
