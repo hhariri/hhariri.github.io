@@ -22,15 +22,22 @@ image:
 
 ## Upcoming
 
-* QCon, Shanghai, October 2014
-* Oredev, Malmö, November 2014
-* Devoxx, Belgium, November 2014
-* Visug, Belgium, November 2014
-* BuildStuff, Lithunia, November 2014
 * NDC London, London, December 2014
+* JetBrains Night, December 2014
+* vJug, December 2014
+* QCon, London, March 2015
+* DevNexus, Atlanta, March 2015
+* Devoxx, Paris, April 2015
+* SDD Conference, London, May 2015
+* Devoxx Poland, June 2015
 
 ## 2014
 
+* BuildStuff, Lithunia, November 2014
+* Visug, Belgium, November 2014
+* Devoxx, Belgium, November 2014
+* Oredev, Malmö, November 2014
+* QCon, Shanghai, October 2014
 * JavaZone, Oslo, Norway, September 2014`
 * JavaOne, San Francisco, September 2014
 * Agile 2014, Florida, July 2014
