@@ -115,6 +115,7 @@ should display our image:
 ![Docker Images]({{ site.images }}/docker-azure-3.png)
 
 <br/>
+
 ## Running the image
 Final step before deploying to Azure, is to run the image to make sure it all works:
 
