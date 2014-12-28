@@ -84,7 +84,7 @@ The process is:
 
     You can create other folders such as *images* or *css* and these will be copied verbatim to *_site*
 
-5. At this point decide whether you want to stick to the default theme Jekyll generates or use some [existing theme](jekyllthemes.org). Why now? Because a lot of the themes
+5. At this point decide whether you want to stick to the default theme Jekyll generates or use some [existing theme](http://jekyllthemes.org). Why now? Because a lot of the themes
 modify more than just CSS and layout files, so it would be good to have the base on which to work on. You can always tweak things later of course.
 
 6. Make sure it all runs. Type:
