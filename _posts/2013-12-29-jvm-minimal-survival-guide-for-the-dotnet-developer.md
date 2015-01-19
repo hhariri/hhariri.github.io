@@ -7,7 +7,7 @@ published: true
 comments: true
 ---
 
-**Last updated:** 9th January, 2014
+**Last updated:** 19th January, 2015
 
 * Test
 {:toc}
@@ -76,7 +76,7 @@ Find out more about the [history](http://www.oracle.com/technetwork/java/javase/
 
 #### Versions
 
-The currently released version of Java is 7. Java 8 is due out sometime in 2014.
+The currently released version of Java is 8.
 
 To find out what version of Java you have installed, type
 
@@ -84,13 +84,13 @@ To find out what version of Java you have installed, type
 
 You'll get something like this:
 
-    java version "1.7.0_40"
-    Java(TM) SE Runtime Environment (build 1.7.0_40-b43)
-    Java HotSpot(TM) 64-Bit Server VM (build 24.0-b56, mixed mode)
+    java version "1.8.0"
+    Java(TM) SE Runtime Environment (build 1.8.0-b132)
+    Java HotSpot(TM) 64-Bit Server VM (build 25.0-b70, mixed mode)
 
-That's Java 7. Why? Well easy, drop the 1 from 1.7.0_40 and you get 7.0_40. The 0_40 indicates the update pack. For Java 7 see all [releases](http://www.java.com/en/download/faq/release_dates.xml)
+That's Java 8. Why? Well easy, drop the 1 from 1.8.0 and you get 8.0. The 0_b-132 indicates the update pack. For Java 8 see all [releases](http://www.java.com/en/download/faq/release_dates.xml)
 
-Basically 1.5 means Java 5. 1.6 is Java 6. 1.7 is Java 7 and yes, you guessed it, Java 8 will be 1.8.
+Basically 1.5 means Java 5. 1.6 is Java 6. 1.7 is Java 7 and yes, you guessed it, Java 8 is 1.8.
 
 Yes. I know.
 
@@ -444,5 +444,6 @@ Tracks changes made to this guide.
 | 30th Dec 2013 | Updated JavaFX description. Added ChangeLog Section |
 | 06th Jan 2014 | Updated title and fixed added link to IntelliJ IDEA guide |
 | 09th Jan 2014 | Added Section on Class Loading |
+| 19th Jan 2015 | Updated Java versions |
 
 
