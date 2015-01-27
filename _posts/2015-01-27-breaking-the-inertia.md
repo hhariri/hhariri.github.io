@@ -22,7 +22,7 @@ in our field, we have an obsession with all things Toyota (and martial parts), w
 
 *...six months later*
 
-    - Developer: Look I build you a fully fledged Query Builder
+    - Developer: Look I built you a powerful Query Builder
 
 <br/>
 
