@@ -137,7 +137,7 @@ on the machine. For that we can SSH into it and run
         sudo apt-get install docker.io
 
 
-Next step is to copy the Dockerfile and sample.zip to Azure. We can use SCP (thanks [Kevin](https://twitter.com/vcsjones])). From our machine:
+Next step is to copy the Dockerfile and sample.zip to Azure. We can use SCP (thanks [Kevin](https://twitter.com/vcsjones)). From our machine:
 
 
         scp Dockerfile azureuser@machine:~/tmp
