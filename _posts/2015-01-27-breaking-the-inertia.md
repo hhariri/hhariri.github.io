@@ -10,7 +10,7 @@ Do you ever question why you do things? Whether it's implementing a feature requ
 
 <br/>
 I'm sure you've probably heard of the [5 Whys](http://en.wikipedia.org/wiki/5_Whys), in which you repeatedly ask *Why* before trying to solve a problem. And since it seems
-in our field, we have an obsession with all things Toyota (and martial parts), we've also adopted the technique, often with less success than desired:
+in our field, we have an obsession with all things Toyota (and martial arts), we've also adopted the technique, often with less success than desired:
 
     - Developer: Why do you need to a grid listing customers?
     - Customer: Because I want to see customers
