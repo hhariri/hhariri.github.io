@@ -22,15 +22,20 @@ image:
 
 ## Upcoming
 
-* QCon London, March 2015
-* DevNexus, Atlanta, March 2015
-* Devoxx, Paris, April 2015
-* SDD Conference, London, May 2015
-* Devoxx Poland, June 2015
+* NCraft, Paris, May 2015
+* DevSum, Stockholm, May 2015
 * NDC Oslo, June 2015
+* Devoxx Poland, June 2015
+* JBCN Conference, Barcelona, June 2015
+* Agile Conference, Washington DC, August 2015
 
 ## 2014
 
+* QCon London, March 2015
+* DevNexus, Atlanta, March 2015
+* Devoxx, Paris, April 2015
+* Techorama, Belgium, May 2015
+* SDD Conference, London, May 2015
 * NDC London, London, December 2014
 * JetBrains Night, December 2014
 * vJug, December 2014
