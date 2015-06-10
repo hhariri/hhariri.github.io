@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't bring you shortcuts
+title: Don't bring you shortcuts with you
 status: published
 type: post
 published: true
