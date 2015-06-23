@@ -44,7 +44,6 @@ The best way to enable communication is to become comfortable with people. And t
 people are either phased out or judging you, certainly won't make that happen. 
 
 <br/>
-<br/>
 Let's stop ticking the "Communication" checkbox because we're having a stand-up.
 
  
