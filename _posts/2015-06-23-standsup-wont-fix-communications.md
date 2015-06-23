@@ -43,6 +43,9 @@ on something you're stuck with. Do it several times. Eventually you'll find that
 The best way to enable communication is to become comfortable with people. And that only happens when you get to know them. A tense stand-up during which
 people are either phased out or judging you, certainly won't make that happen. 
 
+<br/>
+<br/>
+Let's stop ticking the "Communication" checkbox because we're having a stand-up.
 
  
 
