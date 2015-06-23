@@ -28,8 +28,7 @@ Let's face it, and as I said recently, if your team is only communicating 15 min
 
 
 ## Getting comfortable 
-As developers, we're usually stereotyped as introverts that have issues communicating. I'm not going to pass judgement on this, but if this is the case
- forcing someone to communicate a few words about their progress or issues they've run into isn't contributing to improve these skills.
+As developers, we're usually stereotyped as introverts that have issues communicating. I'm not going to pass judgement on this, but if this is the case, forcing someone to communicate a few words about their progress or issues they've run into isn't contributing to improve these skills.
 
 Believe it or not, what can help improve communication between team members is getting to know each other. Whether you're working on a team for a long time or just joined, have one on ones with different people on the team, or 
 people on different teams. Talk to them, not only about work but other things. Their interests, your interests, what things you have or don't have in common. 
