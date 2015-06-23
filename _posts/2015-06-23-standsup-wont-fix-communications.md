@@ -36,7 +36,7 @@ people on different teams. Talk to them, not only about work but other things. T
 
 <br/>
 Now it's true that some people have a natural tendency to strike a conversation much easier than others. If you're that person on the team, then be the enabler, work with other
-people on the team that might have difficulities to engage. If you're shy, if you're the person that finds it hard to just talk about nothing, then find an excuse. Ask for help
+people on the team that might have difficulties to engage. If you're shy, if you're the person that finds it hard to just talk about nothing, then find an excuse. Ask for help
 on something you're stuck with. Do it several times. Eventually you'll find that you can also talk about other things.
 
 <br/>
