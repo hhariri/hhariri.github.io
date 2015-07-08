@@ -9,21 +9,19 @@ comments: true
 
 On Twitter there's a subtle difference between 
 
-<br/>
-
->"@SomePerson I think you're making a mistake with..."
+> "@SomePerson I think you're making a mistake with..."
 
 and
 <br/>
 
->". @SomePerson I think you're making a mistake with...." 
+> ". @SomePerson I think you're making a mistake with...." 
 
 <br/>
 
 or the "Hey" version which is:
 
 
->"Hey @SomePerson I think you're making a mistake with..."
+> "Hey @SomePerson I think you're making a mistake with..."
 
 <br/>
 
