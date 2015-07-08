@@ -38,7 +38,7 @@ The first is enabling conversations, the second is often forcing them into becom
 
 <br/>
 So if someone has an issue with you, which approach
-would you rather they take? Talk to you or let the whole world know you're wrong before even trying to talk to you?
+would you rather they take *first*? Talk to you or let the whole world know you're wrong before even trying to talk to you?
 
 <br/>
 Social media is a powerful platform to be heard. And when it comes to power, I'm sure we all know the saying.
