@@ -22,14 +22,15 @@ image:
 
 ## Upcoming
 
-* Agile Conference, Washington DC, August 2015
 * JavaZone, Oslo, September 2015
 * BASTA!, Mainz, September 2015
+* DevIntersection Europe, October 2015
 * JavaOne, San Francisco, October 2015
 * Devoxx Belgium, Antwerp, November 2015
 
 ## 2014
 
+* Agile Conference, Washington DC, August 2015
 * JBCN Conference, Barcelona, June 2015
 * Devoxx Poland, June 2015
 * NDC Oslo, June 2015
