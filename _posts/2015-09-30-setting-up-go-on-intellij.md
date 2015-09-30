@@ -24,6 +24,7 @@ Before configuring IntelliJ IDEA, it's good to make sure Go is properly working.
 
 <br/>
 The [instructions on the Go site](https://golang.org/doc/install) are pretty straightforward. 
+
 ## A word on workspaces and GOPATH
 
 Go likes to organize things under a work directory which has the following tree structure
