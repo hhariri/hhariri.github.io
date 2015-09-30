@@ -20,7 +20,7 @@ First and foremost you need to install Go. The easiest way I found was to just d
 I'm using version 1.5, after unsuccessfully messing around with 1.3 installed via brew.
 
 <br/>
-Before configuring IntelliJ IDEA, it's good to make sure Go is properly working. In other words, basically make sure the *hello.go* program runs correctly.
+Before configuring IntelliJ IDEA, it's good to make sure Go is properly working. In other words, basically check that *hello.go* work.
 
 <br/>
 The [instructions on the Go site](https://golang.org/doc/install) are pretty straightforward. 
