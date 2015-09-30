@@ -7,8 +7,8 @@ published: true
 comments: true
 ---
 
-I've recently started playing with Go for some TCP code I'm working on. Once I got my *Hello World* up and running, the next obvious step of course was to try and
-get IntelliJ IDEA running with it. And to my surprise it was pretty simple, but I did encounter a few things worth mentioning.
+I've recently started playing with Go for some TCP code I'm working on. Once *Hello World* was running, the next step was to try and
+get IntelliJ IDEA working. While it was pretty straightforward, there are a few things worth mentioning.
 
 
 <br/>
@@ -17,11 +17,11 @@ Disclaimer: I'm completely new to Go, so if you spot any mistakes, please let me
 ## Installing Go
 
 First and foremost you need to install Go. The easiest way I found was to just download the [installer package](https://golang.org/dl/) from the WebSite and click my way through it. 
-I downloaded and installed version 1.5, after unsuccessfully messing around with 1.3 installed via brew.
+I'm using version 1.5, after unsuccessfully messing around with 1.3 installed via brew.
 
 <br/>
 Before configuring IntelliJ IDEA, it's good to make sure Go is properly working. The [instructions on the Go site](https://golang.org/doc/install) are
-pretty straightforward. Make sure the *hello.go* program runs correctly.
+pretty straightforward. In other words, basically make sure the *hello.go* program runs correctly.
 
 ## A word on workspaces and GOPATH
 
