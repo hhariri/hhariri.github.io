@@ -111,7 +111,8 @@ compiles the source file and places the binary in the *bin* folder under GOPATH,
 
 ### Formatting code on the fly
 
-IntelliJ IDEA provides code formatting and you can of course invoke it at any time using (on OSX 10.5+ keybinding) Alt+Cmd+L. However, if you want to use GoFmt, and have IntelliJ IDEA automatically format your code
+IntelliJ IDEA provides code formatting and you can of course invoke it at any time using (on OSX 10.5+ keybinding) Alt+Cmd+L. However, if you want to use 
+**GoFmt**, and have IntelliJ IDEA automatically format your code
 on save, take a look at [Jame's post](http://jen20.com/2015/09/14/gofmt-or-goimports-in-intellij.html) on how to accomplish this with File Watchers.
 
 
