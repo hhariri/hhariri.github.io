@@ -20,12 +20,14 @@ First and foremost you need to install Go. The easiest way I found was to just d
 I'm using version 1.5, after unsuccessfully messing around with 1.3 installed via brew.
 
 <br/>
-Before configuring IntelliJ IDEA, it's good to make sure Go is properly working. The [instructions on the Go site](https://golang.org/doc/install) are
-pretty straightforward. In other words, basically make sure the *hello.go* program runs correctly.
+Before configuring IntelliJ IDEA, it's good to make sure Go is properly working. In other words, basically make sure the *hello.go* program runs correctly.
 
+<br/>
+The [instructions on the Go site](https://golang.org/doc/install) are pretty straightforward. 
 ## A word on workspaces and GOPATH
 
 Go likes to organize things under a work directory which has the following tree structure
+<br/>
 <br/>
 <p>-bin</p>
 <p>-pkg</p>
@@ -53,44 +55,30 @@ Learn more about [workspaces](https://golang.org/doc/code.html#Workspaces).
 
 ## Setting up IntelliJ IDEA
 
-There is an [open source plugin](https://github.com/go-lang-plugin-org/go-lang-idea-plugin) Go plugin for IntelliJ IDEA, and in the recent year or so, two of my colleagues, in particular [Alexander Zolotov](https://github.com/zolotov)
+There is an [open source](https://github.com/go-lang-plugin-org/go-lang-idea-plugin) Go plugin for IntelliJ IDEA, and in the last year or so, two of my colleagues, in particular [Alexander Zolotov](https://github.com/zolotov)
 and [Sergey Ignatov](https://github.com/ignatov) are proactively contributing to it.
 
 
 <br/>
-The [instructions to install the plugin](https://github.com/go-lang-plugin-org/go-lang-idea-plugin) on the project page are pretty clear. Simply add a new repository (choose between nightly or alpha) and you can then install it.
+The [instructions to install the plugin](https://github.com/go-lang-plugin-org/go-lang-idea-plugin) on the project page are pretty clear. Simply add a new repository (choose between nightly or alpha) and you can then install it from inside IntelliJ IDEA.
 
 
 ### Creating a new project
 
-The plugin provides an entry in the Project Wizard which allows you to select any frameworks and libraries
+The plugin provides an entry in the Project Wizard to create projects and additionally select frameworks and libraries
 
 <br/>
 ![Project Wizard]({{ site.images }}/go-project-wizard.png)
 
 <br/>
-You can of course now create new Go files and run and debug them straight from the IDE
+<br/>
+Once you have the project created, you can simple add Go Files and Run/Debug them straight from IntelliJ IDEA
 
 <br/>
 ![Context menu]({{ site.images }}/go-context-menu.png)
 
-If opening an existing project, IntelliJ IDEA should automatically detect it as a Go project and prompt you for any further action if required, i.e. just follow the instructions. It's simple!
-
-### Build and Make Project
-
-Build and Make Project have no effect in Go, even though the options are available. In Go, you pretty much need to run the code using the context menu or hotkeys (Shift+Ctrl+R for Run and Shift+Ctrl+D for Debug).
-
 <br/>
-IntelliJ IDEA does however provide error highlighting which makes it extremely useful, especially when you're new to the language!
-
-### Installing Go apps
-
-When running the command
-
-        go install hello.go
-
-compiles the source file and places the binary in the *bin* folder under GOPATH, which then allows you to simply call the app. Currently, unless you run this from the terminal tool window
- inside IntelliJ IDEA or configure it as an external tool, there's no corresponding action to do this for you. And I'm not really sure it's required as such either.
+If opening an existing project, IntelliJ IDEA should automatically detect it as a Go project and prompt you for any further action if required, i.e. just follow the instructions. It's simple!
 
 ### Debugging
 
@@ -104,6 +92,22 @@ The most recent builds of the plugin provide support for debugging out of the bo
 Important to note though that you need *version 1.5+* of Go for it to work. Also, the plugin is not fully compatible with IntelliJ IDEA 15, which is currently in EAP. While many of the features do work, debugging does not. So if you're missing
 the context menu to debug your app, that's why.
 
+
+### Build and Make Project
+
+Build and Make Project have no effect in Go, even though the options are available. In Go, you pretty much need to run the code using the context menu or hotkeys (Shift+Ctrl+R for Run and Shift+Ctrl+D for Debug).
+
+<br/>
+IntelliJ IDEA does however provide error highlighting which makes it extremely useful, especially when you're new to the language.
+
+### Installing Go apps
+
+The command 
+
+        go install hello.go
+
+compiles the source file and places the binary in the *bin* folder under GOPATH, which then allows you to simply call the app. Currently, unless you run this from the terminal tool window
+ inside IntelliJ IDEA or configure it as an external tool, there's no corresponding action to do this for you. And I'm not really sure it's required as such either.
 
 ### Formatting code on the fly
 
