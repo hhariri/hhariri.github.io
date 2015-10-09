@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A RunDeck Runner and a TeamCity Plugin Premier
+title: A RunDeck Runner and a TeamCity Plugin Primer
 status: published
 type: post
 published: true
