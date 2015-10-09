@@ -57,6 +57,7 @@ Like all TeamCity plugins that require work to be performed on the agent, it con
 <br/> 
 ![RunDeck Project]({{ site.images }}/rundeck-project.png)
 <br/> 
+<br/> 
 The TeamCity documentation has more information on how to get started with [plugin development](https://confluence.jetbrains.com/display/TCD9/Developing+TeamCity+Plugins) as well as executing and debugging TeamCity. 
 
 ## Contibutions welcome
