@@ -38,7 +38,7 @@ In terms of configuration parameters:
 <br/>
 The rest of the parameters are pretty much self-descriptive.
 
-# A TeamCity Plugin Premier 
+# A TeamCity Plugin Primer 
 
 TeamCity plugins can basically be written in any language supported on the JVM. While many are written in Java, I've chosen [Kotlin](http://kotlinlang.org). 
 TeamCity plugins use Maven as the build tool and you can open the project in IntelliJ IDEA or any other IDE. 
