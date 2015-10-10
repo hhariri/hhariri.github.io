@@ -46,10 +46,10 @@ TeamCity plugins use Maven as the build tool and you can open the project in Int
 <br/>
 Like all TeamCity plugins that require work to be performed on the agent, it consists of three modules:
 
-* **rundeck-server**: This contains the code that is shown on the TeamCity server. In essence everything dealing with the configuration page of the runner. The JSP file is where you define the actual 
+* **rundeck-server**: This contains the code that is shown on the TeamCity server. In essence everything dealing with the configuration page of the runner. The JSP file is where you define the actual configuration parameters for the runner.
 
 * **rundeck-agent**: This is where the heavyweight part of the work gets done. It's where the runner invokes the RunDeck API and processes the result. The recommended way to run tasks in TeamCity
- is to isolate them in their own equivalent of what would be a *command line* application. This way, if for whatever reason the task crashes, it doesn't affect the stability of the server. So effectively what
+ is to isolate them in their own equivalent of what would be a *command line* application. This way, if for whatever reason the task crashes, it doesn't affect the stability of the agent. So effectively what
  you're basically doing is coding a command line application. In the case of this plugin, most of the code is located in *RunDeck.kt* and *RunDeckAPI.kt* as the rest is very much boilerplate code. 
 
 * **rundeck-common**: A module where, as its name indicates, you can place shared code.
