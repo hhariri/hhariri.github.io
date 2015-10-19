@@ -28,9 +28,9 @@ You can in addition copy, import, export, move, color items and add attachments,
 
 ## One TODO list
 
-My TODO list on Checkvist is the single source of truth. If I have to do something or I've done something, it goes there. Whatever that may be, whether it's a long task or a 30 minute one, a meeting
-or something as simple as remembering to follow-up with something, it gets logged. 
-
+My TODO list on Checkvist is the single source of truth. If I have to do something or I've done something, it goes there. Whatever that may be, whether it's a long task or a 10 minute one, or a meeting. It all gets logged.
+ 
+<br/>
 There's a single entry on the TODO list: **Unscheduled** and everything goes there.
 
 <br/>
