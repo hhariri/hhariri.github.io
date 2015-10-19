@@ -45,6 +45,10 @@ denoting the current week (i.e. 19th October - 23rd October). I then add items f
 ![Checkvist List]({{ site.images }}/checkvist-todo-list.png)
 <br/>
 
+
+Once I set out the week, I try and stick to the original plan. While I do add tasks, especially if I manage to finish things early, I try not to remove things unless
+strictly. While discipline is needed when self-organizing your work, this can really also help!
+
 ### Reminders
 
 With Checkvist you have the ability to set a specific date for a task. Each morning you can also receive an email with upcoming and overdue tasks, so it's pretty good at making sure
@@ -69,6 +73,13 @@ Once in Checkvist I then classify it accordingly, which basically means set a da
 
 While I don't use all the different integration points that Checkvist offers, one that I have recently discovered is the ability to integrate with Slack, via [Zapier](https://zapier.com).
 
+<br/>
+![Checkvist List]({{ site.images }}/checkvist-zapier.png)
+<br/>
+<br/>
+which then allows me to send to Checkvist any message I mark with a star. 
+
+
 ## Archiving weeks
 
 Come each week, I move (which is a simple *mm* keyboard combination) the entire week entry to another list, named TODO Archive 201X
@@ -82,16 +93,6 @@ I keep tasks I've worked on for several reasons:
 * Serves as a summary of activities in our weekly meetings
 * It lets me reflect on the week and see how I've done, i.e. a personal retrospective.
 
-I try and stick to the original plan laid out at the beginning of the week. While I do add tasks, especially if I manage to finish things early, I try not to remove things unless
-strictly.
-
-
-
-<br/>
-![Checkvist List]({{ site.images }}/checkvist-zapier.png)
-<br/>
-<br/>
-which then allows me to send to Checkvist any message I mark with a star. 
 
 ## Keeping it simple
 
