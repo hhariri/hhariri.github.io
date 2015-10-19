@@ -7,7 +7,7 @@ published: true
 comments: true
 ---
 
-I'm a big fan of [Checkvist](http://checkvist.com), a TODO list application by my colleagues [Sasha](https://twitter.com/maxkir) and [Kirill](https://twitter.com/maxkir).
+I'm a big fan of [Checkvist](http://checkvist.com), a TODO list application by my colleagues [Sasha](https://twitter.com/sashika) and [Kirill](https://twitter.com/maxkir).
 It strikes the right balance between simplicity and a rich feature set. More importantly, it provides a very low friction approach to adding and updating items. 
 I believe the most important aspect of any TODO app is that it shouldn't be in your way. That's why in the past I've often resorted to just plain 
 [pen and paper](http://hadihariri.com/2011/05/04/getting-things-done-daily/).
