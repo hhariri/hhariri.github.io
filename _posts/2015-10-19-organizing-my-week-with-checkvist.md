@@ -61,7 +61,7 @@ I've tried in the past to use my inbox as my TODO list, and even emailing myself
 
 <br/>
 Using Checkvist though, I manage to keep my inbox pretty much at zero, and move away from making it my task list. If the email requires someone else's attention, I immediately forward it or respond and CC them. 
-If if needs a reminder, I add an entry to the Calendar. 
+If it needs a reminder, I add an entry to the Calendar. 
 
 <br/>
 If on the other hand it 
@@ -102,5 +102,5 @@ I've tried so many different tools as TODO lists in the past, but the slightest 
 
 <br/>
 I also don't abuse Checkvist with too many lists. I keep a single active TODO list and shove everything under **Unscheduled**. And why under it? Because you can collapse it and remove the noise from the list, which helps 
-avoid burnout. But at the same, the items are there and I can't forget about them (which can often happen if you move everything to a different list). 
+avoid burnout. But at the same time, the items are there and I can't forget about them (which can often happen if you move everything to a different list). 
 
