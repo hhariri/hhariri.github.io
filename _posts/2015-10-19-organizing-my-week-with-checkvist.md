@@ -46,8 +46,9 @@ denoting the current week (i.e. 19th October - 23rd October). I then add items f
 <br/>
 
 
+<br/>
 Once I set out the week, I try and stick to the original plan. While I do add tasks, especially if I manage to finish things early, I try not to remove things unless
-strictly. While discipline is needed when self-organizing your work, this can really also help!
+strictly necessary. While discipline is needed when self-organizing your work, this can really also help!
 
 ### Reminders
 
