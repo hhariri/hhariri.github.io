@@ -100,6 +100,7 @@ I keep tasks I've worked on for several reasons:
 I've tried so many different tools as TODO lists in the past, but the slightest amount of friction has pushed me away. Having followed this technique for nearly 2 years I find
  it simple enough to not get in my way and makes things manageable.
 
-I also don't abuse Checkvist. I keep a single TODO list and shove everything under **Unscheduled**. And why under it? Because you can collapse it and remove the noise from the list, which helps 
+<br/>
+I also don't abuse Checkvist with too many lists. I keep a single TODO list and shove everything under **Unscheduled**. And why under it? Because you can collapse it and remove the noise from the list, which helps 
 avoid burnout. But at the same, the items are there and I can't forget about them (which can often happen if you move everything to a different list). 
 
