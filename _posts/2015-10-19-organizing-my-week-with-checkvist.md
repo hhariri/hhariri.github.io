@@ -101,6 +101,6 @@ I've tried so many different tools as TODO lists in the past, but the slightest 
  it simple enough to not get in my way and makes things manageable.
 
 <br/>
-I also don't abuse Checkvist with too many lists. I keep a single TODO list and shove everything under **Unscheduled**. And why under it? Because you can collapse it and remove the noise from the list, which helps 
+I also don't abuse Checkvist with too many lists. I keep a single active TODO list and shove everything under **Unscheduled**. And why under it? Because you can collapse it and remove the noise from the list, which helps 
 avoid burnout. But at the same, the items are there and I can't forget about them (which can often happen if you move everything to a different list). 
 
