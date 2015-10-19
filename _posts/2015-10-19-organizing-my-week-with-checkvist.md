@@ -52,8 +52,7 @@ you don't let things slip.
 
 ### Converting emails into items
 
-I've tried in the past to use my inbox as my TODO list, and even emailing myself things I need to do. It's not worked out that well for me though. Sometimes tasks can't be complicated immediately or you rely on a third-party, and keeping an email or 
-Even though Gmail has a boomerang plugin that allows you to "snooze" emails (much like Google's Inbox), I've not had much success with it. 
+I've tried in the past to use my inbox as my TODO list, and even emailing myself things I need to do. It's not worked out that well for me though. I've even tried Inbox and its Snooze feature. It's just not for me.
 
 <br/>
 Using Checkvist though, I manage to keep my inbox pretty much at zero, and move away from making it my task list. If the email requires someone else's attention, I immediately forward it or respond and CC them. 
