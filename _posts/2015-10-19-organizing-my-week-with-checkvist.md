@@ -31,7 +31,7 @@ You can in addition copy, import, export, move, color items and add attachments,
 My TODO list on Checkvist is the single source of truth. If I have to do something or I've done something, it goes there. Whatever that may be, whether it's a long task or a 10 minute one, or a meeting. It all gets logged.
  
 <br/>
-There's a single entry on the TODO list: **Unscheduled** and everything goes there.
+There's an entry on the list: **Unscheduled** and everything is logged under that.
 
 <br/>
 ![Checkvist List]({{ site.images }}/checkvist-unscheduled.png)
