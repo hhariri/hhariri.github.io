@@ -15,6 +15,11 @@ meta:
     height="1348"";s:4:"bits";i:8;s:4:"mime";s:9:"image/png";}
 comments: true
 ---
+
+
+<p style="text-align:center;"><img class="size-medium wp-image-3119 aligncenter" alt="Levels" src="{{ site.images }}/levelagain.png?w=300" width="300" height="262" /></p>
+
+
 <h3>Dear Conference Organizers</h3>
 
 Eliminate Level 0. In other words, cover Travel Expenses for Speakers.
