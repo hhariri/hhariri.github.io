@@ -26,7 +26,7 @@ Telling a speaker they'll get a free pass to the conference is pretty much the s
 
 Telling a speaker they get exposure and/or marketing is nice, it’s true. But there’s only so much exposure one can get.
 
-<h3>Dear Speakers</sh3>,
+<h3>Dear Speakers</h3>,
 By accepting Level 0, you’re only promoting the practice.
 
 
