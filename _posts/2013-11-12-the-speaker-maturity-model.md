@@ -21,9 +21,11 @@ Eliminate Level 0. In other words, cover Travel Expenses for Speakers.
 
 <br/>
 If you're a conference backed by a large corporation or conferences are your business, you really don't have an excuse not to. If you're a community driven event, get some more sponsorship money from sponsors or cut some costs on promotional videos, or raise that ticket by a few euros.
-<br/>
+<br/><br/>
+
 Telling a speaker they'll get a free pass to the conference is pretty much the same as saying they won't be escorted in and out of their session.
 
+<br/><br/>
 Telling a speaker they get exposure and/or marketing is nice, it’s true. But there’s only so much exposure one can get.
 
 <h3>Dear Speakers</h3>
