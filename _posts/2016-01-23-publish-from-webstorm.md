@@ -34,8 +34,8 @@ I use WebStorm for writing Markdown, which by the way, now comes with a really s
 <br/>
 <br/>
 
-I've already written about some tips and tricks for working with [Markdown and WebStorm](http://hadihariri.com/2014/01/04/using-webstorm-to-maintain-a-jekyll-site/) so won't rehash them here. Combined with the smooth experience
-of Leanpub, it's very good.
+I've already written about some tips and tricks for working with [Markdown and WebStorm](http://hadihariri.com/2014/01/04/using-webstorm-to-maintain-a-jekyll-site/) so won't rehash them here.
+
 
 <br/>
 However, there was missing part. Leanpub allows you to generate previews to see progress of your book. In order to do this, you need to go
