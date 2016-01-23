@@ -45,7 +45,7 @@ And that's where my [plugin](https://github.com/hhariri/leanpub-plugin) comes in
 to generate previews (as well as publish) directly from WebStorm*
 <br/>
 <br/>
-To use it, install the plugin and configure the API and slug, which can be obtained from your [Leanpub author dashboard](https://leanpub.com/author_dashboard/settings)
+To use it, install the plugin and configure the API and slug, which can be obtained from your [Leanpub author dashboard](https://leanpub.com/author_dashboard/settings).
 
 <br/>
 ![Leanpub Config]({{ site.images }}/leanpub-config.png)
