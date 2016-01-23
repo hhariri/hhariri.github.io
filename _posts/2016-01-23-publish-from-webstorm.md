@@ -28,7 +28,7 @@ Dropbox is just one of the multiple options. You can also use Git/GitHub amongst
 I use WebStorm for writing Markdown, which by the way, now comes with a really sweet Preview window using JavaFX
 
 <br/>
-![Leanpub Folder]({{ site.images }}/leanpub-preview.png)
+![Leanpub Preview]({{ site.images }}/leanpub-preview.png)
 <br/>
 
 I've already written about some tips and tricks for working with [Markdown and WebStorm](http://hadihariri.com/2014/01/04/using-webstorm-to-maintain-a-jekyll-site/) so won't rehash them here. Combined with the smooth experience
@@ -43,14 +43,14 @@ to generate previews, as well as publish directly from WebStorm*
 To use it, you simply install it and configure the API and slug, which can be obtained from your [Leanpub author dashboard](https://leanpub.com/author_dashboard/settings)
 
 <br/>
-![Leanpub Folder]({{ site.images }}/leanpub-config.png)
+![Leanpub Config]({{ site.images }}/leanpub-config.png)
 <br/>
 
 Once configured, you can simply just use the menu entries to generate previews and/or publish your book. Leanpub then generates these in multiple formats and places them in the preview and published
 folder respectively in your Dropbox.
 
 <br/>
-![Leanpub Folder]({{ site.images }}/leanpub-toolmenu.png)
+![Leanpub Tool menu]({{ site.images }}/leanpub-toolmenu.png)
 <br/>
 
 
