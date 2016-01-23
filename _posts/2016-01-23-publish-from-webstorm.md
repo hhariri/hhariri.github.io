@@ -23,7 +23,7 @@ They handle everything for you in terms of transactions, and you can even push y
 
 
 <br/>
-Dropbox is just one of the multiple options. You can also use Git/GitHub amongst other alternatives.
+Of course, Dropbox is just one of the multiple options. You can also use Git/GitHub amongst other alternatives.
 
 ### Previews and Publishing
 
