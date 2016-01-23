@@ -41,8 +41,10 @@ of Leanpub, it's very good.
 However, there was missing part. Leanpub allows you to generate previews to see progress of your book. In order to do this, you need to go
 to the website and do it via your author dashboard. It's not big deal but it does prove cumbersome, especially if you want to generate these frequently.
 <br/>
+<br/>
 And that's where my [plugin](https://github.com/hhariri/leanpub-plugin) comes in. Given I've been working extensively with Leanpub recently (soon to be revealed, and no it's not what you think), I wrote a simple plugin that uses Leanpub's API
 to generate previews, as well as publish directly from WebStorm*
+<br/>
 <br/>
 To use it, you simply install it and configure the API and slug, which can be obtained from your [Leanpub author dashboard](https://leanpub.com/author_dashboard/settings)
 
