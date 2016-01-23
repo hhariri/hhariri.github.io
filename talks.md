@@ -22,25 +22,32 @@ image:
 
 ## Upcoming
 
-* JavaZone, Oslo, September 2015
-* BASTA!, Mainz, September 2015
-* DevIntersection Europe, October 2015
-* JavaOne, San Francisco, October 2015
+* .NET User Group, St. Petersburg, December 2015
+* dotNEXT, Moscow, December 2015
+ 
+
+## 2015
+
+* JetBrains Night, Munich, November 2015, 
 * Devoxx Belgium, Antwerp, November 2015
-
-## 2014
-
+* JavaOne, San Francisco, October 2015
+* DevIntersection Europe, October 2015
+* BASTA!, Mainz, September 2015
+* JavaZone, Oslo, September 2015
 * Agile Conference, Washington DC, August 2015
 * JBCN Conference, Barcelona, June 2015
 * Devoxx Poland, June 2015
 * NDC Oslo, June 2015
 * DevSum, Stockholm, May 2015
-* NCraft, Paris, May 2015
-* QCon London, March 2015
-* DevNexus, Atlanta, March 2015
-* Devoxx, Paris, April 2015
-* Techorama, Belgium, May 2015
 * SDD Conference, London, May 2015
+* NCraft, Paris, May 2015
+* Techorama, Belgium, May 2015
+* Devoxx, Paris, April 2015
+* DevNexus, Atlanta, March 2015
+* QCon London, March 2015
+
+## 2014
+
 * NDC London, London, December 2014
 * JetBrains Night, December 2014
 * vJug, December 2014
@@ -53,13 +60,13 @@ image:
 * JavaOne, San Francisco, September 2014
 * Agile 2014, Florida, July 2014
 * BASTA! Spring, Darmstadt, February 2014
-* CodeMotion, Rome, April 2014
-* Devoxx France, April 2014
-* JAX! Mainz, May 2014
-* SDD Conference, London, May 2014
 * NDC, Oslo, June 2014
 * GeekOut, Tallinn, June 2014
 * Devoxx UK, June 2014
+* JAX! Mainz, May 2014
+* SDD Conference, London, May 2014
+* CodeMotion, Rome, April 2014
+* Devoxx France, April 2014
 
 ## 2013
 
