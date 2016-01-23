@@ -17,6 +17,7 @@ you publish your book and put it up for sale!
 <br/>
 ![Leanpub Folder]({{ site.images }}/leanpub-folder.png)
 <br/>
+<br/>
 
 They handle everything for you in terms of transactions, and you can even push your books to Amazon, albeit they make a much bigger cut than Leanpub do (which is approximately 10%).
 
@@ -30,6 +31,7 @@ I use WebStorm for writing Markdown, which by the way, now comes with a really s
 
 <br/>
 ![Leanpub Preview]({{ site.images }}/leanpub-markdown-preview.png)
+<br/>
 <br/>
 
 I've already written about some tips and tricks for working with [Markdown and WebStorm](http://hadihariri.com/2014/01/04/using-webstorm-to-maintain-a-jekyll-site/) so won't rehash them here. Combined with the smooth experience
@@ -47,12 +49,14 @@ To use it, you simply install it and configure the API and slug, which can be ob
 <br/>
 ![Leanpub Config]({{ site.images }}/leanpub-config.png)
 <br/>
+<br/>
 
 Once configured, you can simply just use the menu entries to generate previews and/or publish your book. Leanpub then generates these in multiple formats and places them in the preview and published
 folder respectively in your Dropbox.
 
 <br/>
 ![Leanpub Tool menu]({{ site.images }}/leanpub-toolmenu.png)
+<br/>
 <br/>
 
 
