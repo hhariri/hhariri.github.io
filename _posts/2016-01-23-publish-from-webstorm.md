@@ -20,7 +20,8 @@ you publish your book and put it up for sale!
 <br/>
 Of course, Dropbox is just one of the multiple options. You can also use Git/GitHub amongst other alternatives.
 
-They handle everything for you in terms of transactions, and you can even push your books to Amazon, albeit they make a much bigger cut than Leanpub do (which is approximately 10%).
+<br/>
+Leanpub handle everything for you in terms of transactions. You can even push your books to Amazon, albeit Amazon take a much larger cut than Leanpub (which is approximately 10%).
 <br/>
 
 ### Previews and Publishing
