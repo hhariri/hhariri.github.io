@@ -42,7 +42,7 @@ to the website and do it via your author dashboard. It's not a big deal but it d
 <br/>
 <br/>
 And that's where my [plugin](https://github.com/hhariri/leanpub-plugin) comes in. Given I've been working extensively with Leanpub recently (soon to be revealed, and no it's not what you think), I wrote a simple plugin that uses Leanpub's API
-to generate previews, as well as publish directly from WebStorm*
+to generate previews (as well as publish) directly from WebStorm*
 <br/>
 <br/>
 To use it, install the plugin and configure the API and slug, which can be obtained from your [Leanpub author dashboard](https://leanpub.com/author_dashboard/settings)
