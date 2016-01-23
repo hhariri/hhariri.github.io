@@ -39,7 +39,7 @@ I've already written about some tips and tricks for working with [Markdown and W
 
 <br/>
 While the experience is great I found there was a missing part. Leanpub allows you to generate previews to see progress of your book. In order to do this, you need to go
-to the website and do it via your author dashboard. It's not big deal but it does prove cumbersome, especially if you want to generate these frequently.
+to the website and do it via your author dashboard. It's not a big deal but it does prove somewhat cumbersome, especially if you want to generate these frequently.
 <br/>
 <br/>
 And that's where my [plugin](https://github.com/hhariri/leanpub-plugin) comes in. Given I've been working extensively with Leanpub recently (soon to be revealed, and no it's not what you think), I wrote a simple plugin that uses Leanpub's API
