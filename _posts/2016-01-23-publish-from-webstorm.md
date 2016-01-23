@@ -11,19 +11,17 @@ I'm a really big fan of [Leanpub](https://leanpub.com), a self-pubishing site th
 also provides an amazing experience when working with it.
 
 <br/>
-Simply put, you sign up, link up your Dropbox folder. It creates a folder for you with a manuscript subfolder where you write your chapters using Markdown. Once you're done
+Simply put, you sign up and link your Dropbox account. It creates a folder strucutre for you with a manuscript subfolder where you write your chapters using Markdown. Once you're done
 you publish your book and put it up for sale!
 
 <br/>
 ![Leanpub Folder]({{ site.images }}/leanpub-folder.png)
 <br/>
 <br/>
+Of course, Dropbox is just one of the multiple options. You can also use Git/GitHub amongst other alternatives.
 
 They handle everything for you in terms of transactions, and you can even push your books to Amazon, albeit they make a much bigger cut than Leanpub do (which is approximately 10%).
-
-
 <br/>
-Of course, Dropbox is just one of the multiple options. You can also use Git/GitHub amongst other alternatives.
 
 ### Previews and Publishing
 
@@ -46,7 +44,7 @@ And that's where my [plugin](https://github.com/hhariri/leanpub-plugin) comes in
 to generate previews, as well as publish directly from WebStorm*
 <br/>
 <br/>
-To use it, you simply install the plugin and configure the API and slug, which can be obtained from your [Leanpub author dashboard](https://leanpub.com/author_dashboard/settings)
+To use it, install the plugin and configure the API and slug, which can be obtained from your [Leanpub author dashboard](https://leanpub.com/author_dashboard/settings)
 
 <br/>
 ![Leanpub Config]({{ site.images }}/leanpub-config.png)
