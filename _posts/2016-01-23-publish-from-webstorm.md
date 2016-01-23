@@ -46,14 +46,14 @@ And that's where my [plugin](https://github.com/hhariri/leanpub-plugin) comes in
 to generate previews, as well as publish directly from WebStorm*
 <br/>
 <br/>
-To use it, you simply install it and configure the API and slug, which can be obtained from your [Leanpub author dashboard](https://leanpub.com/author_dashboard/settings)
+To use it, you simply install the plugin and configure the API and slug, which can be obtained from your [Leanpub author dashboard](https://leanpub.com/author_dashboard/settings)
 
 <br/>
 ![Leanpub Config]({{ site.images }}/leanpub-config.png)
 <br/>
 <br/>
 
-Once configured, you can simply just use the menu entries to generate previews and/or publish your book. Leanpub then generates these in multiple formats and places them in the preview and published
+Once configured, you can simply use the menu entries to generate previews and/or publish your book. Leanpub then generates these in multiple formats and places them in the preview and published
 folder respectively in your Dropbox.
 
 <br/>
