@@ -11,7 +11,7 @@ I'm a really big fan of [Leanpub](https://leanpub.com), a self-pubishing site th
 also provides an amazing experience when working with it.
 
 <br/>
-Simply put, you sign up, link up your Dropbox folder. It creates a folder for you with a manuscript subfolder where you write your chapters using markdown. Once you're done
+Simply put, you sign up, link up your Dropbox folder. It creates a folder for you with a manuscript subfolder where you write your chapters using Markdown. Once you're done
 you publish your book and put it up for sale!
 
 <br/>
