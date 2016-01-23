@@ -22,13 +22,23 @@ image:
 
 ## Upcoming
 
-* .NET User Group, St. Petersburg, December 2015
-* dotNEXT, Moscow, December 2015
- 
+* DevNexus, Atlanta, February 2016
+* Voxxed Days Vienna, February 2016
+* Voxxed Days Zurich, March 2016
+* CraftCon, Budapest, April 2016
+* Techorama, Brussels, May 2016
+* SDD, London, May 2016
+* JPrime, Sofia, May 2016
+
+# 2016
+
+* NDC London, January 2015
 
 ## 2015
 
-* JetBrains Night, Munich, November 2015, 
+* .NET User Group, St. Petersburg, December 2015
+* dotNEXT, Moscow, December 2015
+* JetBrains Night, Munich, November 2015,
 * Devoxx Belgium, Antwerp, November 2015
 * JavaOne, San Francisco, October 2015
 * DevIntersection Europe, October 2015
