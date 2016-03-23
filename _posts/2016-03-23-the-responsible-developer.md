@@ -34,7 +34,7 @@ Open source software, free package repositories, all of these things are truly w
 of the day, none of these free packages, free projects or free services necessarily owe us anything. And yet we seem to often choose to ignore this fact when we're evaluating technology and costs of what is involved with adopting something.
 
 <br/>
-If we are naive enough to believe that certain things are too centric or big to fail and us having a dependency on them is fine, recall what they said about Lehman Brothers and other large banks.
+If we are naive enough to believe that certain things are too centric or big to fail and us having a dependency on them is fine, then we should recall that they said the same about Lehman Brothers and other large banks.
 
 <br/>
 At the end of the day, we're exclusively responsible for the software we build and deliver to our customers. And in doing so, we have to safeguard our own dependencies in one way or another.
