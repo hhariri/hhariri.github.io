@@ -25,8 +25,7 @@ Instead, what I'd like to focus on is something that caught my attention today:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/Nick_Craver">@Nick_Craver</a> This is the result of someone being a jerk and not taking responsibility for the software they created.</p>&mdash; Jeff Fritz (@csharpfritz) <a href="https://twitter.com/csharpfritz/status/712455333315276800">March 23, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-I'm not sure whether Jeff was referring to NPM, in that they wrongly pulled down a package, or the author of **left-pad**. But assuming it was either of them
-, then I'd disagree. In fact, the only time I'd agree with such a statement is if he were referring to the developer that uses that dependency, in allowing
+I'm not sure whether Jeff was referring to NPM, in that they wrongly pulled down a package, or the author of **left-pad**. But assuming it was either of them, then I'd disagree. In fact, the only time I'd agree with such a statement is if he were referring to the developer that uses that dependency, in allowing
 a critical piece of software (well fair enough 9 lines isn't critical but other packages might be), developed by a third-party person, hosted by a third-party company, potentially impact the software that they use, build and
 deliver to their customers, often with no SLA's in place.
 
