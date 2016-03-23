@@ -19,6 +19,7 @@ white lines and the import module statement.
 Now I'm not going to debate why we're packaging up 9 lines of JavaScript, maybe it's because NIH (Not Invented Here) syndrome is stronger than we think, or maybe it's just a consequence
 of JavaScript not having a standard library. This isn't exclusive to JavaScript however, we have package managers on all platforms, offering functionality small and large.  I'm not even going to argue about whether NPM were right in allowing some lawyers dictate what package should or shouldn't be removed.
 <br/>
+<br/>
 Instead, what I'd like to focus on is something that caught my attention today:
 <br/>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/Nick_Craver">@Nick_Craver</a> This is the result of someone being a jerk and not taking responsibility for the software they created.</p>&mdash; Jeff Fritz (@csharpfritz) <a href="https://twitter.com/csharpfritz/status/712455333315276800">March 23, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
