@@ -27,7 +27,7 @@ Instead, what I'd like to focus on is something that caught my attention today:
 
 I'm not sure whether Jeff was referring to NPM, in that they wrongly pulled down a package, or the author of **left-pad**. But assuming it was either of them, then I'd disagree. In fact, the only time I'd agree with such a statement is if he were referring to the developer that uses that dependency, in allowing
 a critical piece of software (well fair enough 9 lines isn't critical but other packages might be), developed by a third-party person, hosted by a third-party company, potentially impact the software that they use, build and
-deliver to their customers, often with no SLA's in place.
+deliver to their customers. And they do this with  dependencies that often with no SLA's in place.
 
 ## Where did my free lunch go?
 Open source software, free package repositories, all of these things are truly wonderful things. We all use OSS and public repositories in one way or another. But at the end
