@@ -16,7 +16,7 @@ white lines and the import module statement.
 <br/>
 <br/>
 
-Now I'm not going to debate why we're packaging up 9 lines of JavaScript, maybe it's because [NIH syndrome](https://en.wikipedia.org/wiki/Not_invented_here) is stronger than we think, or maybe it's just a consequence
+Now I'm not going to debate why we're packaging up 9 lines of JavaScript, maybe it's because anti-[NIH syndrome](https://en.wikipedia.org/wiki/Not_invented_here) is stronger than we think, or maybe it's just a consequence
 of JavaScript not having a standard library. I'm not even going to argue about whether NPM were right in allowing some lawyers dictate what package should or shouldn't be removed.
 <br/>
 <br/>
