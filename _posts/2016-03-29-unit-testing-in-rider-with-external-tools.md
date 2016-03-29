@@ -66,6 +66,11 @@ We can do this under Preferences (Settings), Keymap. Find the corresponding entr
 Now we can simply select a class (remember to use use Extend Selection (Alt+Up on OSX or Ctrl+W) on the classname), and hit the corresponding key binding to run just that class.
 
 
+<br/>
+![Running it]({{ site.images }}/external-tools-rider.gif)
+<br/>
+
+
 ### Compile before running
 One issue with this workflow is that calling the external tool doesn't automatically compile the code. However, given that we often have the impulse to save our work (which isn't necessary in Rider or IntelliJ IDE's as they're always saving), we could assign the Save All action (Cmd+S) to actually build the solution. With this simple key mapping, we can fall into the habit of hitting Cmd+S and then invoking the external tool.
 
