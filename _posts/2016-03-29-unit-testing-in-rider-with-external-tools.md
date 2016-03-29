@@ -10,10 +10,12 @@ comments: true
 *Disclaimer: we're working on first-class unit test support in Rider. This post is one of many possible workarounds until we provide proper support. It's not an official recommendation, but something I've found useful.*
 
 
+
 <br/>
 The IntelliJ platform comes with an option to configure and run external tools, known as, well [External Tools](https://www.jetbrains.com/help/idea/2016.1/external-tools.html). We can use this feature to configure Rider to execute the NUnit console runner from inside the IDE. While not much different from using the built-in terminal, it does save us in terms of a few keystrokes and has the ability to use macros to make it somewhat easier.
 
-
+<br/>
+![Running it]({{ site.images }}/external-tools-rider.gif)
 <br/>
 
 ## Configuring External Tools
@@ -64,11 +66,6 @@ We can do this under Preferences (Settings), Keymap. Find the corresponding entr
 <br/>
 
 Now we can simply select a class (remember to use use Extend Selection (Alt+Up on OSX or Ctrl+W) on the classname), and hit the corresponding key binding to run just that class.
-
-
-<br/>
-![Running it]({{ site.images }}/external-tools-rider.gif)
-<br/>
 
 
 ### Compile before running
