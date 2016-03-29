@@ -29,7 +29,7 @@ What we'll do is create two entries in External Tools: one for running all tests
 To configure an external tool, we basically have to provide the executable to run along with any parameters. The key however is the ability to pass parameters, which can be macros. We can use this feature to create an external tool that is applicable to most projects.
 
 <br/>
-In order to so, select Preferences (Settings) and search for External Tools. On the right pane, click on the plus sign to bring up the corresponding entry dialog
+In order to do so, select Preferences (Settings) and search for External Tools. On the right pane, click on the plus sign to bring up the corresponding entry dialog
 
 <br/>
 For the case of running all tests, we basically need to invoke the NUnit console runner passing in the necessary parameters
@@ -39,7 +39,7 @@ For the case of running all tests, we basically need to invoke the NUnit console
 <br/>
 <br/>
 
-Under Parameters we're providing the macro **$ProjectName$** with the suffix Tests.dll. In principle the suffix shouldn't be necessary. However currently there is no direct mapping of a macro that defines the actual project that's selected in the Solution Explorer, so we need to use this suffix, which ideally would need to match whatever convention you have in order to not have to redefine External Tools for each project.
+Under Parameters we're providing the macro **$ProjectName$** with the suffix **Tests.dll**. In principle the suffix shouldn't be necessary. However currently there is no direct mapping of a macro that defines the actual project that's selected in the Solution Explorer, so we need to use this suffix, which ideally would need to match whatever convention you have in order to not have to redefine External Tools for each project.
 <br/>
 
 Under Working Directory, we again use a series of macros combined some suffixes that follow a convention. Once again, at a later stage, this most likely will not be necessary as Rider will provide more aligned macros.
