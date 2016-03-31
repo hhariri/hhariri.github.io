@@ -7,7 +7,7 @@ published: true
 comments: true
 ---
 
-I'm not a fan of tabs, and have been vocal about [their usage in our own tools](% post_url 2014-06-24-no-tabs-in-intellij-idea %}). Unfortunately with browsers there are very few alternatives when it comes to not wanting to use tabs, i.e. none.
+I'm not a fan of tabs, and have been vocal about [their usage in our own tools]({% post_url 2014-06-24-no-tabs-in-intellij-idea %}). Unfortunately with browsers there are very few alternatives when it comes to not wanting to use tabs, i.e. none.
 
 <br/>
 While I try and keep the number of tabs to a minimum, I usually have a few open pinned ones (mail, calendar, checkvist) and transitory ones. Navigating these using *CMD(Ctrl)+Number* is painful. There are many Chrome extensions that help you manage tabs, including one that numbers them when you press the *CMD(Ctrl)* key, allowing you then spend time trying to locate the tab with the corresponding number and then press that number. I've not found it particularly helpful.
