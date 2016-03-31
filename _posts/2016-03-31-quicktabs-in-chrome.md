@@ -13,7 +13,7 @@ I'm not a fan of tabs, and have been vocal about [their usage in our own tools](
 While I try and keep the number of tabs to a minimum, I usually have a few open pinned ones (mail, calendar, checkvist) and transitory ones. Navigating these using CMD(Ctrl)+Number is painful. There are many Chrome extensions that help you manage tabs, including one that numbers them when you press the CMD(Ctrl) key, allowing you then spend time trying to locate the tab with the corresponding number and then press that number. I've not found it particularly helpful.
 
 <br/>
-One extension however that I did find very useful is [Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb?hl=en).
+One extension however that I do find very useful is [Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb?hl=en).
 
 <br/>
 ![Quick Tabs]({{ site.images }}/quicktabs-1.png)
