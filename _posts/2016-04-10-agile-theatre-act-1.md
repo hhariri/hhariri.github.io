@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agile Theatre - Act 1. The Non-Code Stuff First
+title: Agile Theatre - Act I. The Non-Code Stuff First
 status: published
 type: post
 published: true
