@@ -12,10 +12,10 @@ comments: true
 **Agile Coach**: "The Agile Manifest talks about..."
 <br/>
 
-"...so remember, amongst other things, it's about interactions, it's about being able to respond to change, focusing on value...."
+**Agile Coach**: "...so remember, amongst other things, it's about interactions, it's about being able to respond to change, focusing on value...."
 
 <br/>
-(*A day after the training*)
+(*A few days after the training*)
 <br/>
 <br/>
 
