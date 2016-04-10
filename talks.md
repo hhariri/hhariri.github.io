@@ -22,16 +22,23 @@ image:
 
 ## Upcoming
 
-* DevNexus, Atlanta, February 2016
-* Voxxed Days Vienna, February 2016
-* Voxxed Days Zurich, March 2016
+* MIT-IT, Lyon, April 2016
 * CraftCon, Budapest, April 2016
 * Techorama, Brussels, May 2016
 * SDD, London, May 2016
 * JPrime, Sofia, May 2016
+* Devoxx UK, London, June 2016
+* NDC Sydney, Sydney, August 2016
+* GOTO Copenhagen, Copenhagen, October 2016
+* GOTO London, London, October 2016
+* BUILD Stuff, Lithuania, November 2016
 
 ## 2016
 
+* JetBrains Night, Munich, March 2016
+* Voxxed Days Zurich, March 2016
+* Voxxed Days Vienna, February 2016
+* DevNexus, Atlanta, February 2016
 * NDC London, January 2015
 
 ## 2015

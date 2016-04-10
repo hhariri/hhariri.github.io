@@ -28,11 +28,6 @@ You can see most of my OSS projects on [GitHub](https://github.com/hhariri), but
 A .NET client for making JSON/XML requests to web services. Includes support for static and dynamic types, as well
 as support for all HTTP verbs including GET, POST, PUT, DELETE, PATCH and OPTIONS. [More](https://github.com/hhariri/easyhttp)
 
-
-## EasyHttp.jvm
-
-A port of EasyHttp to Java written in Kotlin. [More](https://github.com/hhariri/easyhttp.jvm)
-
 ## YouTrackSharp
 
 A .NET client for interacting with YouTrack. [More](https://github.com/jetbrains/youtracksharp)
@@ -41,7 +36,7 @@ A .NET client for interacting with YouTrack. [More](https://github.com/jetbrains
 
 A specification framework for the JVM. [More](https://jetbrains.github.io/spek)
 
-## Wasabi
+## Wasabi 
 
 An HTTP framework for the JVM in the making. Inspired by Sinatra et al. [More](https://github.com/hhariri/wasabi)
 
