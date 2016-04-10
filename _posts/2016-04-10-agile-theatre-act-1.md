@@ -14,6 +14,8 @@ comments: true
 <br/>
 (*A day after the training*)
 <br/>
+
+
 **James**: "Really excited about this Agile stuff!"
 **Jane**: "Yeah! I think it can drastically change the way we work"
 
