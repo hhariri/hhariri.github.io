@@ -16,7 +16,6 @@ comments: true
 <br/>
 <br/>
 
-
 **James**: "Really excited about this Agile stuff!"
 <br/>
 
