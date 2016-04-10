@@ -14,6 +14,7 @@ comments: true
 <br/>
 (*A day after the training*)
 <br/>
+<br/>
 
 
 **James**: "Really excited about this Agile stuff!"
