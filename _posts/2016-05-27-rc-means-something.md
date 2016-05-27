@@ -48,6 +48,9 @@ Release candidate in particular means
 <br/>
 Or to put another way - **unless some critical bugs pop up, we're good to go**.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/FransBouma">@FransBouma</a> We used acronyms like Beta, RC, RTM with honour, with pride, with commitment. <br><br>Today, they’re used as a punch line on Twitter.</p>&mdash; Hadi Hariri (@hhariri) <a href="https://twitter.com/hhariri/status/689724407493873664">January 20, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <br/>
 What RC doesn't mean is - let's change a whole bunch of fundamental things, including tooling, API's, etc.
 
