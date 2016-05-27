@@ -57,7 +57,7 @@ Or to put another way - **unless some critical bugs pop up, we're good to go**.
 What RC doesn't mean is - let's change a whole bunch of fundamental things, including tooling, API's, etc.
 
 <br/>
-**This** is the problem. When you call something RC, give Go Live licenses, then make significant changes, then come out with RC2, and then a Preview  and then change more things, you're confusing people. From one side you're telling those that build on your platform that it's pretty much ready to go and then two days later you're changing of things and breaking stuff.
+**This** is the problem. When you call something RC, give Go Live licenses, then make significant changes, then come out with RC2, and then a Preview  and then change more things, you're confusing people. From one side you're telling those that build on your platform that it's pretty much ready to go and then two days later you're changing things and breaking stuff.
 
 ## Loss of confidence
 
