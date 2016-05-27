@@ -73,7 +73,10 @@ These people are putting in their time, their money, and most importantly, at ti
 Sure, it's great that as consultants, trainers or speakers, these constant changes give us new material to build on, but somebody, somewhere is paying the price.
 
 <br/>
-Some say that .NET Core was an attempt to keep those developers fleeing the platform to stay. Others say it's about trying to attract new ones. Microsoft know better what their intentions are, but I think one thing they really shouldn't forget are all those developers that are using their platform, building on their platform, tooling their platform and have come to expect a certain level of stability and direction. This kind of approach isn't helping anyone.
+Some say that .NET Core is an attempt to keep those developers fleeing the platform to stay. Others say it's about trying to attract new ones. Microsoft know better what their intentions are, but I think one thing they really shouldn't forget are all those developers that are using their platform, building on their platform, tooling their platform and have come to expect a certain level of stability and direction. 
+
+<br/>
+This approach is not helping those that are staying nor those that are wanting to adopt. In fact, if anything, it's pushing people away. 
 
 ## Setting expectations
 
