@@ -14,7 +14,7 @@ If you're not aware of what's been going on in the .NET community with regard to
 
 
 <br/>
-I suggest you read it, but to summarise things - a lot of changes are constantly happening with .NET Core. Project format files, mscorlib going and coming, new API's, etc.
+I suggest you read his post, but to summarise things - a lot of changes are constantly happening with .NET Core. Project format files, mscorlib going and coming, new API's, etc.
 
 <br/>
 You can argue whether these changes are good or bad, the reasons behind them or what has influenced them. What you cannot deny though is that there are significant changes.
