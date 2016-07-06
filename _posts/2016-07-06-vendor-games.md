@@ -42,7 +42,7 @@ We partially solved this at the last conference...
 <br/>
 <br/>
 
-Unfortunately, this isn't something that can be solved by having more people. We have quite a good number of people that we send to conferences. Often with up to four or five people at the booth. And while there are occasionss that someone is completely free to do these side-jobs, our main goal at a conference
+Unfortunately, this isn't something that can be solved by having more people. We have quite a good number of people that we send to conferences, often with up to four or five people at the booth. And while there are occasionss that someone is completely free to do these side-jobs, our main goal at a conference
 isn't to stamp cards or give handouts. It's to engage with our users, to learn more about what they're doing and to show them what we're doing.
 
 <br/>
