@@ -22,6 +22,15 @@ image:
 
 ## Upcoming
 
+* JavaZone, Oslo, September 2016
+* JavaOne, San Francisco, September 2016
+* Houston Tech Fest, Houston, September 2016
+* GOTO Copenhagen, Copenhagen, October 2016
+* GOTO London, London, October 2016
+* BUILD Stuff, Lithuania, November 2016
+
+## 2016
+
 * MIT-IT, Lyon, April 2016
 * CraftCon, Budapest, April 2016
 * Techorama, Brussels, May 2016
@@ -29,20 +38,14 @@ image:
 * JPrime, Sofia, May 2016
 * Devoxx UK, London, June 2016
 * NDC Sydney, Sydney, August 2016
-* GOTO Copenhagen, Copenhagen, October 2016
-* GOTO London, London, October 2016
-* BUILD Stuff, Lithuania, November 2016
-
-## 2016
-
 * JetBrains Night, Munich, March 2016
 * Voxxed Days Zurich, March 2016
 * Voxxed Days Vienna, February 2016
 * DevNexus, Atlanta, February 2016
-* NDC London, January 2015
 
 ## 2015
 
+* NDC London, January 2015
 * .NET User Group, St. Petersburg, December 2015
 * dotNEXT, Moscow, December 2015
 * JetBrains Night, Munich, November 2015,
