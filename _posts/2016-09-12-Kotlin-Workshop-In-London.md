@@ -13,7 +13,7 @@ comments: true
 <br/>
 I'll be giving a hands-on [Kotlin Workshop](https://gotocon.com/london-2016/presentations/show_presentation.jsp?oid=7892) in London on the 12th of October as part of the [GOTO London](https://gotocon.com/london-2016/) Pre-Conference Workshops. 
 
-If you're new to Kotlin want to get up and running in no time, then come along. 
+If you're new to Kotlin and want to get up and running in no time, then come along. 
 
 <br/>
 The good folks at Trifork are providing  a [discount coupon for 100 GBP](https://secure.trifork.com/london-2016/registration/registration.jsp?promotionCode=kotlin100) if signing up for the workshop and/or conference.
