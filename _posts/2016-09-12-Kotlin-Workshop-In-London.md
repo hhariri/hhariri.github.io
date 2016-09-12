@@ -16,7 +16,7 @@ I'll be giving a hands-on [Kotlin Workshop](https://gotocon.com/london-2016/pres
 If you're new to Kotlin want to get up and running in no time, then come along. 
 
 <br/>
-The good folks at Trifork are providing  a discount coupon of **kotlin100** if signing up for the workshop and/or conference.
+The good folks at Trifork are providing  a discount coupon for 100 GBP (**kotlin100**) if signing up for the workshop and/or conference.
 
 Hope to see you there!
 
