@@ -73,15 +73,11 @@ The file contains a single line:
 <br/>
 
 <br/>
-If you're using Gradle, you can also have it [generate the file for you.](https://github.com/hhariri/mockito-sample/blob/master/build.gradle#L16)
-
-<br/>
-You can download the [sample project I've created from GitHub](https://github.com/hhariri/mockito-sample/)
-<br/>
+If you're using Gradle, you can also have it [generate the file for you.](https://github.com/hhariri/mockito-sample/blob/master/build.gradle#L16). You can download the [sample project I've created from GitHub](https://github.com/hhariri/mockito-sample/)
 
 
 <br/>
-Big kudos to [Rafael](https://twitter.com/rafaelcodes) for his work in making this possible!
+Finally, a big kudos to [Rafael](https://twitter.com/rafaelcodes) for his work in making this possible!
 
 
 <br/>
