@@ -39,7 +39,7 @@ Bruce Schneier once said
 <br/>
 Of course, we're assuming that our civilisation continues to advance progressively and towards the greater good, but something [Ancilla](https://twitter.com/ncilla) rightly 
 showed in her excellent talk on [Privacy, a relic of the past](https://vimeo.com/191278775) was the map below which represented a distribution of the Jewish population in Amsterdam. It was used by the Town Hall for purposes of trash collection due to different festivities the Jewish had.
-For an innocent purpose.
+For an apparent innocent cause.
 
 <br/>
 ![Map](https://www.verzetsmuseum.org/uploads/archive/museum/topstukken/stippenkaart_1633.jpg)
