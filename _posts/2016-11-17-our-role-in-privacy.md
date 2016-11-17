@@ -38,19 +38,8 @@ Bruce Schneier once said
 
 <br/>
 Of course, we're assuming that our civilisation continues to advance progressively and towards the greater good, but something [Ancilla](https://twitter.com/ncilla) rightly 
-showed in her excellent talk on [Privacy, a relic of the past](https://vimeo.com/191278775) was the map below which represented a distribution of the Jewish population in Amsterdam. It was used by the Town Hall for purposes of trash collection due to different festivities the Jewish had.
-For an apparent innocent cause.
-
-<br/>
-![Map](https://www.verzetsmuseum.org/uploads/archive/museum/topstukken/stippenkaart_1633.jpg)
-
-(Link: https://www.verzetsmuseum.org/uploads/archive/museum/topstukken/stippenkaart_1633.jpg)
-
-<br/>
-Of course, with World War II breaking out, that information was used for a much different purpose unfortunately. 
-
-<br/>
-In essence, we have no idea on what our information will be used for in the future. And it might not just be about advertising. 
+showed in her excellent talk on [Privacy, a relic of the past](https://vimeo.com/191278775)
+<br/> is that we have no idea on what our information will be used for in the future. And it might not just be about advertising. 
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;If you have children, don&#39;t put their information online because we don&#39;t know what the world is going to look like in 15 years&quot; <a href="https://twitter.com/ncilla">@ncilla</a></p>&mdash; Hadi Hariri (@hhariri) <a href="https://twitter.com/hhariri/status/797499107556421632">November 12, 2016</a></blockquote>
