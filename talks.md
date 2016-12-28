@@ -24,6 +24,7 @@ image:
 
 I've been giving talks at conferences as well as private events for over 15 years. The audience size has varied from a few dozen to several thousands. If you'd like me to give a presentation at your event, feel free to reach out. 
 
+<br/>
 As of 2017 I'm no longer keeping track of the talks I give on this site.
 
 ## 2016
