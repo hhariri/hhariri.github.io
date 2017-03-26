@@ -43,7 +43,7 @@ I asked Spotify just this the other day on Twitter
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br/>
-and their response was to vote for a [user request](https://community.spotify.com/t5/Live-Ideas/Let-me-activate-private-session-indefinitely/idi-p/1042929).
+and their response was to vote for a [user request](https://community.spotify.com/t5/Live-Ideas/Let-me-activate-private-session-indefinitely/idi-p/1042929) that's been around for a few years.
 <br/>
 
 <br/>
