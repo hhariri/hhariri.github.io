@@ -20,17 +20,22 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-## Upcoming
+## Giving talks
 
-* JavaZone, Oslo, September 2016
+I've been giving talks at conferences as well as private events for over 15 years. The audience size has varied from a few dozen to several thousands. If you'd like me to give a presentation at your event, feel free to reach out. 
+
+<br/>
+As of 2017 I'm no longer keeping track of the talks I give on this site.
+
+## 2016
+
+* BUILD Stuff, Lithuania, November 2016
+* Asia Tour (Beijing, Tokyo, Seoul), November 2016
 * JavaOne, San Francisco, September 2016
 * Houston Tech Fest, Houston, September 2016
 * GOTO Copenhagen, Copenhagen, October 2016
 * GOTO London, London, October 2016
-* BUILD Stuff, Lithuania, November 2016
-
-## 2016
-
+* JavaZone, Oslo, September 2016
 * MIT-IT, Lyon, April 2016
 * CraftCon, Budapest, April 2016
 * Techorama, Brussels, May 2016

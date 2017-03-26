@@ -34,10 +34,7 @@ links:
     url: /talks/
   - title: Projects
     url: /projects/
-  - title: Videos
-    url: https://www.youtube.com/channel/UCmglzRyUElGoMA7s03lWk8Q
-    external: true
-
+ 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Madrid
 future:      true
