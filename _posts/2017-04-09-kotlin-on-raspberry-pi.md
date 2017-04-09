@@ -27,7 +27,7 @@ desk draw for months now (albeit with a custom-made Lego box)
 <br/>
 
 
-My device is the Raspberry Pi 2, running the [NOOBS](https://www.raspberrypi.org/downloads/noobs/). No other updates or software installed.
+My device is the Raspberry Pi 2, running [NOOBS](https://www.raspberrypi.org/downloads/noobs/). No other updates or software installed.
 
 
 ## Setting up the compiler
