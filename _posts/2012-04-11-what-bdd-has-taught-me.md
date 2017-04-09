@@ -22,7 +22,7 @@ and it usually is in the context of some framework. I had this happen the other 
 <h3>far from the horse's mouth</h3>
 <a href="http://dannorth.net/introducing-bdd/">Dan North coined the term BDD</a> many years ago, and I by no means aim to redefine it. As such, nothing of what I claim here necessarily coincides with Dan's definition. This post is exclusively my own opinion. My only certainty is that he at least somewhat agrees with me on this statement:
 
-<img class="alignnone size-full wp-image-2496" title="dannorth" src="{{ site.image }}/bdd-1.png" alt="" width="504" height="187" />
+<img class="alignnone size-full wp-image-2496" title="dannorth" src="/images/bdd-1.png" alt="" width="504" height="187" />
 
 Dan's paper taught me a few things and confirmed that other things I was doing were on the right track:
 <h1>It's about communication</h1>
