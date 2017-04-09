@@ -49,7 +49,7 @@ Once we've unzipped the compiler, in the *bin* folder we have access to three sc
 
 The first two are in fact just proxies to *konanc* (codename). 
 
-## Compiling to Linux
+## Compiling for Linux
 
 To compile the following code to target the platform we have the distribution for (in our case Linux)
 
