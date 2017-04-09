@@ -118,10 +118,9 @@ Once we have it on the device we can simply execute the binary
 
 ## Next Steps
 
-This is the first preview of Kotlin/Native and there is still a lot to do, but there is already quite a few things you can do with it beyond a simple
+This is the first preview of Kotlin/Native and there is still a lot to do (big kudos to the team for making the on-boarding experience smooth), but there is already quite a few things you can do with it beyond a simple
 Hello World application. Under the *samples* folder you can find numerous examples, including interop with C libraries. 
 <br/>
-
 
 Have a play and give us your feedback! 
 
