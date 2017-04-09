@@ -19,7 +19,7 @@ With this first preview release, you can now compile Kotlin to run natively on v
 
 <br/>
 I decided to give it a whirl and see what it takes to get a simple Hello World! running on the Raspberry Pi, which has been sitting in my
-desk draw for months now (albeit with a custom-made lego box)
+desk draw for months now (albeit with a custom-made Lego box)
 
 <br/>
 ![Raspberry Pi 2]({{ site.images }}/kotlin-rpi-1.jpg)
@@ -70,7 +70,7 @@ we simply run the following command from the *bin* folder
 ```
 
 <br/>
-we can optionally provide an output filename using the -o tag. Otherwise it defaults to the input filename and extension *kexe*. 
+we can optionally provide an output filename using the -o argument. Otherwise it defaults to the input filename and extension *kexe*. 
 
 
 <br/>
