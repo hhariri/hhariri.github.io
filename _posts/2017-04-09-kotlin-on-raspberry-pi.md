@@ -94,9 +94,10 @@ If we try and run this on Linux, we'll get an expected error
 <br/>
 
 
+<br/>
 ![Output on Linux Cross-Compile]({{ site.images }}/kotlin-rpi-3.png)
 <br/>
-
+<br/>
 
 Let's transfer this over (in my case using scp) to Raspberry Pi and run it there. 
 
