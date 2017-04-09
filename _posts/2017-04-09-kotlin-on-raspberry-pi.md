@@ -114,7 +114,7 @@ Once we have it on the device we can simply execute the binary
 <br/>
 
 
-(you'll notice a small message appear before the output. The team is working on i8n support which will resolve this)
+(you'll notice a small message appear before the output. The team is working on i18n support which will resolve this)
 
 ## Next Steps
 
