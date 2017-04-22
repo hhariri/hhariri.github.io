@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /courses/
-title: Courses
+title: Online Courses
 description: "Online Courses"
 tags: [conferences, talks, presentations]
 image:
@@ -9,9 +9,6 @@ image:
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
-
-
-## Online Courses
 
 I have a series of online courses available on different training platforms
 
