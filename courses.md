@@ -29,7 +29,7 @@ will need to know
 
 * [HTTP/2 Fundamentals](https://www.pluralsight.com/courses/http2-fundamentals)
 
-### Express.js Course on Pluralsight
+### ExpressJS Course on Pluralsight
 
 If you're doing Node development and interested in the ExpressJS framework, then checkout this complete course I did about express.js. Although it's several years old, most of the contents is still valid
 
