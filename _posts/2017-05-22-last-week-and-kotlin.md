@@ -22,7 +22,7 @@ and gave a short talk on Kotlin alongside [Andrey](https://twitter.com/abreslav)
 
 ## Kotlin at Spring I/O 
  
-Pivotal announced the release of Spring Framework version 5, with [full support for Kotlin](https://twitter.com/snicoll/status/865118526700498944) at their [Spring I/O conference in Barcelona](http://2017.springio.net/#venue). There's no video available yet, but you can see some of the features
+Secondly, Pivotal announced the release of Spring Framework version 5, with [full support for Kotlin](https://twitter.com/snicoll/status/865118526700498944) at their [Spring I/O conference in Barcelona](http://2017.springio.net/#venue). There's no video available yet, but you can see some of the features
 in the [early preview blog post](https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0).
 
 
