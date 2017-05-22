@@ -34,7 +34,7 @@ Thank you for your continued support!
 
 <br/>
 <br/>
-P.S.: And don't forget we have our own [KotlinConf](https://kotlinconf.com) coming up in November.
+P.S.: Don't forget we have our own [KotlinConf](https://kotlinconf.com) coming up in November.
 
 <br/>
 ***Apologies. It really was a slip**
