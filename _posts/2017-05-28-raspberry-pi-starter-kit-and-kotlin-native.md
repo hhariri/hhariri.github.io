@@ -42,7 +42,7 @@ The idea is simple: we use the Raspberry Pi to send signals to light up the LED.
 
 <br/>
 
-The anode (positive longer leg) of the LED is connected to GPIO21. The cathode (negative shorter leg) is connected to GND (ground). The GPIO21 will send a voltage to the LED lighting it up. To avoid burning out the Raspberry Pi (as the LED will try and consume more power than we want to supply), The anode (positive longer leg) of the LED is connected to GPIO21. The cathode (negative shorter leg) is connected to GND (ground). The GPIO21 will send a voltage to the LED lighting it up. To avoid burning out the Raspberry Pi (as the LED will try and consume more power than we want to supply) we need to use a resistor.  
+The anode (positive longer leg) of the LED is connected to GPIO21. The cathode (negative shorter leg) is connected to GND (ground). The GPIO21 will send a voltage to the LED lighting it up. To avoid burning out the Raspberry Pi (as the LED will try and consume more power than we want to supply) we need to use a resistor.  
 
 <br/>
 From the side, the setup looks like below
@@ -65,7 +65,7 @@ The first thing we need to do is download the pigpio library. The easiest way is
 contain a file name `pigpio.h` amongst others.
 
 <br/>
-To create the stubs, we invoke the **cinterop** tool that ships with Kotlin/Native (located in the bin folder). This tool requires a definition file, which contains information about the
+To create the stubs, we invoke the **cinterop** tool that ships with Kotlin/Native (located in the bin folder). This tool requires a definition file, in our case named `pigpio.def`, which contains information about the
 headers we want to create stubs for, along with some options. In our case, it would simply be:
 
 ```text
@@ -76,7 +76,7 @@ headers = pigpio.h
 We then invoke the tool providing
  
 * `pigpio.def` which is the definition file we just created
-* `-I``pwd``/PIGPIO` which is the folder where the header files are located
+* `-I{full path to}/PIGPIO` which is the folder where the header files are located
 * `-o pigpio.bc` the output file we want
 * `-target rapsberrypi` to target the Raspberry Pi
 
