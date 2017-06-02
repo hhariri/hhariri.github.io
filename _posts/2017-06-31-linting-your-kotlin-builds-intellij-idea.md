@@ -18,11 +18,14 @@ I'll be using [TeamCity](https://www.jetbrains.com/teamcity) and while some thin
 user experience as I'll hopefully outline in this first post which covers exactly these two tools.
 
 <br/>
-If you're not familiar with TeamCity, know that it's a build tool that was born out of our own need at JetBrains, has been around for 10 years 
-and can accomodate your build needs - be these a simple project or large setups that require scalability. In fact, you can run over 500 build agents with a single TeamCity server and then scale out. And of course, there's a [free Professional version](https://www.jetbrains.com/teamcity/buy/#license-type=new-license) available.
+
+*If you're not familiar with TeamCity, know that it's a scalable build tool that was born out of our own need at JetBrains, and there's a [free Professional version](https://www.jetbrains.com/teamcity/buy/#license-type=new-license) available.*
 
 <br/>
-In this post we'll cover
+
+## What we're going to see
+
+We'll cover
 
 * [IntelliJ IDEA Inspections](#intellij-idea-inspections)
 * [Running inspections on TeamCity](#running-inspections-on-teamcity)
@@ -30,7 +33,6 @@ In this post we'll cover
 * [Failing our build based on inspections](#failing-builds)
 * [Defining what inspections to run and when](#defining-inspections)
 * [Running server-side inspections](#running-server-side-inspections)
-* [Running Code Duplication detection](#running-code-duplication)
 * [Running inspections without TeamCity](#running-inspections-without-teamcity) 
 
 ## IntelliJ IDEA Inspections
@@ -41,7 +43,9 @@ Examples include unused variables, invalid property keys, etc.
 <br/>
 
 ![Inspections in IntelliJ IDEA]({{ site.images }}/linting-part-1-1.png)
+
 <br/>
+
 
 These same inspections can be run on the server as part of the build process and can be used to fail a build in case a certain threshold is reached. Currently IntelliJ IDEA inspections don't touch much on formatting concerns such as tabs versus spaces (is this still an issue?) or indentations. There are a couple of inspections in this area 
 and hopefully more will come soon. 
@@ -57,26 +61,26 @@ To run inspections on TeamCity, we simply [add a `Inspections (IntelliJ IDEA)` b
 <br/>
 
 
-All we need to provide is the name of the build step and the type of project. In the case of it being Maven or Gradle, the path to the build file. As soon as we enable this, we can get the same inspections we have in the IDE, running on the server. 
+We need to provide the name of the build step and the type of project. In the case of it being Maven or Gradle, we also indicate the path to the build file. As soon as we enable this, we can get the same inspections we have in the IDE, running on the server. 
  
 ## Examining inspections
 
-Once we have inspections configured and our build has run, we can click the new `Code Inspections` tab we can see the different issues raised, drilling down into each category
+Once we have inspections configured and our build has run, we can click the new `Code Inspections` tab and see the different issues raised, drilling down into each category
 
 <br/>
 
 ![Code Inspections]( {{ site.images }}/linting-part-1-4.png)
 <br/>
 
-Seeing inspections in TeamCity is nice, but sometimes we want to see this in the context of the project in our IDE. And this is possible - next to each inspection there's a line number which if we click on will open the inspection for us in the project in our IDE. However, we do need to have a TeamCity plugin installed in the IDE. 
-If we click on the line without having that, TeamCity will provide us with the links to install this. 
+Seeing inspections in TeamCity is nice, but sometimes we want to see this in the context of the project in our IDE. And this is possible - next to each inspection there's a line number which if we click on will open the inspection for us in the project in our IDE. However, we do need to have a TeamCity plugin installed in the IDE.  
 
 <br/>
 
 ![IDE Plugins]({{ site.images }}/linting-part-1-5.png)
+
 <br/>
 
-With the plugin installed and set up correctly (i.e. configure the login to the right TeamCity server) and the project open, clicking on the inspection in TeamCity will take us directly to the issue in our project
+With the plugin installed, set up correctly (i.e. configure the login to the right TeamCity server) and the project open, clicking on the inspection in TeamCity will take us directly to the issue in our project
 
 <br/>
 
@@ -86,7 +90,7 @@ With the plugin installed and set up correctly (i.e. configure the login to the 
 
 ## Failing Builds
 
-Running and examining inspections on the server is great, but what happens if we want to react to this, like for instance failing the build. TeamCity allows us to do just this. Under 
+We now have inspections running on the server, but what happens if we want to react to this, like for instance failing the build. TeamCity allows us to do just this. Under 
 `Failure Conditions` in the build configuration, we can add a new condition based on the results of the inspections
 
 <br/>
@@ -94,8 +98,10 @@ Running and examining inspections on the server is great, but what happens if we
 ![Failure Condition]({{ site.images }}/linting-part-1-7.png)
 
 <br/>
-The condition can reference a constant value, for instance when we have more than 10 warning, fail the build. But a more useful case is 
-to have a condition based on previous builds. For instance, imagine we start a new project that potentially has 100 inspections, it's not viable to have this build fail due to this. What we want to do is incrementally improve it. For this
+The condition can reference a constant value, for instance when we have more than 10 warnings, fail the build. But a more useful case is 
+to have a condition based on previous builds. 
+<br/>
+For example, imagine we start a new project that potentially has 100 inspections, it's not viable to have this build fail due to this. What we want to do is incrementally improve it. For this
 we can create a failure condition that compares each new build with results of the last successful build and if it surpasses a certain threshold, it fails.
 
 <br/>
@@ -113,12 +119,13 @@ In IntelliJ IDEA we can do this using the Profile option under Inspections
 <br/>
 
 ![Profile]( {{ site.images }}/linting-part-1-2.png)
-<br/>
 
+<br/>
 Once we have the profile we then need to instruct TeamCity to run this specific one. That's done on the Inspections configuration page
 
 <br/>
-![TeamCity Profile]( {{ site.images/linting-part-1-9.png)
+
+![TeamCity Profile]( {{ site.images }}/linting-part-1-9.png)
 
 <br/>
 When we specify the profile name, it will then only run those specific inspections. By default, the inspection configuration is located under the `.idea/inspectionProfiles` 
@@ -148,37 +155,14 @@ get the results of a server-side inspection directly in the IDE. For this we can
 <br/>
 
 ![Run Remote]({{ site.images }}/linting-part-1-11.png)
-<br/>
 
+<br/>
 and choose the corresponding Build Configuration. TeamCity will then fetch the results and display to us the issues directly in the IDE.
-
-
-
-## Running Code Duplication detection
-
-While not directly related to inspections, another feature that most definitely can help detect potential issues with our codebase is that that of `Code Duplication Detection` that comes with TeamCity. 
-Much like the Inspection, it's a runner that can be configured and it scans the code to find potential duplicate code
-
-<br/>
-
-![Code Duplication Configuration]( {{ site.images }}/linting-part-1-13.png)
-
-<br/>
-
-displaying the results to use in TeamCity
-
-<br/>
-
-![Code Duplication Results]({{ site.images}}/linting-part-1-12.png)
-
-<br/>
-Similar to Inspections we can also have the build fail based on the results output. 
-
 
 ## Running inspections without TeamCity
 
 As you've hopefully seen, TeamCity provides good integration with IntelliJ IDEA and a pleasant experience, allowing the two tools to exchange information and make this accessible in an easy way. 
-If you're not using TeamCity though, you can still [run IntelliJ IDEA inspections using a command line tool](https://www.jetbrains.com/help/idea/2017.1/using-command-line-tools.html). You would need to however configure your server to invoke this and then parse the results somehow. Note that if using IntelliJ IDEA Ultimate, you'd need the corresponding license. 
+If you're not using TeamCity though, you can still [run IntelliJ IDEA inspections using a command line tool](https://www.jetbrains.com/help/idea/2017.1/using-command-line-tools.html). You would need to however configure your server to invoke this and then parse the results somehow. Note that if using IntelliJ IDEA Ultimate (i.e. not Community or Android Studio), you'd need the corresponding license. 
 
 <br/>
 In another post we'll see how to use a different linting tool with TeamCity. 
