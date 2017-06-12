@@ -88,7 +88,7 @@ it's then built, verified and published by TeamCity, so neither you nor I have t
 
 <br/>
 
-Apart from the contents, all ideas on improving *mark-code* or the process itself are of course also welcome! 
+For more details on contributing, check out the [Collaborating section](https://kotlin.github.io/kotlinbyexample/#_contributing) on the site. Apart from the contents, all ideas on improving *mark-code* or the process itself are of course also welcome! 
 
 
 
