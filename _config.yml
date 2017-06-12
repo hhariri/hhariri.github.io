@@ -4,7 +4,7 @@ description:      Writings
 baseurl:
 disqus_shortname: hadihariri
 
-images:           http://hadihariri.com/images
+images:           /images
 # Owner/author information
 owner:
   name:           Hadi Hariri
