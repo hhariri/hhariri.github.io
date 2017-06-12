@@ -16,9 +16,8 @@ Over the weekend, I've thrown together a new site, [Kotlin by Example](https://k
 
 <br/>
 While currently there are only a few samples (and I'm planning on adding more), most of the effort has gone into setting up an infrastrucutre that makes it easy
-for people to contribute. When I ran the idea of setting up the site by some community members, a few them wanted to actually contribute with content. 
-
-For collaboration to work smoothly though, I needed a system that makes it easy for people to contribute, and for me to administer. 
+for collaboration. When I ran the idea of setting up the site by some community members, a few them wanted to actually contribute with content, so my main goal was to make this as 
+ simple as possible. 
 
 ## Compiling Documentation
 
@@ -37,8 +36,12 @@ fun main(args: Array<String>) {
 
 ### Meet mark-code
 
-*mark-code* is a project I recently [pushed to GitHub](https://github.com/hhariri/mark-code). It was originally written by [Dmitry](https://twitter.com/intelliyole) for the [Kotlin in Action] book. 
- The idea behind it is quite simple - make sure that the source code used in the book compiles correctly, and optionally verify the output produced. 
+Say hello to *mark-code*
+
+<br/>
+
+*mark-code* is a project I recently [pushed to GitHub](https://github.com/hhariri/mark-code). It was originally written by [Dmitry](https://twitter.com/intelliyole) for the [Kotlin in Action](https://www.manning.com/books/kotlin-in-action) book. 
+ The idea behind it is quite simple - make sure that the source code used in the book compiled correctly, optionally verifying the output produced. 
  
 <br/>
 The tool currently works with [AsciiDoc](http://asciidoctor.org) which is a great markup language for writing technical documentation, but adding Markdown support is on the list. The way it works 
@@ -62,7 +65,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-and we could optionally run and verify the output
+It also allows us to optionally run and verify any output
 
 ```asciidoc
 [source,kotlin]
@@ -85,7 +88,7 @@ it's then built, verified and published by TeamCity, so neither you nor I have t
 
 <br/>
 
-Outside of contents, all ideas on improving *mark-code* or the process itself are of course also welcome! 
+Apart from the contents, all ideas on improving *mark-code* or the process itself are of course also welcome! 
 
 
 
