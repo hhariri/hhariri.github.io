@@ -80,7 +80,7 @@ fun sum(x: Int, y: Int) = x + y <1>
 ## Contributing 
 
 If you'd like to collaborate (awesome!), all you'd need to do is write examples as single AsciiDoc files and submit a Pull Request. Once the contents is reviewed,
-it's then built, verified and published by TeamCity, so neither you nor I have to do any manual checks! 
+it's then [built, verified and published by TeamCity](https://teamcity.jetbrains.com/project.html?projectId=Kotlinbyexample), so neither you nor I have to do any manual checks! 
 
 <br/>
 
