@@ -49,11 +49,11 @@ The practice of being the product is all too common. Every day we're selling our
  We're paying one way or another for the things we're using. And when it's with our data, we're putting all our trust in that they not only don't misuse it, even if that means bombarding us with unwanted ads, but that they keep it safe and secure.
  
 <br/>
-Of course, we pay with our privacy, and companies hope that with all this data they can be profitable. Unfortunately this [doesn't seem to always be the case](http://www.businessinsider.com/startups-that-raised-148-billion-have-shut-down-or-may-soon-2017-7/?r=AU&IR=T/#beepi2013-february-2017-1).
+We pay with our privacy, while companies hope that with all this data they can be profitable. Unfortunately this [doesn't seem to always be the case](http://www.businessinsider.com/startups-that-raised-148-billion-have-shut-down-or-may-soon-2017-7/?r=AU&IR=T/#beepi2013-february-2017-1). 
 
 <br/>
-And while we, as software developers should [have a role in protecting](http://hadihariri.com/2016/11/17/our-role-in-privacy/) not only our own privacy but that of others, this isn't just about privacy, but about creating 
-a business model that is sustainable in the long run and provides a better service for all. 
+Now, while we as software developers should [have a role in protecting](http://hadihariri.com/2016/11/17/our-role-in-privacy/) not only our own privacy but that of others, this isn't just about privacy, but about creating 
+a business model that is sustainable in the long run. A model that provides a better service for all involved. 
  
 
 <br/>
