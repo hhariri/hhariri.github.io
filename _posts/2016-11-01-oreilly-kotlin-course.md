@@ -9,8 +9,8 @@ comments: true
 
 I'm happy to say that my O'Reilly course has been published and is available either directly or via Safari Online. The course is divided into two parts
 
-* [Introduction to Kotlin ~ 5 Hours](http://shop.oreilly.com/product/0636920052982.do)
-* [Advanced Kotlin ~ 3 Hours](http://shop.oreilly.com/product/0636920052999.do)
+* [Introduction to Kotlin ~ 5 Hours](https://ssearch.oreilly.com/?q=Kotlin+Hadi&x=0&y=0)
+* [Advanced Kotlin ~ 3 Hours](https://ssearch.oreilly.com/?q=Kotlin+Hadi&x=0&y=0)
 
 The material is available on [GitHub](https://github.com/hhariri/oreilly-kotlin-course).
 
