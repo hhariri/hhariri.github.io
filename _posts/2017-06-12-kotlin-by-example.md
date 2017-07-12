@@ -7,7 +7,7 @@ published: true
 comments: true
 ---
 
-Over the weekend, I've thrown together a new site, [Kotlin by Example](https://kotlin.github.io/kotlinbyexample), which is dedicated to teaching Kotlin using short
+Over the weekend, I've thrown together a new site, [Kotlin by Example](http://kotlinbyexample.org), which is dedicated to teaching Kotlin using short
  annotated examples. The idea came from [Go By Example](https://gobyexample.com) which I'd used somewhat in the past. 
 
 <br/>
