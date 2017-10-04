@@ -48,7 +48,7 @@ fun parseDate(value: String?, format: String): Date? {
             null
         }
     } else {
-        DateTimeParse.Success(DateTime.now())
+        DateTime.now()
     }
 }
 ```
