@@ -216,7 +216,7 @@ suspend fun ApplicationCall.respondSessionRequest(f: (DateTime) -> List<Session>
 }
 ```
 
-*(Note: *suspend is necessary since we're inside coroutines)*
+*(Note: suspend is necessary since we're inside coroutines)*
 
 <br/>
 In summary, we've introduced a few new types, added some more code, but in turn we've removed all duplication and as a consequence, any changes or updates will only be done once. 
