@@ -45,7 +45,7 @@ fun parseDate(value: String?, format: String): Date? {
         return try {
             DateTime.parse(value, DateTimeFormat.forPattern(format))
         } catch (e: Exception) {
-            return null
+            null
         }
     } else {
         DateTimeParse.Success(DateTime.now())
