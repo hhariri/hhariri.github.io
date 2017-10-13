@@ -18,5 +18,5 @@ At times when we feel things are falling apart is when we need to show the most 
 Forgetting this, we end up in a bad place. 
 
 <br/>
-Often we're fortunate to have those around us to bring us back to our space.
+Often we're fortunate to have those around us bring us back to our space.
  
