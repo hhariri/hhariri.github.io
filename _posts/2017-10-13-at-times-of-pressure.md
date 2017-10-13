@@ -7,11 +7,11 @@ published: true
 comments: true
 ---
 
-At times of pressure is when we need to show patience.<br/>
+At times of pressure, is when we need to show patience.<br/>
 
-At times of stress is when we need to show empathy.<br/>
+At times of stress, is when we need to show empathy.<br/>
 
-At times when we feel things are falling apart is when we need to show the most strength.<br/>
+At times when we feel things are falling apart, is when we need to show the most strength.<br/>
 
 
 <br/>
