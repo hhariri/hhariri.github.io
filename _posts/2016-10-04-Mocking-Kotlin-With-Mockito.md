@@ -84,4 +84,5 @@ Finally, a big kudos to [Rafael](https://twitter.com/rafaelcodes) for his work i
 [1] This feature is still new and plans are to make it easier to configure as they receive feedback on its usage.
 
 <br/>
-Update (06-11-2017): Author of [Mockio](https://github.com/oleksiyp/mockk) reached out to tell me about the ability to easily Mock Kotlin using this framework (built for Kotlin). I've not tried it myself but looks pretty decent. 
+<img align="right" alt="MockK" src="{{ site.images }}/mockk-1.png" width="50" height="50"/>
+Update (06-11-2017): Author of [MockK](https://github.com/oleksiyp/mockk) reached out to tell me about the ability to easily Mock Kotlin using this framework (built for Kotlin). I've not tried it myself but looks pretty decent. 
