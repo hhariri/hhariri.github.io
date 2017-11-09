@@ -22,7 +22,7 @@ will help me fix issues I have - it will provide me **value**.
 And **value** is the keyword here. 
 
 <br/>
-Start with a problem. Explain to me why the current way I'm solving it isn't ideal
+Start with a problem. Explain to me why the current way I'm solving it isn't ideal.
 Tell me how to solve it in a better way. Once you've done so, then you can call that thing a monad, higher kinded types or even typeclasses.
 
 <br/>
