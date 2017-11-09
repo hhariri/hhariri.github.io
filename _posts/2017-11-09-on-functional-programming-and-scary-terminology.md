@@ -23,7 +23,7 @@ And **value** is the keyword here.
 
 <br/>
 Start with a problem. Explain to me why the current way I'm solving it isn't ideal.
-Tell me how to solve it in a better way. Once you've done so, then you can call that thing a monad, higher kinded types or even typeclasses.
+Tell me how to solve it in a better way. Once you've done so, then you can call that thing a monad, higher kinded types, typeclasses or whatever.  
 
 <br/>
 People aren't scared of terminology. They don't care if you call something a Monad or a Burrito (just look at the JavaScript ecosystem). What they care about is how it helps them.
