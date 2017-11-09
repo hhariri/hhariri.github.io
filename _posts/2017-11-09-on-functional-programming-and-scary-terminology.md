@@ -16,7 +16,7 @@ Now, personally I'm not a fan of explaining monads with burritos, tacos, lasagna
 
 When you're trying to explain something to me, it is much easier for me to follow you and understand you, if you tell me what problem you're trying to solve. 
 And if I can identify myself with that problem, then I'm even more eager to pay attention. Because you're telling me that what you're about to explain
-will help me fix issues I have - it will provide me **value**. 
+will help me fix issues I have - it will provide me value. 
 
 <br/>
 And **value** is the keyword here. 
