@@ -19,6 +19,12 @@ blog post I'll walk you through the different parts.
 
 The project consists of three modules:
 
+* **common** module for shared code
+* **js** module targeting JavaScript
+* **jvm** module targeting the JVM
+
+
+
 ### common module
 
 This module contains all common shared code, and should be limited to Kotlin. 
