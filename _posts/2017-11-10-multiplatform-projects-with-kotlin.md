@@ -7,7 +7,7 @@ published: true
 comments: true
 ---
 
-Kotlin 1.2 brings with it experimental support for [multi-platform projects](https://kotlinlang.org/docs/reference/multiplatform.html) and last week at [KotlinConf](https://kotlinconf.com) we showed how you can now
+[Kotlin 1.2](https://blog.jetbrains.com/kotlin/2017/11/kotlinconf-keynote-recap/) brings with it experimental support for [multi-platform projects](https://kotlinlang.org/docs/reference/multiplatform.html) and last week at [KotlinConf](https://kotlinconf.com) we showed how you can now
 use Kotlin to target the Jvm, the Web, Android and iOS. The [source code](https://github.com/JetBrains/kotlinconf-app) for the actual KotlinConf is availabe on GitHub, and while it's a great example
 of multi-platform project, it's got a lot of moving pieces and opening it for the first time can be overwhelming. 
 
