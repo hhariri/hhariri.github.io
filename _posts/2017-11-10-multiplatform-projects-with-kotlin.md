@@ -25,7 +25,7 @@ The project consists of three modules:
 
 
 
-### common module
+### Common module
 
 This module contains all common shared code, and should be limited to Kotlin. 
 
