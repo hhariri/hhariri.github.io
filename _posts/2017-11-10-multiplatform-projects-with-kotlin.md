@@ -86,11 +86,11 @@ As soon as we do this, IntelliJ IDEA will display an error, along with an Intent
 
 
 <br/>
-We need to 
+We need to now implement these in their corresponding modules. That's where platform specific modules come in. 
 
 ### Platform specific modules
 
-In addition to the common module, we also have platform specific modules. In our case, since we're targeting Jvm and JavaScript, we have two. In each of these we'll have 
+Since we're targeting Jvm and JavaScript, we have two platform specific modules. In each of these we'll have 
 Kotlin code that can talk and interop with platform libraries and languages. In addition we'll have the **actual** implementations of our **expect** declarations declared in the common module.
 
 <br/>
