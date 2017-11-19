@@ -148,7 +148,7 @@ Each entry is separated by a colon.
 ## Build Tools
 
 In .NET there are many build tools including MS Build, NAnt, Albacore, Fake, etc. The JVM doesn't lag far behind. Although some languages have their own build tools such as
-such as Leiningen for Clojure or SBT for Scala, most languages (including the previous) can use more standard build tools.
+Leiningen for Clojure or SBT for Scala, most languages (including the previous) can use more standard build tools.
 
 
 ### Ant
