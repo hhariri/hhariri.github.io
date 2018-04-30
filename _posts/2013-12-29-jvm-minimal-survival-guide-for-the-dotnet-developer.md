@@ -7,7 +7,7 @@ published: true
 comments: true
 ---
 
-**Last updated:** 19th January, 2015
+**Last updated:** 07th January, 2018
 
 * Test
 {:toc}
@@ -76,7 +76,7 @@ Find out more about the [history](http://www.oracle.com/technetwork/java/javase/
 
 #### Versions
 
-The currently released version of Java is 8.
+The currently released version of Java is 9.
 
 To find out what version of Java you have installed, type
 
@@ -90,7 +90,7 @@ You'll get something like this:
 
 That's Java 8. Why? Well easy, drop the 1 from 1.8.0 and you get 8.0. The 0_b-132 indicates the update pack. For Java 8 see all [releases](http://www.java.com/en/download/faq/release_dates.xml)
 
-Basically 1.5 means Java 5. 1.6 is Java 6. 1.7 is Java 7 and yes, you guessed it, Java 8 is 1.8.
+Basically 1.5 means Java 5. 1.6 is Java 6. 1.7 is Java 7, Java 8 is 1.8, and yes, you guessed it, Java 9 is 1.9.
 
 Yes. I know.
 
@@ -445,5 +445,6 @@ Tracks changes made to this guide.
 | 06th Jan 2014 | Updated title and fixed added link to IntelliJ IDEA guide |
 | 09th Jan 2014 | Added Section on Class Loading |
 | 19th Jan 2015 | Updated Java versions |
+| 07th Jan 2018 | Updated Java versions |
 
 
