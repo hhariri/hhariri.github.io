@@ -37,13 +37,6 @@ to diversity in terms of gender, race, sexual orientation and other aspects, do 
 When we have two people that on technical merit are 100% equal (which again, is usually not the case), and one of them is from an under-represented group, then it not only provides this person an opportunity which 
 in itself can enrich their lives, but it also enriches other people's lives in hearing about their knowledge in then context of their experiences. 
 
-<br/>
-As I said recently, as developers and professionals in IT, we have a role in shaping the future. Let's make sure that this future is inclusive of everyone and give people a platform to express this. 
-
-<br/>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you agree that developers and IT in general have a strong role in shaping the future, and you also agree that a person of a specific gender, ethnicity, race or disability has a different experience of the world, then you&#39;ll see why not having a diversity in IT is a problem.</p>&mdash; Hadi Hariri (@hhariri) <a href="https://twitter.com/hhariri/status/979590936517849088?ref_src=twsrc%5Etfw">March 30, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 ## The repeat speaker
 
@@ -54,6 +47,14 @@ tends to lead to a "boy's club", which is especially even more present in some c
 <br/>
 I know that I myself am part of the problem and that is why for the past several years I have tried to avoid going to the same conferences year after year. And this is something that those of us that speak frequently at conferences should keep in mind. Every time
 we speak at a conference, we're taking the place from someone else. At to be clear, I'm not saying that we should stop speaking, but I find alternating is one way to try and work towards improving the situation.
+
+
+<br/>
+As I said recently, as developers and professionals in IT, we have a role in shaping the future. Let's make sure that this future is inclusive of everyone and give people a platform to express this. 
+
+<br/>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you agree that developers and IT in general have a strong role in shaping the future, and you also agree that a person of a specific gender, ethnicity, race or disability has a different experience of the world, then you&#39;ll see why not having a diversity in IT is a problem.</p>&mdash; Hadi Hariri (@hhariri) <a href="https://twitter.com/hhariri/status/979590936517849088?ref_src=twsrc%5Etfw">March 30, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
   
   
