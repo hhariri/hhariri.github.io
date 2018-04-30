@@ -15,7 +15,7 @@ could generally be summed up in the following statement
 
 <br/>
 Makes sense right? If two people have the *exact* same knowledge, and assuming the first one has submitted a talk, why should we go out of our way to try and find another person of a different gender 
-to cover the topic or potentially discriminate against the first one in favour of the second? Many would consider that [to fall under positive discrimination(https://twitter.com/mariofusco/status/990235488337395712) (see poll results).
+to cover the topic or potentially discriminate against the first one in favour of the second? Many would consider that [to fall under positive discrimination](https://twitter.com/mariofusco/status/990235488337395712) (see poll results).
 
 ## The speaker's experience
 
