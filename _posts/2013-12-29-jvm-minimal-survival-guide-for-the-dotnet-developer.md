@@ -76,7 +76,7 @@ Find out more about the [history](http://www.oracle.com/technetwork/java/javase/
 
 #### Versions
 
-The currently released version of Java is 9.
+The currently released version of Java is 10 (released 2018-03-20). Java 11 is expected in September 2018.
 
 To find out what version of Java you have installed, type
 
@@ -92,8 +92,13 @@ That's Java 8. Why? Well easy, drop the 1 from 1.8.0 and you get 8.0. The 0_b-13
 
 Basically 1.5 means Java 5. 1.6 is Java 6. 1.7 is Java 7, Java 8 is 1.8, and yes, you guessed it, Java 9 is 1.9.
 
-Yes. I know.
+Yes. I know. And apparently, the Java people also figured out that this versioning scheme was a bit unfounded so in
+Java 10 it looks like this:
 
+    $ java -version
+    java version "10.0.1" 2018-04-17
+    Java(TM) SE Runtime Environment 18.3 (build 10.0.1+10)
+    Java HotSpot(TM) 64-Bit Server VM 18.3 (build 10.0.1+10, mixed mode)
 
 ## Installing Java
 
