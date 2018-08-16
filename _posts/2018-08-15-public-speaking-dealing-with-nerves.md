@@ -19,7 +19,7 @@ the only way you'll get better at it, is by practicing. Albeit if it's any conso
 We all get nervous when giving talks. It's normal. In fact some, including myself, would say it's a sign of caring about what you're doing. The objective is to try and handle
 the nerves and bring them under control. 
 
-<br/>The following a series of pointers that may help you.
+<br/>The following series of pointers that may help you.
 
 ### Don't tell people you're nervous
 
@@ -79,7 +79,7 @@ telling a story, that while amusing had nothing to do with the actual topic.
 <br/>Anecdotes are also good and much easier than stories. For instance you're traveling to a location to give a talk, share an anecdote of your travel or a local encounter. But please, avoid cliches. 
 
 ## Nerves or excitement? 
-
+ 
 Recently I tweeted about being nervous when giving talks, which has now led to these series of blog posts. 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;ve been giving talks for around 2 decades now. Still before every single talk I get nervous and it takes me a few minutes to settle in. It&#39;s OK to be nervous. It shouldn&#39;t stop you from giving talks if you enjoy doing it.</p>&mdash; Hadi Hariri (@hhariri) <a href="https://twitter.com/hhariri/status/1028984915214389248?ref_src=twsrc%5Etfw">August 13, 2018</a></blockquote>
@@ -89,7 +89,7 @@ One of the replies pointed [to a talk by Simon Sinek](https://www.youtube.com/wa
 
 <br/>However you think of nerves, just know that you're not alone. We all suffer from being nervous, and it's a good thing. 
 
-
+<br/>
 Until next time. 
  
 
