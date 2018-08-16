@@ -49,7 +49,7 @@ positive emotions. It will display a sense of confidence.
 Often times when I used to give talks, I'd stand by the door and watch people walk into the room. I'd greet them, say hello, get a smile from them. 
 I would also walk up to people in the front row before the talk and chat with them. This allowed me to "get to know" a few people, which in turn would convert a room full of strangers, into a room with one or two friendly faces which I could then use as acknowledgement during my talk. I no longer felt alone. I felt like I knew a few people. 
 
-<br/>Not feeling like a stranger can very much help cope with your nerves. And in general feeding of the audience is an extremely valuable tool for having a successful talk, but we'll cover
+<br/>Not feeling like a stranger can very much help cope with your nerves. In general feeding off of the audience is an extremely valuable tool for having a successful talk, but we'll cover
 that in another post. 
  
 ### Tell a joke
