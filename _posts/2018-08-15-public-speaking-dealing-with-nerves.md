@@ -66,7 +66,7 @@ Asking questions can also be a good way to engage with the audience and disrupt 
 
 <br/>Similar to jokes however, questions can backfire in several ways
 
-1. The audience doesn't answer questions. Yes. Believe it or not, different cultures respond differently. Even to simple yes or no questions, many times audiences remain silent. Personally I just push them to get an answer and usually it works. Sometimes it does fail though and when it does, I just move on. 
+1. The audience doesn't answer questions. Yes. Believe it or not, different cultures respond differently. Even to simple yes or no questions, many times audiences remain silent. Personally I just push them to get an answer and usually it works. Sometimes it does fail though and when it does, I usually make a joke out of it. But then that takes you back to telling jokes... 
 
 2. The answer isn't what you expected and can make you more nervous. For instance, you're giving a talk on "Intro to XYZ", and based on a series of questions you realise the majority of the audience are experts on the topic. What do you do? Do you adjust your talk? Do you stick to the original plan? Are you going to bore people if so? 
 These are all important questions that we'll answer in another post, but the point in this case is that it can make you more nervous by challenging your plans. 
