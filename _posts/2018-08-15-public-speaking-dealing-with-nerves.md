@@ -7,7 +7,6 @@ published: true
 comments: true
 ---
 
-### Disclaimer
 I do not consider myself an expert on the topic of 
 public speaking. However, over the years I've picked up a few tips and tricks that have helped me, and by sharing them 
 in a series of blog posts on public speaking, I hope they'll help you. 
