@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Public Speaking: Dealing with nerves
+title: Public Speaking - Dealing with nerves
 status: published
 type: post
 published: true
