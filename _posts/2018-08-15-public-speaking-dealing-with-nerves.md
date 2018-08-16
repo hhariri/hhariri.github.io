@@ -23,7 +23,7 @@ the nerves and bring them under control.
 
 ### Don't tell people you're nervous
 
-People can already tell if you're nervous. Unless you can hide your nerves very well (which also probably means this blog post is useless to you), people can tell you're nervous. They can tell by your appearance, they can tell by your voice. 
+People can already tell if you're nervous. Unless you can hide your nerves very well (which also probably means this blog post is useless to you), people can see it. They can tell by your appearance, they can tell by your voice. 
 
 <br/>Telling people you're nervous generally doesn't help you be less nervous. About the only reason you'd do it is to find compassion. And you may get some, but you'd probably get it anyway without explicitly asking for it. 
 
