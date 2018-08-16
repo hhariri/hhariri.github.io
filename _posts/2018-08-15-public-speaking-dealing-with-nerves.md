@@ -71,7 +71,7 @@ Asking questions can also be a good way to engage with the audience and disrupt 
 2. The answer isn't what you expected and can make you more nervous. For instance, you're giving a talk on "Intro to XYZ", and based on a series of questions you realise the majority of the audience are experts on the topic. What do you do? Do you adjust your talk? Do you stick to the original plan? Are you going to bore people if so? 
 These are all important questions that we'll answer in another post, but the point in this case is that it can make you more nervous by challenging your plans. 
 
-### Tell a story or start with an anecdote
+### Share a story or start with an anecdote
 
 Stories are great, especially ones the audience can relate to, or are somehow related to the topic you're speaking on. Don't make them too long though. I've been at talks where the speaker has spent a good 10% of the talk
 telling a story, that while amusing had nothing to do with the actual topic. 
