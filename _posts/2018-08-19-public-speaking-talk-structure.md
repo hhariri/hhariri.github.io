@@ -58,7 +58,7 @@ The contents of the talk is the core part. It's essentially why everyone is at t
 
 When giving a talk, especially a technical one, sometimes we try and cram too much in. I'm very much guilty of this myself. It's important to remember that people's attention span isn't that big. And in a world where any text longer than a tweet is considered a novel to read on vacation, cramming too much contents into a talk can leave the audience lost and overwhelmed.
 
-<br/>It's important to keep the talk focused. I know you want to share as much of your knowledge as you can, and I know you're excited, but cramming too much into an hour or 45 minutes won't help anymore (apart from your own ego). One of my all-time favourite speakers, 
+<br/>It's important to keep the talk focused. I know you want to share as much of your knowledge as you can, and I know you're excited, but cramming too much into an hour or 45 minutes won't help anyone, apart from your own ego. One of my all-time favourite speakers, 
 [Venkat Subramaniam](https://twitter.com/venkat_s) does a very good job of keeping his talks focused. 
 
 
