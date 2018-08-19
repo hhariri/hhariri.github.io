@@ -35,7 +35,7 @@ I personally dislike agenda slides. I think they're boring and useless. People o
 
 ### About me 
 
-If there's something I dislike more than an agenda slide, it's an "About Me". If you want my opinion (and given you're reading this blog I assume you do), drop it. Completely get rid of any slides that is about you. Time and time again I witness talks where the speaker spends a good couple of minutes talking about themselves, their cats, dogs, kids, what they've done or haven't done with their life. And all of this is usually following a disclaimer of "I don't normally talk about myself"....but here's 20 minutes into my life that you don't care about.
+If there's something I dislike more than an agenda slide, it's an "About Me". If you want my opinion (and given you're reading this blog I assume you do), drop it. Completely get rid of any slides that are about you. Time and time again I witness talks where the speaker spends a good couple of minutes talking about themselves, their cats, dogs, kids, what they've done or haven't done with their life. And all of this is usually following a disclaimer of "I don't normally talk about myself"....but here's 20 minutes into my life that you don't care about.
 
 <br/>
 "But but but I have to establish credentials"...you may say.
@@ -59,7 +59,7 @@ The contents of the talk is the core part. It's essentially why everyone is at t
 When giving a talk, especially a technical one, sometimes we try and cram too much in. I'm very much guilty of this myself. It's important to remember that people's attention span isn't that big. And in a world where any text longer than a tweet is considered a novel to read on vacation, cramming too much contents into a talk can leave the audience lost and overwhelmed.
 
 <br/>It's important to keep the talk focused. I know you want to share as much of your knowledge as you can, and I know you're excited, but cramming too much into an hour or 45 minutes won't help anymore (apart from your own ego). One of my all-time favourite speakers, 
-[Venkat Subramaniam](https://twitter.com/venkat_s) does a very good job of keeping his talked focused. 
+[Venkat Subramaniam](https://twitter.com/venkat_s) does a very good job of keeping his talks focused. 
 
 
 <br/>Much like keeping focus, it's also important for your talk to be coherent, and this is much harder when giving non-technical talks. I've struggled with this quite a bit with some of my non-technical talks, or as some call them, [rants](https://vimeo.com/181766947). Much like trying to keep the focus, you need to keep the talk coherent. If you're talking about all sorts of things and there is no connection between them, it's very easy to lose the audience and have the talk fail. One way to avoid this is to have a central theme to keep coming back to and making sure that everything you say always fits this narrative, can always be driven home to the main theme.  
