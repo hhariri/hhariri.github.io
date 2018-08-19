@@ -7,6 +7,11 @@ published: true
 comments: true
 ---
 
+This is part 1 of a multi-post series on public speaking
+
+[Dealing with nerves](/2018/08/15/public-speaking-dealing-with-nerves)
+[Talk Structure](/2018/08/19/public-speaking-talk-structure)
+
 I do not consider myself an expert on the topic of 
 public speaking. However, over the years I've picked up a few tips and tricks that have helped me, and by sharing them 
 in a series of blog posts on public speaking, I hope they'll help you. 
