@@ -82,9 +82,13 @@ You'd think the summary slide is the easiest wouldn't you? For many years I used
 
 <br/>Summary slides are not easy to do but are also warning signs that maybe your talk isn't well-structured, focused or coherent. Think of it as a safety-check. If your summary slide has too many bullet points, maybe you're covering too much. If you're struggling coming up with a summary, maybe your entire talk needs work. 
 
-<br/>In addition to serving as a final check, a summary is also extremely important to drive home the point(s) you're making, to remind people of your message or things you've covered. It's a perfect ending to a talk, an opportunity to leave people inspired. And if it's none of that, think of it as a way to not catch yourself by surprise, that your talk has ended! 
+<br/>In addition to serving as a final check, a summary is also extremely important to drive home the point(s) you're making, to remind people of your message or things you've covered. It's a perfect ending to a talk, an opportunity to leave people inspired. 
 
 
+<br/>And if it's none of that, think of it as a way for yourself to not be surprised that your talk has ended! 
+
+
+<br/>
 Until next time. 
 
 
