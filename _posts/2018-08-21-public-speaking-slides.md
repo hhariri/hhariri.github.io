@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Public Speaking - Talk Structure
+title: Public Speaking - Slides
 status: published
 type: post
 published: true
