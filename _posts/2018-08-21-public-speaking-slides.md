@@ -55,7 +55,7 @@ The second point is important - please avoid dumping all your bullet points on t
 <br/>
 
 
-### Slides Animation
+### Slide Animation
 
 Keep it to the absolute bare minimum. I usually avoid slide transitions, and in terms of animations, I only use "Disolve" or "Appear". Please do not go overboard with animations. It's annoying as hell. If you want that, you might as well use something like Prezi (which is not my cup of tea and makes me really dizzy as a spectator). 
 
@@ -84,11 +84,11 @@ If you're putting code on slides, make sure you don't cram everything into a sin
 
 Really up to you what slide template you want to use, but a few things I generally stay away from
 
-* Using Conference Templates. That's a big no-no. I usually give the same talk more than once. Having to adapt it each time to a different template is time-consuming and really not justified. At most, I'd place a Title slide in front of the talk.
-* Company Branding. Title slide, logo and/or name. Ending slide logo and/or name. That's it. Please don't place your company name on each slide. It's really cheap. 
-* Your name. First slide and/or last slide with your contact details. That's it. And remember - no "About me" Slide.
-* Slide Numbers. No. Just no!
-* Everything else. Anything else on the template that distracts from the actual content, generally avoid.
+* **Using Conference Templates**. That's a big no-no. I usually give the same talk more than once. Having to adapt it each time to a different template is time-consuming and really not justified. At most, I'd place a Title slide in front of the talk.
+* **Company Branding**. Title slide, logo and/or name. Ending slide logo and/or name. That's it. Please don't place your company name on each slide. It's really cheap. 
+* **Your name**. First slide and/or last slide with your contact details. That's it. And remember - no "About me" Slide.
+* **Slide Numbers**. No. Just no!
+* **Everything else**. Anything else on the template that distracts from the actual content, generally avoid.
 
 
 ### Presenter Notes
