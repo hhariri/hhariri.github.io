@@ -70,12 +70,12 @@ Keep it to the absolute bare minimum. I usually avoid slide transitions, and in 
 
 <br/>When using images, a few useful resources and tools:
 
-* **[Creative Commons Search](search.creativecommons.org)**. Good resource to find images and the corresponding licenses. Always make sure you give proper attribution to images or other resources you use. 
+* **[Creative Commons Search](https://search.creativecommons.org)**. Good resource to find images and the corresponding licenses. Always make sure you give proper attribution to images or other resources you use. 
 * **Alpha Blend in Keynote**. Feature in Keynote that helps remove background colours of an image. 
 
 ### Code on Slides
 
-If you're putting code on slides, make sure you don't cram everything into a single slide. Use syntax highlighting (most IDE's including IntelliJ family) allow you copy/paste code with syntax highlighting directly into Keynote. Also make sure you use a good font size that's readable from the very back.
+If you're putting code on slides, make sure you don't cram everything into a single one. Use syntax highlighting. Most IDE's, including IntelliJ family, allow you copy/paste code with syntax highlighting directly into Keynote. Also make sure you use a good font size that's readable from the very back.
 
 <br/>One technique people often use, and [Jake Wharton](https://twitter.com/JakeWharton) is great at doing this, is use the "Magic Move" transition in Keynote to provide highlighting on specific areas of code in a slide. Results are fantastic, but every time I've tried it....way too much work!
 
