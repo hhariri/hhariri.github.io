@@ -12,7 +12,7 @@ This is part 3 of a multi-post series on public speaking
 * [Dealing with nerves](/2018/08/15/public-speaking-dealing-with-nerves)
 * [Talk Structure](/2018/08/19/public-speaking-talk-structure)
 * [Slides](/2018/08/21/public-speaking-slides)
-
+* [Timing](/2018/08/23/public-speaking-timing)
 
 ## It's not about the slides
 
@@ -100,6 +100,13 @@ I don't use them. I find that if I have to squat to read the notes or what's wor
 
 
 As I mentioned earlier on, often I use a few words on the slide to remind me what I have to speak about. And that's generally enough without the need for scripting.
+
+
+### Repeating slides
+
+If during your talk you need to refer back to a slide, don't start navigating back and forth. Repeat that slide in a certain position. It feels much more natural and doesn't make people dizzy while you're trying to find exactly where you put it. 
+
+<br/>Of course you don't have to make a verbatim copy of it. You can modify some of the contents to add more context for the position in which it appears again. The main point however is that it's OK to repeat slides to rehash or refer to content covered already.
 
 
 ## No Slides

@@ -12,6 +12,7 @@ This is part 2 of a multi-post series on public speaking
 * [Dealing with nerves](/2018/08/15/public-speaking-dealing-with-nerves)
 * [Talk Structure](/2018/08/19/public-speaking-talk-structure)
 * [Slides](/2018/08/21/public-speaking-slides)
+* [Timing](/2018/08/23/public-speaking-timing)
 
 A talk usually consists of three parts:
 
