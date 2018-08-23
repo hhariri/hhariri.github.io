@@ -61,7 +61,7 @@ Below are a list of things that have helped me deal with timing somewhat.
 
 ### Use Presentation Mode
 
-Presentation Mode, a.k.a. the ability to see the next slide, the number of remaining slides and the time left is very useful to try and get a better picture of how much contents you have left. There really is no reason why you shouldn't use it. However, there are some cases when it becomes somewhat more challenging to use, namely:
+Presentation Mode, a.k.a. the ability to see the next slide, the number of remaining slides and the time left, is very useful to try and get a better picture of how much contents you have left. There really is no reason why you shouldn't use it. However, there are some cases when it becomes somewhat more challenging to use, namely:
 
 * You're far away from your monitor and there aren't any comfort screens. In this case, my only recommendation is to try and stay close to your screen and put it at an angle that doesn't make it too obvious you're glancing at it. 
 
