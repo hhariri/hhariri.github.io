@@ -7,7 +7,7 @@ published: true
 comments: true 
 ---
 
-This is part 3 of a multi-post series on public speaking
+This is part 4 of a multi-post series on public speaking
 
 * [Dealing with nerves](/2018/08/15/public-speaking-dealing-with-nerves)
 * [Talk Structure](/2018/08/19/public-speaking-talk-structure)
