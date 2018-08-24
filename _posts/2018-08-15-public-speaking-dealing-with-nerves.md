@@ -13,6 +13,7 @@ This is part 1 of a multi-post series on public speaking
 * [Talk Structure](/2018/08/19/public-speaking-talk-structure)
 * [Slides](/2018/08/21/public-speaking-slides)
 * [Timing](/2018/08/23/public-speaking-timing)
+* [Questions](/2018/08/24/public-speaking-questions)
 
 I do not consider myself an expert on the topic of 
 public speaking. However, over the years I've picked up a few tips and tricks that have helped me, and by sharing them 

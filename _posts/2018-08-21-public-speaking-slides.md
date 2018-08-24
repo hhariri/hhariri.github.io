@@ -13,7 +13,8 @@ This is part 3 of a multi-post series on public speaking
 * [Talk Structure](/2018/08/19/public-speaking-talk-structure)
 * [Slides](/2018/08/21/public-speaking-slides)
 * [Timing](/2018/08/23/public-speaking-timing)
-
+* [Questions](/2018/08/24/public-speaking-questions
+)
 ## It's not about the slides
 
 First and foremost - a talk isn't about slides. The slides are there to help. They're not the centerpiece of your talk. If you're revolving your entire presentation around how
