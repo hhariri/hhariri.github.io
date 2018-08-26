@@ -74,7 +74,7 @@ Once again, I wouldn't apologise for this, but I covered this in more detail in 
 
 ### Never apologise?
 
-You may be thinking that an apology is never needed. That's not the case. Obviously in case when you have a demo go drastically wrong or you've given wrong information and been pointed out by the audience or noticed it yourself, an apologise is in order. I'd also say you should apologise if you've been rude, but then I'd question why the hell have you been rude to begin with, which takes me to the next section.
+As this point you may be thinking that an apology is never needed. Not the case. Obviously when you have a demo go drastically wrong, or you've given incorrect information and been pointed out by the audience or noticed it yourself, an apology is in order. I'd also say you should apologise if you've been rude, but then I'd question why the hell have you been rude to begin with, which takes me to the next section.
 
 
 ## Behaviour  
