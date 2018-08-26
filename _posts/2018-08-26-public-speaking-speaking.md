@@ -84,15 +84,18 @@ Certain things that are important about how you behave during a talk.
 
 I'm not going to define what being rude is, I'm sure we're all grown up enough to know. However let me point out a few things:
 
-* **Profanity**. I'm generally against strong profanity in talks. I've never said the word "fuck" in a talk (to my recollection). I have had it on a slide ("Fuck you") but never repeated it. Other words such as "shit", "bullshit" etc. i have used at times. But it's very important to know the setting, the context, the audience. How you speak in front of 20 developers and those you have a strong rapport with may not be the same as a customer seminar where you know very few people and they don't know you. 
+#### Profanity
 
+I'm generally against strong profanity in talks. I've never said the word "fuck" in a talk (to my recollection). I have had it on a slide ("Fuck you") but never repeated it. Other words such as "shit", "bullshit" etc. I have used at times. But it's very important to know the setting, the context, the audience. How you speak in front of 20 developers and those you have a strong rapport with may not be the same as a customer seminar where you know very few people and they don't know you. 
 
-<br/>A disclaimer - I'm often known for making fun of JavaScript and the community and some may consider this offensive or rude. I'm also equally known for making fun of myself, other technologies and languages and our industry as a whole. I do not believe JavaScript, Java or .NET developers are persecuted, nor are they discriminated against and it is wrong and disgraceful to equate them to minorities or groups that are. The lack of satire and the ability to laugh at oneself and our work is not something I believe will benefit humanity if prohibited. And while I am not in favour of intentionally offending anyone, I do also understand that it's impossible to go through life without ever offending anyone. 
+#### Targeted jokes 
+
+I'm often known for making fun of JavaScript and the community and some may consider this offensive or rude. I'm also equally known for making fun of myself, other technologies and languages and our industry as a whole. I do not believe JavaScript, Java or .NET developers are persecuted, nor are they discriminated against and it is wrong and disgraceful to equate them to minorities or groups that are. The lack of satire and the ability to laugh at oneself and our work is not something I believe will benefit humanity if prohibited. And while I am not in favour of intentionally offending anyone, I do also understand that it's impossible to go through life without ever offending anyone. 
 
 
 <br/>Each of us should know where our moral and ethical boundaries are and be comfortable with ourselves. As Gandhi said
 
-<br/>**Happiness is when what you think, what you say, and what you do are in harmony**
+<br/>*Happiness is when what you think, what you say, and what you do are in harmony*
 
 ### Discrimination 
 
@@ -100,7 +103,7 @@ Do not make remarks, say things or make jokes that are discriminatory. It's just
 
 
 ### Be inclusive
-
+ 
 Not being discriminatory is critical. Being inclusive is just as much. 
 
 <br/>Being inclusive isn't always as easy as one may think and often speakers are just not generally aware of the mistakes they make. I'm not here to judge anyone, but I do want to point out some things you should avoid, and some of them are not easy habits to break, but possible with effort. And the effort is worth it.
@@ -112,8 +115,8 @@ Stop using "guys" in a talk. Just replace it with "folks" or any other valid opt
 <br/>Much the same with other words that are gender specific or other words that may be exclusionary (race, religion, gender, sexual orientation) to those in the audience.
 
 #### Asking questions that are inclusive
-
-Generally avoid questions that assume biases, for instance, a question that assumes everyone in the audience identifies as male. If the question however is relevant, then make sure you ask it in a gender neutral way. 
+ 
+Generally avoid questions that assume biases, for instance, a question that assumes everyone in the audience identifies as male. If the question however is relevant, then make sure you ask in an inclusive way. 
 
 
 
