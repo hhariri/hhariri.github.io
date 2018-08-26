@@ -26,6 +26,7 @@ One of the important aspects of public speaking is what we actually say outside 
 
 Em, Hmm, Eh. Mm, Um, Er...
 
+<br/>
 Those words we use when we don't know what to say. Try very hard to cut them out. They are annoying, especially to those that pay attention (like myself). The best alternative to these fillers is to know what you're going to say (and practice). However, if you find yourself struggling, replace them with a pause. Silence. 
 
 <br/>As an anecdote, it's ironic that the recent demo by [Google showing how their AI was having a casual conversation](https://www.youtube.com/watch?v=SuqOomotx7M), it felt like the processing time (i.e. status progress) was using fillers to replace silence. It might be OK for AI (despite the whole thing being very morally questionable), but it's not OK for a speaker. 
