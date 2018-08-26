@@ -90,8 +90,10 @@ I'm not going to define what being rude is, I'm sure we're all grown up enough t
 I'm generally against strong profanity in talks. I've never said the word "fuck" in a talk (to my recollection). I have had it on a slide ("Fuck you") but never repeated it. Other words such as "shit", "bullshit" etc. I have used at times. But it's very important to know the setting, the context, the audience. How you speak in front of 20 developers and those you have a strong rapport with may not be the same as a customer seminar where you know very few people and they don't know you. 
 
 #### Targeted jokes 
+ 
+I'm often known for making fun of JavaScript and its community. Some may consider this offensive or rude. I'm also equally known for making fun of myself, other technologies and languages and our industry as a whole. 
 
-I'm often known for making fun of JavaScript and the community and some may consider this offensive or rude. I'm also equally known for making fun of myself, other technologies and languages and our industry as a whole. I do not believe JavaScript, Java or .NET developers are persecuted, nor are they discriminated against and it is wrong and disgraceful to equate them to minorities or groups that are. The lack of satire and the ability to laugh at oneself and our work is not something I believe will benefit humanity if prohibited. And while I am not in favour of intentionally offending anyone, I do also understand that it's impossible to go through life without ever offending anyone. 
+<br/>I do not believe JavaScript, Java or .NET developers are persecuted, nor are they discriminated against and it is wrong and disgraceful to equate them to minorities or groups that are. The lack of satire and the ability to laugh at oneself and our work is not something I believe will benefit humanity if prohibited. And while I am not in favour of intentionally offending anyone, I do also understand that it's impossible to go through life without ever offending anyone. 
 
 
 <br/>Each of us should know where our moral and ethical boundaries are and be comfortable with ourselves. As Gandhi said
@@ -100,7 +102,7 @@ I'm often known for making fun of JavaScript and the community and some may cons
 
 ### Discrimination 
 
-Do not make remarks, say things or make jokes that are discriminatory. It's just plain wrong. In every setting, not only on stage. Much the same way, do no use slides that imply any of this. I'm also very much against sexual comments and imagery. Fortunately most Code of Conducts of conferences already point many of these things out. 
+Do not make remarks, say things or make jokes that are discriminatory. It's just plain wrong. In every setting, not only on stage. Much the same way, do not use slides that imply any of this. I'm also very much against sexual comments and imagery. Fortunately most Code of Conducts of conferences already point many of these things out. 
 
 
 ### Be inclusive
