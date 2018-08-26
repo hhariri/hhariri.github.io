@@ -67,6 +67,9 @@ Of all those, the only time it's valid to apologise is in none of the cases. Fir
 
 If you made a mistake on a slide, or it's out of order, unless it's showing some fundamentally wrong information, you don't have to specifically point it out. Chances are nobody really noticed the mistake apart from you and just saying "Oops, I made a mistake here" provides very little value. Again, as I mentioned, as long as the mistake is not misleading people or giving incorrect information. 
 
+### Apologies for being nervous
+
+Once again, I wouldn't apologise for this, but I covered this in more detail in [Dealing with Nerves](/2018/08/15/public-speaking-dealing-with-nerve)
 
 ### Never apologise?
 
