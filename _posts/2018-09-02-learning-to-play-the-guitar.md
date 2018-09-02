@@ -15,6 +15,10 @@ This year I decided to try again, but properly - buying a left-handed guitar. Wh
 
 ### Fender Play
 
+![Fender]({{ site.images }}/guitar-6.png) 
+<br/>
+<br/>
+
 Having purchased a Fender Squire, the first thing I did was follow the marketing material that came with it and signed up to [Fender Play](https://www.fender.com/play). The trial seemed OK but I was so overly excited that I decided to sign up for a whole year. A month later I abandoned.
 
 #### The Bad
@@ -39,6 +43,11 @@ Having purchased a Fender Squire, the first thing I did was follow the marketing
 
 
 ### Yousician
+
+![Yousician]({{ site.images }}/guitar-7.png)
+<br/>
+<br/>
+
 
 After a hiatus of a few months, partially influenced by my bad experience with Fender Play, I tweeted about my disappointment, and a few people responded recommending I try [Youscian](https://yousician.com). 
 
@@ -129,8 +138,12 @@ but the problem is that you start with the first one, find it good, start to adv
 <br/>
 Overall verdict - I'm happy with Yousician and do not regret purchasing a subscription. Most likely I'll renew next year, despite its issues. However, I don't think it's enough on its own, which brings me to the next service...
 
-
+ 
 ### Justin Guitar
+ 
+![Justin]({{ site.images }}/guitar-5.png) 
+<br/>
+<br/>
 
 At the same time that they recommended to me Yousician, a few people talked about [Justin Guitar](https://justinguitar.com).
 
