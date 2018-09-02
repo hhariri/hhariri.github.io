@@ -196,7 +196,7 @@ I've tried many times to set myself a schedule of different things I want to pra
  
 #### Practice daily
 
-Even if it's just 30 minutes a day, make sure you practice. I travel quite a bit and being away sometimes for a week or more really impacts my progress. I recently, on the advice of [Rob Ashton](https://twitter.com/robashton?lang=en) bought a [travel guitar](https://travelerguitar.com/ultra-light-electric-black-lefty/) which I take with me on trips that are longer than a couple of days. 
+Even if it's just 30 minutes a day, make sure you practice. I travel quite a bit and being away sometimes for a week or more really impacts my progress. I recently, on the advice of [Rob Ashton](https://twitter.com/robashton?lang=en), purchased a [travel guitar](https://travelerguitar.com/ultra-light-electric-black-lefty/) which I take with me on trips that are longer than a couple of days. 
 
 #### Don't fall into trap of overwhelming yourself
 
