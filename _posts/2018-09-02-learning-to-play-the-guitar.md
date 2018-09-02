@@ -17,12 +17,24 @@ This year I decided to try again, but properly - buying a left-handed guitar. Wh
 
 Having purchased a Fender Squire, the first thing I did was follow the marketing material that came with it and signed up to [Fender Play](https://www.fender.com/play). The trial seemed OK but I was so overly excited that I decided to sign up for a whole year. A month later I abandoned.
 
-<br/>The main issues:
+#### The Bad
 
-* I don't feel it's complete. While it has 5 levels, I think it seriously lacks contents.
-* The learning path isn't really a learning path. Lacks guidance. 
-* No real exercises that you're *tested* against. I'll come back this later.
-* Various instructors. While this has positives, it also feels like it contributes to a lack of continuity. 
+
+**Incomplete**
+
+I don't feel it's complete. While it has 5 levels, I think it seriously lacks contents.
+
+**No learning path**
+
+The learning path isn't really a learning path. Lacks guidance. 
+
+**No exercises**
+
+No real exercises that you're *tested* against. I'll come back this later.
+
+**Various instructors**
+
+While this has positives, it also feels like it contributes to a lack of continuity. 
 
     <br/>
 Unfortunately I've signed up for a year, and not much I can do about it, but despite having paid over $100 for this, I just don't use it and have written it off as a loss.
