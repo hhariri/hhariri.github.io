@@ -206,11 +206,11 @@ At some point I decided that I want to understand everything around music theory
 
 I've reviewed a few different services and while initially I had planned to just stick to one (again to not feel overwhelmed), much like balancing theory, I'm finding that using Yousician and Justin Guitar (especially now with the app) is working out well for me. As such, I don't think you necessarily have to just stick to one service. But as with many things, this is a personal choice and do what works best for you.
 
-##### Get a helping hand
+#### Get a helping hand
 
 Find someone that can help you with questions you may have (especially around theory). I've been fortunate enough that [Rob Ashton](https://twitter.com/robashton) who himself only started playing a few years ago, is always there to help with questions I have. And while sometimes things he answers go over my head, he really does offer me reassurance and help at times.
 
-##### Record yourself
+#### Record yourself
 
 I admit I should be more active in this but recording yourself can also help show how you're progressing as well as seeing the mistakes you're making. 
 
