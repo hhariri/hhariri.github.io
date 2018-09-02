@@ -28,7 +28,7 @@ Having purchased a Fender Squire, the first thing I did was follow the marketing
 
 <br/>
 
-**No learning path**. The learning path isn't really a learning path. Lacks guidance. 
+**No learning path**. The learning path isn't really a learning path. While it has support for progress of what you've done, etc. I really feel it lacks guidance and proper steps. 
 
 <br/>
 
@@ -40,6 +40,9 @@ Having purchased a Fender Squire, the first thing I did was follow the marketing
 **Various instructors**. While this has positives, it also feels like it contributes to a lack of continuity. 
 
 <br/>Unfortunately I've signed up for a year, and not much I can do about it, but despite having paid over $100 for this, I just don't use it and have written it off as a loss.
+
+
+<br/>Overall verdict - not happy and wouldn't recommend it. Having said that, I've not gone back to the site for some time so it might have changed a bit for the better. 
 
 
 ### Yousician
@@ -67,7 +70,7 @@ After a hiatus of a few months, partially influenced by my bad experience with F
 
 **Learning paths**. It has three learning paths:
 
-<br>/
+<br/>
 * Lead. For building up dexterity in your fingers when playing those solos.
 * Rhythm. For learning chords, power chords, etc. 
 * Theory. Some basic music theory
