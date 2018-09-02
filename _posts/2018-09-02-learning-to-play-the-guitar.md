@@ -52,11 +52,11 @@ Having purchased a Fender Squire, the first thing I did was follow the marketing
 <br/>
 
 
-After a hiatus of a few months, partially influenced by my bad experience with Fender Play, I tweeted about my disappointment, and a few people responded recommending I try [Youscian](https://yousician.com). 
+After a hiatus of a few months, partially influenced by my bad experience with Fender Play, I tweeted about my disappointment, and a few people responded recommending I try [Yousician](https://yousician.com). 
 
 <br/>Best way to describe Yousician is like Guitar Hero but in real life. I immediately got hooked. But this time I didn't make the same mistake as Fender Play. I did the entire trial period (unfortunately only 7 days) before signing up for a year (I know...). 
 
-<br/>Different my last mistake however, I do not regret it. Yousician is excellent and I'm still very much happy with it. A few great things it has:
+<br/>Different to my last mistake however, I do not regret it. Yousician is excellent and I'm still very much happy with it. A few great things it has:
 
 #### The good
 
@@ -132,7 +132,7 @@ but the problem is that you start with the first one, find it good, start to adv
 
 
 <br/>
-**User contributed songs are no more**. One cool thing about it was the ability to create your own songs and have others contribute songs. People would have for instance versions of a Pink Floyd song which you could use to learn. Unfortunately they got rid of all of this, promising something better. That better thing is a what I mentioned above - a bunch of famous songs that they're gradually building up. However, this is not available in all countries, and also requires a Premium subscription (i.e. goes from 9.99 euros a month to 14.99 a month), a subscription which previously was about having multiple instruments. Something tells me that they realised the whole business model of playing multiple wasn't really working out. It's a shame to be honest.
+**User contributed songs are no more**. One cool thing about it was the ability to create your own songs and have others contribute songs. People would upload for instance a Pink Floyd song which you could use to learn. Unfortunately they got rid of all of this, promising something better. That better thing is a what I mentioned above - a bunch of famous songs that they're gradually building up. However, this is not available in all countries, and also requires a Premium subscription (i.e. goes from 9.99 euros a month to 14.99 a month), a subscription which previously was about having multiple instruments. Something tells me that they realised the whole business model of playing multiple wasn't really working out. It's a shame to be honest.
 
 <br/>
 **Lack of theory**. The theory path really lacks contents. It shows you the very basic but stops short of explaining much around music theory. 
