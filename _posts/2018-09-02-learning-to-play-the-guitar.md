@@ -20,23 +20,22 @@ Having purchased a Fender Squire, the first thing I did was follow the marketing
 #### The Bad
 
 
-**Incomplete**
+**Incomplete**. I don't feel it's complete. While it has 5 levels, I think it seriously lacks contents.
 
-I don't feel it's complete. While it has 5 levels, I think it seriously lacks contents.
+<br/>
 
-**No learning path**
+**No learning path**. The learning path isn't really a learning path. Lacks guidance. 
 
-The learning path isn't really a learning path. Lacks guidance. 
+<br/>
 
-**No exercises**
+**No exercises**. No real exercises that you're *tested* against. I'll come back this later.
 
-No real exercises that you're *tested* against. I'll come back this later.
+<br/>
 
-**Various instructors**
 
-While this has positives, it also feels like it contributes to a lack of continuity. 
+**Various instructors**. While this has positives, it also feels like it contributes to a lack of continuity. 
 
-    <br/>
+<br/>
 Unfortunately I've signed up for a year, and not much I can do about it, but despite having paid over $100 for this, I just don't use it and have written it off as a loss.
 
 
@@ -101,12 +100,13 @@ If you like to share your level and connect with friends, then go nuts, it allow
 
 #### The bad
 
-1. Without it I can't play a thing. 
+
+**I can't play a thing**
 
 This is a sentiment that I've been feeling for some time now and shared by a few other people that are using it. While using Yousician, you feel like you're drastically advancing and getting strength in fingers and speed, without it it feels like I have no idea on how to play the guitar (apart from knowing the chords, some scales and power chords, etc.). In other words, put me in front of Yousician and I can play pretty decently. Take it away and I can't even play Happy Birthday (OK that one I can actually). 
 
 <br/>
-2. Fret positions, not notes. 
+**Fret positions, not notes**
 
 Your typical interaction with Yousician looks like this:
 
@@ -124,6 +124,7 @@ Now, of course, Yousician allows you to use a different style such as combining 
 ![Note and number]({{ site.images }}/guitar-2.png)
 <br/>
 
+<br/>
 ![Music notation]({{ site.images }}/guitar-4.png)
 <br/>
 
@@ -140,7 +141,7 @@ but the problem is that you start with the first one, find it good, start to adv
 
 
 <br/>
-3. User contributed songs are no more
+**User contributed songs are no more**
 
 <br/>One cool thing about it was the ability to create your own songs and have others contribute songs. People would have for instance versions of a Pink Floyd song which you could use to learn. Unfortunately they got rid of all of this, promising something better. That better thing is a what I mentioned above - a bunch of famous songs that they're gradually building up. However, this is not available in all countries, and also requires a Premium subscription (i.e. goes from 9.99 euros a month to 14.99 a month), a subscription which previously was about having multiple instruments. Something tells me that they realised the whole business model of playing multiple wasn't really working out. It's a shame to be honest.
 
@@ -149,10 +150,10 @@ but the problem is that you start with the first one, find it good, start to adv
 
 
 <br/>
-4. Lack of theory
+**Lack of theory**
 
 The theory path really lacks contents. It shows you the very basic but stops short of explaining much around music theory. 
-
+ 
 ### Justin Guitar
 
 At the same time that they recommended to me Yousician, a few people talked about [Justin Guitar](https://justinguitar.com).
@@ -201,7 +202,7 @@ Justin also has a [few apps](https://www.justinguitar.com/apps). I recently purc
 
 Much like the book and the app, Justin also offers a bunch of contents on music theory, but under a paid model. I started reading this and as expected, great explanations, however, for now I'm holding off subscribing because I don't want to feel overwhelmed with too much at once. And this in fact brings me to the summary...
 
-
+ 
 ### Summary
 
 I'm far from even considering myself a beginner but I have found a few important things that are helping me, independently of the service/app you may end up using.
