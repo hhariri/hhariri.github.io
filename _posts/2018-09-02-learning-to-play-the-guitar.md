@@ -62,9 +62,7 @@ After a hiatus of a few months, partially influenced by my bad experience with F
 #### The good
 
 
-**It's listening**. This is the best feature! It actually listens to you play and tells you if you're getting the right notes or not. It's supported on macOS, Android and iPhone, and you can use either a microphone or a device such as the [iRig2](https://www.amazon.de/IK-Multimedia-P953-Gitarre-Interface/dp/B00T631UTC/ref=sr_1_3/257-2314689-6609221?ie=UTF8&qid=1535885596&sr=8-3&keywords=irig+2) which is what I use, which I then connect an external speaker to, and along with Garage Band, I get an amplifier. I do this on the MBP obviously, not on Android.
-
-<br/>While it seems it does have a built-in amp, I've not had good results with it, so I stick to Garage Band. 
+**It's listening**. This is the best feature! It actually listens to you play and tells you if you're getting the right notes or not. It's supported on macOS, Android and iPhone, and you can use either a microphone or a device such as the [iRig2](https://www.amazon.de/IK-Multimedia-P953-Gitarre-Interface/dp/B00T631UTC/ref=sr_1_3/257-2314689-6609221?ie=UTF8&qid=1535885596&sr=8-3&keywords=irig+2). The latter is what I use. Connected to an external speaker along with Garage Band, it not only allows Yousician to work, but also provides me an amplifier (well the app does have a built-in amp, I've not had good results with it, so I stick to the aforementioned setup). 
 
 
 <br/>
@@ -182,8 +180,7 @@ I'm going to start with the bad first because it's actually not entirely bad and
 
 
 <br/>
-**The theory**. Much like the book and the app, Justin also offers a bunch of contents on music theory, but under a paid model. I started reading this and as expected, great explanations, however, for now I'm holding off subscribing because I don't want to feel overwhelmed with too much at once. And this in fact brings me to the summary...
-
+**The theory**. Much like the book and the app, Justin also offers a bunch of contents on music theory, but under a paid model. I started reading this and as expected, great explanations, however, for now I'm holding off subscribing because I don't want to feel overwhelmed with too much at once.
 
 <br/>
 *Verdict*. Most definitely recommend. However I also encourage you to buy the app, songbook and even theory. Not only do they provide a lot of value, it helps support Justin's efforts. 
