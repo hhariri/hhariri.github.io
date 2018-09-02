@@ -7,7 +7,7 @@ published: true
 comments: true
 ---
 
-I've always wanted to play the electric guitar and despite an attempt at doing so over 25 years ago, I gave. Partially cause I had no sense of time-management (as if I do now), partially cause I always felt that being left-handed and playing a right-handed instrument would always hinder me. And yes, I tried the Jimi Hendrix approach, ending up wrecking my guitar.
+I've always wanted to play the electric guitar and despite an attempt at doing so over 25 years ago, I gave up. Partially cause I had no sense of time-management (as if I do now), partially cause I always felt that being left-handed and playing a right-handed instrument would always hinder me. And yes, I tried the Jimi Hendrix approach, ending up wrecking my guitar.
 
 <br/>
 This year I decided to try again, but properly - buying a left-handed guitar. While I haven't been playing for a long time and I'm still below novice, I've tried a few different techniques, some have worked, others haven't. Below is a list of the services/sites I've used and my evaluation of them.
