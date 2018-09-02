@@ -42,7 +42,8 @@ Having purchased a Fender Squire, the first thing I did was follow the marketing
 <br/>Unfortunately I've signed up for a year, and not much I can do about it, but despite having paid over $100 for this, I just don't use it and have written it off as a loss.
 
 
-<br/>Overall verdict - not happy and wouldn't recommend it. Having said that, I've not gone back to the site for some time so it might have changed a bit for the better. 
+<br/>
+*Verdict*. Not happy and wouldn't recommend it. Having said that, I've not gone back to the site for some time so it might have changed a bit for the better. 
 
 
 ### Yousician
@@ -139,7 +140,7 @@ but the problem is that you start with the first one, find it good, start to adv
  
 
 <br/>
-Overall verdict - I'm happy with Yousician and do not regret purchasing a subscription. Most likely I'll renew next year, despite its issues. However, I don't think it's enough on its own, which brings me to the next service...
+*Verdict*. I'm happy with Yousician and do not regret purchasing a subscription. Most likely I'll renew next year, despite its issues. However, I don't think it's enough on its own, which brings me to the next service...
 
  
 ### Justin Guitar
@@ -183,7 +184,10 @@ I'm going to start with the bad first because it's actually not entirely bad and
 <br/>
 **The theory**. Much like the book and the app, Justin also offers a bunch of contents on music theory, but under a paid model. I started reading this and as expected, great explanations, however, for now I'm holding off subscribing because I don't want to feel overwhelmed with too much at once. And this in fact brings me to the summary...
 
-  
+
+<br/>
+*Verdict*. Most definitely recommend. However I also encourage you to buy the app, songbook and even theory. Not only do they provide a lot of value, it helps support Justin's efforts. 
+
 ### Summary
  
 I'm far from even considering myself a beginner but I have found a few important things that are helping me, independently of the service/app you may end up using.
