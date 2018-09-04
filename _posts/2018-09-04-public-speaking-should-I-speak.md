@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Public Speaking - Speaking
+title: Public Speaking - Should I speak?
 status: published
 type: post
 published: true
