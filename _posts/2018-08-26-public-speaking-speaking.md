@@ -15,7 +15,7 @@ This is part 6 of a multi-post series on public speaking
 * [Timing](/2018/08/23/public-speaking-timing)
 * [Questions](/2018/08/24/public-speaking-questions)
 * [Speaking](/2018/08/26/public-speaking-speaking)
-* [Should I speak?](2018-09-04/public-speaking-should-I-speak)
+* [Should I speak?](2018-09-04/public-speaking-should-i-speak)
 
 
 One of the important aspects of public speaking is what we actually say outside of the contents of the topic we're speaking on. In this blog post I'll cover this.  
