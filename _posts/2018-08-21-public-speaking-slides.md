@@ -15,7 +15,7 @@ This is part 3 of a multi-post series on public speaking
 * [Timing](/2018/08/23/public-speaking-timing)
 * [Questions](/2018/08/24/public-speaking-questions)
 * [Speaking](/2018/08/26/public-speaking-speaking)
-* [Should I speak?](2018-09-04/public-speaking-should-i-speak)
+* [Should I speak?](2018/09/04/public-speaking-should-i-speak)
 
 ## It's not about the slides
 
