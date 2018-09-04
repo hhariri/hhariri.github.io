@@ -15,7 +15,7 @@ This is part 1 of a multi-post series on public speaking
 * [Timing](/2018/08/23/public-speaking-timing)
 * [Questions](/2018/08/24/public-speaking-questions)
 * [Speaking](/2018/08/26/public-speaking-speaking)
-* [Should I speak?](2018-09-04/public-speaking-should-I-speak)
+* [Should I speak?](2018-09-04/public-speaking-should-i-speak)
 
 I do not consider myself an expert on the topic of 
 public speaking. However, over the years I've picked up a few tips and tricks that have helped me, and by sharing them 
