@@ -14,8 +14,10 @@ This is part 4 of a multi-post series on public speaking
 * [Slides](/2018/08/21/public-speaking-slides)
 * [Timing](/2018/08/23/public-speaking-timing)
 * [Questions](/2018/08/24/public-speaking-questions)
-* [Speaking](/2018/08/26/public-speaking-speaking.md)
+* [Speaking](/2018/08/26/public-speaking-speaking)
+* [Should I speak?](2018-09-04/public-speaking-should-I-speak)
 
+    
 A talk that finishes on time ends well. It leaves you with a nice feeling, you've nailed it. You've finished on time (and on budget)!
 On the other hand, having a talk end 15 minutes earlier does seem awkward, and trust me I know. It's happened to me a few times. Your goal should always be to have the talk last pretty much exactly as long as the allocated time. But how to do it? 
 

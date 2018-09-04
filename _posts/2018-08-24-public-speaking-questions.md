@@ -14,7 +14,8 @@ This is part 5 of a multi-post series on public speaking
 * [Slides](/2018/08/21/public-speaking-slides)
 * [Timing](/2018/08/23/public-speaking-timing)
 * [Questions](/2018/08/24/public-speaking-questions)
-* [Speaking](/2018/08/26/public-speaking-speaking.md)
+* [Speaking](/2018/08/26/public-speaking-speaking)
+* [Should I speak?](2018-09-04/public-speaking-should-I-speak)
 
 This post is about dealing with questions, and to be honest there isn't much to share in this area. Nonetheless, I'll cover some of the most common sense aspects of it.
 
