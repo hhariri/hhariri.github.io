@@ -27,7 +27,7 @@ The first question of course should be...should I allow questions?
 
 <br/>If it's not a keynote, then I'm good with questions and I'm fine with people to ask it during the talk as opposed to piling it all up at the end. Ironically most conference organisers keep telling speakers that a session should be X minutes with Y minutes Q&A to end the session. I disagree for two reasons:
 
-1. If someone has a question which is not addressed, their mind may start to wonder and as a consequence, they can get lost. This is even more so when it's a technical talk and knowledge is built on as the session progresses. 
+1. If someone has a question which is not addressed, their mind may start to wander and as a consequence, they can get lost. This is even more so when it's a technical talk and knowledge is built on as the session progresses. 
 2. If someone has a question, you're pretty certain that at least someone else has the same question. I can't prove it scientifically but it's happened to me so often that there's a high probability it's the case. 
 
 <br/>
