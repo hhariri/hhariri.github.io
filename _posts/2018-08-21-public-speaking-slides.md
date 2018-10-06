@@ -118,7 +118,7 @@ Generally you should be prepared to give a talk without slides. It's not easy bu
 
 ### Live coding/demos instead of Slides
 
-If you're giving a technical talk which may involve code, you could always try and go for using your favourite IDE or Editor and do the entire thing in that. Once again, [Venkat](https://twitter.com/venkat_s is a master at this. And it's not easy. 
+If you're giving a technical talk which may involve code, you could always try and go for using your favourite IDE or Editor and do the entire thing in that. Once again, [Venkat](https://twitter.com/venkat_s) is a master at this. And it's not easy. 
 
 
 <br/>My general recommendation (which unfortunately I don't follow myself) is to try and avoid live coding unless you really want to or need to; in which case, make sure you practice enough. And if you think a shortcut to this is to copy/paste or have a series of predefined templates you can spit out, then please, avoid it. Nobody enjoys seeing how awesome you are at copying/pasting! 
