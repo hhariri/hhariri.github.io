@@ -27,7 +27,9 @@ This change is reduced to a very simple simple rule:
 
 
 <br/>
+<br/>
 **Unless it is urgent, do not ping a person or a group of people (understanding by this a group DM or small private channel) directly. Instead use email or issue tracker**
+<br/>
 <br/>
 I've moved(ing) back to making use the right tool at the right moment, as opposed to think Slack should be used for everything, i.e.:
 
