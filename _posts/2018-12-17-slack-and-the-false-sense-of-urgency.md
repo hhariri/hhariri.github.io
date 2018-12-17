@@ -48,10 +48,12 @@ Now while some of you may suggest to just shut down Slack and open it once in a 
 being available for when it is important and benefing from the many good things that Slack does provide, while at the same time not feeling completely overwhelemed by the many 
 notifications.
 
-
 <br/>
 Of course, much like in society, things only work well if we all follow the same rules.
 
+<br/>
+Finally, I think it's important to not confuse being open and willing to help with constantly being available on Slack, responding to any notification instantly. We can all still be open and helpful to
+others. It's about appreciating that at times one tool may be more appropriate than another when asking for something.
 
  
 
