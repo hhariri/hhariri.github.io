@@ -31,7 +31,7 @@ This change is reduced to a very simple rule:
 **Unless it is urgent, do not ping a person or a group of people (understanding by this a group DM or small private channel) directly. Instead use email or issue tracker**
 <br/>
 <br/>
-I've moved(ing) back to making use of the right tool at the right moment, as opposed to think Slack should be used for everything, i.e.:
+I've moved(ing) back to making use of the right tool at the right moment, as opposed to believing Slack should be used for everything, i.e.:
 
 * Email or issue tracker for non-urgent discussions or issues that need attention. At JetBrains we make heavy use of YouTrack, not just as a software project management tool, but for many things including organising shows, trips, payments, etc. We also at times use it to have discussions and make decisions. The benefits 
 over email are that people can leave and join at any time, and everything is documented
