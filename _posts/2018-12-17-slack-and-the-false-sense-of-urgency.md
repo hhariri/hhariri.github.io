@@ -28,7 +28,7 @@ This change is reduced to a very simple rule:
 
 <br/>
 <br/>
-**Unless it is urgent, do not ping a person or a group of people (understanding by this a group DM or small private channel) directly. Instead use email or issue tracker**
+**Unless it is urgent, I do not ping a person or a group of people (understanding by this a group DM or small private channel) directly. Instead use email or issue tracker**
 <br/>
 <br/>
 I've moved(ing) back to making use of the right tool at the right moment, as opposed to believing Slack should be used for everything, i.e.:
@@ -36,7 +36,7 @@ I've moved(ing) back to making use of the right tool at the right moment, as opp
 * Email or issue tracker for non-urgent discussions or issues that need attention. At JetBrains we make heavy use of YouTrack, not just as a software project management tool, but for many things including organising shows, trips, payments, etc. We also at times use it to have discussions and make decisions. The benefits 
 over email are that people can leave and join at any time, and everything is documented
 * Email when pinging someone to see if and when they're available for a chat (when not urgent). 
-* Issue tracker for logging bugs as opposed to some random code snippet or unexpected behaviour, expecting everyone to drop something and attend to your problem.
+* Issue tracker for logging bugs as opposed to some random code snippet or unexpected behaviour, expecting everyone to drop something and attend to my problem.
 
 About the only time I will post a question to a channel is - 
 
@@ -47,9 +47,6 @@ About the only time I will post a question to a channel is -
 Now while some of you may suggest to just shut down Slack and open it once in a while, the point here is about 
 being available for when it is important and benefing from the many good things that Slack does provide, while at the same time not feeling completely overwhelemed by the many 
 notifications.
-
-<br/>
-Of course, much like in society, things only work well if we all follow the same rules.
 
 <br/>
 Finally, I think it's important to not confuse being open and willing to help with constantly being available on Slack, responding to any notification instantly. We can all still be open and helpful to
