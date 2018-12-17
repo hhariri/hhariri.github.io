@@ -23,7 +23,7 @@ Now of course, many may say - don't blame them tool but how you use it. And that
 
 ## A simple rule
 
-This change is reduced to a very simple simple rule:
+This change is reduced to a very simple rule:
 
 
 <br/>
