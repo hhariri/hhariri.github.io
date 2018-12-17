@@ -40,11 +40,11 @@ over email are that people can leave and join at any time, and everything is doc
 
 About the only time I will post a question to a channel is - 
 
-a) It's something urgent 
-b) I have no idea who could help me with the question at hand
+* It's something urgent 
+* I have no idea who could help me with the question at hand
 
 <br/>
-Now while some of you may suggest - why not just switch of Slack and open it once in a while, much like an email client - the point here is about 
+Now while some of you may suggest to just shut own Slack and open it once in a while, the point here is about 
 being available for when it is important and benefing from the many good things that Slack does provide, while at the same time not feeling completely overwhelemed by the many 
 notifications.
 
