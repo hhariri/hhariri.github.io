@@ -19,7 +19,7 @@ the same as a watercooler; giving us a sense of working together and constantly 
 But Slack has also given us the feeling that we can reach out to anyone at any time for anything. The consequence of this however is that frequent interruptions can often lead to context switches which in turn, much like with threads, can impact performance.
 
 <br/>
-Now of course, many may say - don't blame them tool but how you use it. And that's OK. In fact many times I've used the same argument, and this post isn't about me "rage-quiting Slack". Instead it's about changing the way I'm now using Slack. 
+Now of course, many may say - don't blame the tool but how you use it. And that's OK. In fact many times I've used the same argument, and this post isn't about me "rage-quiting Slack". Instead it's about changing the way I'm now using Slack. 
 
 ## A simple rule
 
