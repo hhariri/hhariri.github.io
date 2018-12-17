@@ -44,7 +44,7 @@ About the only time I will post a question to a channel is -
 * I have no idea who could help me with the question at hand
 
 <br/>
-Now while some of you may suggest to just shut own Slack and open it once in a while, the point here is about 
+Now while some of you may suggest to just shut down Slack and open it once in a while, the point here is about 
 being available for when it is important and benefing from the many good things that Slack does provide, while at the same time not feeling completely overwhelemed by the many 
 notifications.
 
