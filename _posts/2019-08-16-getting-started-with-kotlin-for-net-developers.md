@@ -15,6 +15,7 @@ As such, I feel it's probably more efficient to have this outlined in a blog pos
 When we first started Kotlin, the only platform it supported was the JVM. Today we have Kotlin/JS and Kotlin/Native, which opens up possibility to many targets such as iOS, macOS, Windows, etc. And of course
 Android. 
 <br/>
+
 But it's no secret that originating on the JVM, there's a heavy influence of this in the documentation, learning material and available courses, most of them assuming that you know some Java and are familiar with
 the JVM. The good news is that we're working on improving all this, but as with anything, it takes time. 
 
@@ -29,9 +30,7 @@ I wrote the following guides when I first came to Kotlin and the JVM, so they ve
 * [IntelliJ IDEA Minimal Survival Guide](https://hadihariri.com/2014/01/06/intellij-idea-minimal-survival-guide/)
 
 They're mostly still relevant and a good starting point to get you up to speed with the JVM and also IntelliJ IDEA. While there are a lot of comparisons with .NET, obviously
-any developer can read it and hopefully it will be useful. 
-
-Also, if you want to learn a bit more about IntelliJ IDEA, there's [my IntelliJ IDEA 42 Tips and Tricks talk](https://www.youtube.com/watch?v=eq3KiAH4IBI)
+any developer can read it and hopefully it will be useful. Also, if you want to learn a bit more about IntelliJ IDEA, there's [my IntelliJ IDEA 42 Tips and Tricks talk](https://www.youtube.com/watch?v=eq3KiAH4IBI)
 
 ### Getting up to speed with Kotlin
 
@@ -46,8 +45,9 @@ keep this one mostly assuming you may not have a background in Java.
 <br/>
 I also strongly recommend the book [Kotlin in Action](https://www.manning.com/books/kotlin-in-action), once again by Sveta and Dmitry Jemerov. Gives you a lot of insight and explanations
 of the why and how of things in Kotlin. 
+<br/>
 
-These can get you started on the Kotlin language and then from there you can specialise in the different areas, be it mobile, server-side, native, etc. For more links 
+Hopefully some of the above can get you started, and then from there you can dive deeper in to the different areas, be it mobile, server-side, native, etc. For more links 
 and information check-out the [Learn section on the website](https://kotlinlang.org/docs/reference/) as well as the [tutorials](https://kotlinlang.org/docs/tutorials/) and 
 of course [Play](https://play.kotlinlang.org). 
 
