@@ -24,21 +24,21 @@ I'm on LinkedIn and recently I decided to go through the privacy options for my 
 ![LinkedIn 1](/images/linkedin-1.png)
 <br/>
 
-![LinkedIn 2](/images/linkedin-1.png)
+![LinkedIn 2](/images/linkedin-2.png)
 <br/>
 
-![LinkedIn 3](/images/linkedin-1.png)
+![LinkedIn 3](/images/linkedin-3.png)
 <br/>
 
-![LinkedIn 4](/images/linkedin-1.png)
+![LinkedIn 4](/images/linkedin-4.png)
 <br/>
 
-![LinkedIn 5](/images/linkedin-1.png)
+![LinkedIn 5](/images/linkedin-5.png)
 <br/>
 
 And these were just about Privacy. Then we have an entire tab for Advertising, and one more for Communications
 <br/> 
-![LinkedIn 6](/images/linkedin-1.png)
+![LinkedIn 6](/images/linkedin-6.png)
 <br/>
  
  
