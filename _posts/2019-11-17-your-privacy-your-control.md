@@ -11,7 +11,9 @@ I'm sure you've probably heard Mark Zuckerberg talk about how they are giving th
 users the choice when it comes to privacy. That they're putting privacy in the hands of you, the user. That you're in
 control of what you want to share and with whom you want to share it. 
 <br/>
+<br/>
 It's a lie. 
+<br/>
 <br/>
 Lie is harsh? Fair enough. Let's call it misleading. 
 
