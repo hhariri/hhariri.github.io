@@ -60,8 +60,12 @@ extremely simple for them to do this, and defaulting to sharing as little as pos
 
 <br/>
 And yet what we're seeing in the industry is a move to more fine-grained control of what exactly we want to be exposed to as a user, whether this 
-is privacy settings or the cookies we want to receive. We disguise this under the pretext of **being transparent**, yet what we're really trying to do
-is harvast as much personal information as possible and then tell users (or authorities if they come knocking), that you're in control. 
+is privacy settings or the cookies we want to receive. 
+
+<br/>
+<br/>
+We disguise this under the pretext of *being transparent*, yet what we're really trying to do
+is harvest as much personal information as possible and then tell users (or authorities if they come knocking), that you're in control. 
  
 
 
