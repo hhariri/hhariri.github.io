@@ -40,11 +40,12 @@ I'm on LinkedIn and recently I decided to go through the privacy options for my 
 
 And these were just about Privacy. Then we have an entire tab for Advertising, and one more for Communications
 <br/> 
+<br/> 
 ![LinkedIn 6](/images/linkedin-6.png)
 <br/>
  
  
-I'd considering myself a tech-savy person who cares about their privacy, so I probably would take the time to go through all this and try to configure everything. Do you 
+I'd consider myself a tech-savy person who cares about their privacy, so I probably would take the time to go through all this and try to configure everything. Do you 
 think though that that is something that your everyday user would do? Most likey not, which leaves them in the vulnerable position of relying on what the default options are. And guess what? At times these aren't trying to favour your privacy but 
 maximise the return on your data.
 
