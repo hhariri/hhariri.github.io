@@ -50,6 +50,16 @@ randomly assigns them in pairs and emits a message once a week, indicating the f
 The code itself is too simple to even bother mentioning, but in case you're wondering, we simply use the HTTP API to get a list of team members, create a set of pairs and emit a message to a feedback channel. And that's scheduled to happen every Monday morning.
 
 ```kotlin
+fun createRandomPairs(input: List<SpacePerson>): Set<Pair<SpacePerson, SpacePerson>> {
+    val shuffled = input.shuffled()
+    val items = shuffled.windowed(2, 2, true)
+    return items.map {
+        Pair(it[0], if (it.count() == 2) it[1] else shuffled.first())
+    }.toSet()
+}
+
+data class SpacePerson(val id: String, val username: String)
+
 class FeedbackBotAlert {
 
     val spaceClient = SpaceClient()
@@ -60,17 +70,19 @@ class FeedbackBotAlert {
         sendFeedbackMessage(list, Constants.SPACE_CHATID_FEEDBACK_BOT)
     }
 
-    fun sendFeedbackMessage(feedbackList: Set<Pair<String, String>>, channelId: String = Constants.SPACE_CHATID_FEEDBACK_BOT) {
+    fun sendFeedbackMessage(feedbackList: Set<Pair<SpacePerson, SpacePerson>>, channelId: String = Constants.SPACE_CHATID_FEEDBACK_BOT) {
         spaceClient.sendChatMessage(channelId, "## This is your feedback bot")
         feedbackList.forEach {
-            spaceClient.sendChatMessage(channelId, "@${it.first} and @${it.second}, you need to give each other feedback this week")
+            val firstPerson = "@{${it.first.id}, ${it.first.username}}"
+            val secondPerson = "@{${it.second.id}, ${it.second.username}}"
+            spaceClient.sendChatMessage(channelId, "$firstPerson and $secondPerson, you need to give each other feedback this week")
         }
     }
 
-    fun feedbackList(): Set<Pair<String, String>> {
-        val members = spaceClient.getTeamByName(Constants.SPACE_TEAM_DEVELOPER_ADVOCACY)?.memberships
+    fun feedbackList(): Set<Pair<SpacePerson, SpacePerson>> {
+        val advocates = spaceClient.getTeamByName(Constants.SPACE_TEAM_DEVELOPER_ADVOCACY)?.memberships
                 ?: MembershipCollection()
-        return createRandomPairs(members.map { it.member.username })
+        return createRandomPairs(advocates.map { SpacePerson(it.id, it.member.username) })
     }
 
 }
