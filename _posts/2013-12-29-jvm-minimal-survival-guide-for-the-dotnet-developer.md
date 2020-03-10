@@ -212,7 +212,7 @@ I don't do much mocking lately, but I have used one that I found:
 ### IoC Containers
 
 * [Guice](https://code.google.com/p/google-guice/) - From Google. It's the one I'm using. It's pretty decent.
-* [Spring](http://spring.io/) - From Spring Framework. Apparently you can now use it without XML. Not sure. I don't use it.
+* [Spring](http://spring.io/) - From Spring Framework. Apparently you can now use it without XML. Not sure. I don't use it, but you can get a nice overview of Spring in this ["What is Spring Framework?"](https://www.marcobehler.com/guides/spring-framework) article.
 
 ### HTTP Clients
 
