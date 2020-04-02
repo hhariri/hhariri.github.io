@@ -251,9 +251,10 @@ What we could do instead is use folders (i.e. packages) to define different area
 
 <br/>
 
-![Grouping by Folders Project Layout](images/ktor-routing-1.png)
+![Grouping by Folders Project Layout]({{ site.images }}/ktor-routing-1.png)
 
 <br/>
+
 While this certainly does provide the advantage of a nice layout when it comes to routes and the 
 individual actions, it could certainly lead to “package overload”, and potentially having tons of 
 filenames named the same, making navigation somewhat more difficult. On the other hand, as we’ll see 
@@ -265,7 +266,9 @@ If you've ever worked with frameworks such as ASP.NET MVC (or Ruby on Rails), yo
 three folders - Model, View, and Controllers (Routes). 
 
 <br/>
-![Model View Routes](./images/ktor-routing-2.png)
+
+![Model View Routes]({{ site.images }}/ktor-routing-2.png)
+
 <br/>
 
 This isn't far-fetched with the schema we have above which is grouping routes in their own packages/files, our views in the `resources` folder in the case
@@ -278,7 +281,9 @@ functionality? i.e. instead of having the project distributed by `routes`, `mode
 
 <br/>
 
-![Change Address Layout](./images/ktor-routing-3.png)
+![Change Address Layout]({{ site.images }}/ktor-routing-3.png)
+
+<br/>
 
 With many frameworks, this kind of organization of code isn't viable without seriously hacking the underlying conventions. However with Ktor, given
 how flexible it is, in principle it shouldn't be a problem. With one caveat - when we're using a template engine, resources could be an issue. But let's 
