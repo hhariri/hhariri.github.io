@@ -29,6 +29,18 @@ Amazon and Amazon Market Place, a site where everyone could sell anything sudden
 where everything else seems to have come to a halt. The problem of course is when this also comes to a halt, or at a minimum, slows down. And it has - 
 [Prime deliveries taking longer](https://www.vox.com/recode/2020/3/22/21190372/amazon-prime-delivery-delays-april-21-coronavirus-covid-19), non-essential goods are being [deprioritized](https://slate.com/culture/2020/03/amazon-book-delivery-delays-coronavirus.html). 
 
+## The effects of Globalization
+
+It's now clear to many that Globalization does have its drawbacks. Outsourcing certain types of supplies such as medical equipmen to
+other countries, and relying now on the good faith of not only your suppliers, but of other countries [not intervening to bid higher](https://www.theguardian.com/world/2020/apr/03/mask-wars-coronavirus-outbidding-demand) for things you've ordered, has a cost - that of human lives. 
+Of course, you can't blame any single country. Each one is looking out for their own people. But ultimately this is one of the many costs of Globalization. The other ones, such 
+as low income wages, horrendous working conditions, have been rather foreign to many of us in the Western world because they haven't really impacted our lives. 
+
+<br/>
+But Globalization is also present online. Except in this case we don't call it Globalization, we call it Big Tech. Our reliance on a few large companies has become
+so critical that not only has it hindered competition, but it can also stop the livelihood of many businesses at a time when they've had to close their d
+doors and their own potential source of income is online activity. 
+
 ## Don't compete with Big Tech
 
 In the IT industry it's common knowledge that you try not to compete with "Big tech". Any idea you have, make
@@ -43,18 +55,6 @@ or rely on their platforms when it comes to providing any value-added service.
 You have a candle store and also sell online? Why set up everything yourself? Rely on
 Big Tech to take care of it for you. It's much cheaper and more effective. And as a bonus, you don't even have to worry about how to price things. They'll make sure you
 never price it more than they want you to. 
-
-## The effects of Globalization
-
-It's now clear to many that Globalization does have its drawbacks. Outsourcing certain types of supplies such as medical equipmen to
-other countries, and relying now on the good faith of not only your suppliers, but of other countries [not intervening to bid higher](https://www.theguardian.com/world/2020/apr/03/mask-wars-coronavirus-outbidding-demand) for things you've ordered, has a cost - that of human lives. 
-Of course, you can't blame any single country. Each one is looking out for their own people. But ultimately this is one of the many costs of Globalization. The other ones, such 
-as low income wages, horrendous working conditions, have been rather foreign to many of us in the Western world because they haven't really impacted our lives. 
-
-<br/>
-But Globalization is also present online. Except in this case we don't call it Globalization, we call it Big Tech. Our reliance on a few large companies has become
-so critical that not only has it hindered competition, but it can also stop the livelihood of many businesses at a time when they've had to close their d
-doors and their own potential source of income is online activity. 
 
 ## Lessons we'll learn
 
