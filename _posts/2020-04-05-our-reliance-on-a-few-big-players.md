@@ -35,14 +35,10 @@ In the IT industry it's common knowledge that you try not to compete with "Big t
 sure you're not going to compete with the big ones, cause they have infinite money, more resources, better infrastructure, 
 and if push comes to shove, pretty sure they can offer whatever it is for free, or cheaper than you can. 
 
-
-
-<br/>
 <br/>
 Of course this not only hinders competition, but also innovation. The reality is that this is not limited to IT. Many types of businesses are affected by a few big players. They either decide to not compete
 or rely on their platforms when it comes to providing any value-added service. 
 
-<br/>
 <br/>
 You have a candle store and also sell online? Why set up everything yourself? Rely on
 Big Tech to take care of it for you. It's much cheaper and more effective. And as a bonus, you don't even have to worry about how to price things. They'll make sure you
@@ -69,7 +65,6 @@ A phrase repeated so often nowadays. A sentence that plays tricks on your mind, 
 is what lessons will we learn. 
 
 <br/>
-<br/>
 
 * Will our leaders understand that we need to invest more in public health care?
 * Will they reconsider outsourcing critical products and services? 
@@ -79,13 +74,10 @@ is what lessons will we learn.
 <br/>
 And us, in the IT industry, the ones that can help others take advantage of technology, what will we learn?
 
-
-<br/>
 <br/>
 Now of course, these are exceptional times, and even if we were to diversify, it wouldn't guarantee that things would be significantly better. But at the
 same time, we all know that all eggs in a single basket (or should I say cart) isn't a great strategy. 
 
-<br/>
 <br/>
 Ultimately thought, it's not the inaction that we've taken or the mistakes that we've made that we should be focusing on when this is over, but the lessons that we can
 learn from them moving forward. 
