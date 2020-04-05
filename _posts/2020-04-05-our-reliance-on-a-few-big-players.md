@@ -8,7 +8,7 @@ comments: true
 ---
 
 
-...the world shut down
+And the world shut down.
 
 
 > As long as I can still order things on Amazon...
