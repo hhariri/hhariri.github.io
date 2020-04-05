@@ -31,7 +31,7 @@ where everything else seems to have come to a halt. The problem of course is whe
 
 ## The effects of Globalization
 
-It's now clear to many that Globalization does have its drawbacks. Outsourcing certain types of supplies such as medical equipmen to
+It's now clear to many that Globalization does have its drawbacks. Outsourcing certain types of supplies such as medical equipment to
 other countries, and relying now on the good faith of not only your suppliers, but of other countries [not intervening to bid higher](https://www.theguardian.com/world/2020/apr/03/mask-wars-coronavirus-outbidding-demand) for things you've ordered, has a cost - that of human lives. 
 Of course, you can't blame any single country. Each one is looking out for their own people. But ultimately this is one of the many costs of Globalization. The other ones, such 
 as low income wages, horrendous working conditions, have been rather foreign to many of us in the Western world because they haven't really impacted our lives. 
