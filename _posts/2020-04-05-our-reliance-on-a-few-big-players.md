@@ -27,7 +27,7 @@ their blinds down, the only place we had left to order our non-essentials (and o
 <br/>
 Amazon and Amazon Market Place, a site where everyone could sell anything suddenly has become the key provider in a world
 where everything else seems to have come to a halt. The problem of course is when this also comes to a halt, or at a minimum, slows down. And it has - 
-Prime can no longer guarantee same-day delivery, non-essential goods are being deprioritized. 
+[Prime deliveries taking longer](https://www.vox.com/recode/2020/3/22/21190372/amazon-prime-delivery-delays-april-21-coronavirus-covid-19), non-essential goods are being [deprioritized](https://slate.com/culture/2020/03/amazon-book-delivery-delays-coronavirus.html). 
 
 ## Don't compete with Big Tech
 
