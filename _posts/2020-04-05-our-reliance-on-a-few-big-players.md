@@ -31,7 +31,6 @@ where everything else seems to have come to a halt. The problem of course is whe
 
 ## Don't compete with Big Tech
 
-<br/>
 In the IT industry it's common knowledge that you try not to compete with "Big tech". Any idea you have, make
 sure you're not going to compete with the big ones, cause they have infinite money, more resources, better infrastructure, 
 and if push comes to shove, pretty sure they can offer whatever it is for free, or cheaper than you can. 
@@ -62,7 +61,6 @@ so critical that not only has it hindered competition, but it can also stop the 
 doors and their own potential source of income is online activity. 
 
 ## Lessons we'll learn
-
 
 > It's going to get worse before it gets better
 
