@@ -79,5 +79,5 @@ is what lessons will we learn.
 And us, in the IT industry, the ones that can help others take advantage of technology, what will we learn?
 
 <br/>
-Ultimately thought, it's not the inaction that we've taken or the mistakes that we've made that we should be focusing on when this is over, but the lessons that we can
+It is not the inaction that we've taken or the mistakes that we've made that we should be focusing on when this is over, but the lessons that we can
 learn from them moving forward. 
