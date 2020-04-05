@@ -56,6 +56,10 @@ You have a candle store and also sell online? Why set up everything yourself? Re
 Big Tech to take care of it for you. It's much cheaper and more effective. And as a bonus, you don't even have to worry about how to price things. They'll make sure you
 never price it more than they want you to. 
 
+<br/>
+Now of course, these are exceptional times, and even if we were to diversify, it wouldn't guarantee that things would be significantly better. But at the
+same time, we all know that all eggs in a single basket (or should I say cart) isn't a great strategy. 
+
 ## Lessons we'll learn
 
 > It's going to get worse before it gets better
@@ -73,10 +77,6 @@ is what lessons will we learn.
 
 <br/>
 And us, in the IT industry, the ones that can help others take advantage of technology, what will we learn?
-
-<br/>
-Now of course, these are exceptional times, and even if we were to diversify, it wouldn't guarantee that things would be significantly better. But at the
-same time, we all know that all eggs in a single basket (or should I say cart) isn't a great strategy. 
 
 <br/>
 Ultimately thought, it's not the inaction that we've taken or the mistakes that we've made that we should be focusing on when this is over, but the lessons that we can
