@@ -40,7 +40,7 @@ and if push comes to shove, pretty sure they can offer whatever it is for free, 
 
 <br/>
 <br/>
-Of course this not only hinders competition, but also innovation. The reality of course is that this is not limited to IT. Many types of businesses are affected by a few big players. They either decide to not compete
+Of course this not only hinders competition, but also innovation. The reality is that this is not limited to IT. Many types of businesses are affected by a few big players. They either decide to not compete
 or rely on their platforms when it comes to providing any value-added service. 
 
 <br/>
@@ -81,7 +81,13 @@ is what lessons will we learn.
 <br/>
 And us, in the IT industry, the ones that can help others take advantage of technology, what will we learn?
 
+
 <br/>
 <br/>
-It's not the inaction that we've taken or the mistakes that we've made that we should be focusing on when this is over, but the lessons that we can
+Now of course, these are exceptional times, and even if we were to diversify, it wouldn't guarantee that things would be significantly better. But at the
+same time, we all know that all eggs in a single basket (or should I say cart) isn't a great strategy. 
+
+<br/>
+<br/>
+Ultimately thought, it's not the inaction that we've taken or the mistakes that we've made that we should be focusing on when this is over, but the lessons that we can
 learn from them moving forward. 
