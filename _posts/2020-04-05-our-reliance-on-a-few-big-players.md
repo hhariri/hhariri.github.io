@@ -38,7 +38,7 @@ as low income wages, horrendous working conditions, have been rather foreign to 
 
 <br/>
 But Globalization is also present online. Except in this case we don't call it Globalization, we call it Big Tech. Our reliance on a few large companies has become
-so critical that not only has it hindered competition, but it can also stop the livelihood of many businesses at a time when they've had to close their d
+so critical that not only has it hindered competition, but it can also stop the livelihood of many businesses at a time when they've had to close their 
 doors and their own potential source of income is online activity. 
 
 ## Don't compete with Big Tech
