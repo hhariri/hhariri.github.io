@@ -69,6 +69,8 @@ If like me however, you’re mostly new to managing AWS, not only can it be extr
 
 **Step 1 - [Create an AWS account](https://portal.aws.amazon.com/billing/signup?nc2=h_ct&src=default&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start)**. 
 
+<br/>
+
 You need to provide credit card details, but stick to the free tier and you should be fine. In addition, make sure you set up some alerts in case you suddenly go beyond what free provides. For these demos though you most certainly won’t hit anything beyond free! 
 
 While you may want to download [AWS CLI](https://aws.amazon.com/cli/) for certain management aspects, note that Kotless doesn’t need it. 
@@ -76,6 +78,8 @@ While you may want to download [AWS CLI](https://aws.amazon.com/cli/) for certai
 <br/>
 
 **Step 2 - Create IAM credentials**
+
+<br/>
 
 This is required by Kotless (Terraform actually) to deploy your functions. To do this, go to the [AWS Management Console](https://aws.amazon.com/console/) (make sure you’re logged in) and search for IAM 
 
@@ -142,6 +146,8 @@ Once done, you’ll be prompted with the user along with two values: **Access ke
 
 
 **Step 3 - Create an S3 bucket**
+
+<br/>
 
 Go back to the AWS Management Console and search for S3. 
 
