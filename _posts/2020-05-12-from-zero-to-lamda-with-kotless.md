@@ -9,11 +9,19 @@ comments: true
 
 I know, the title is cringeworthy. In fact the only thing worse is using a subtitle 
 
+<br/>
+
 *"with only one line of code"*
+
+<br/>
 
 But allow me to indulge somewhat, because it really is accurate if one were to consider my knowledge of AWS Lambdas, Terraform, and AWS in general as somewhat zero. I mean sure, I know what they are, but I’ve not really played with them that much in the past. 
 
+<br/>
+
 Today, I managed to create a new AWS account, set up my credentials, write a function in Kotlin and deploy it to AWS without even having to open up a single Terraform file. And all with [Kotless](https://site.kotless.io). 
+
+<br/>
 
 In this post I’m going to walk you through the process. Using Kotless and deploying is in fact the smallest part of the entire thing. Most of this post is about setting up an AWS account and credentials, as well as my very superficial explanation of serverless. If you know all that, just skip right ahead to **Writing our function**. 
 
@@ -26,17 +34,23 @@ I’m pretty sure [Wikipedia](https://en.wikipedia.org/wiki/Serverless_computing
 fun sayHello() = "Say Hello!"
 ```
 
-which would respond to an endpoint /hello. 
+which would respond to an endpoint **/hello**. 
+
+<br/>
 
 Different technologies allow you to do that, including AWS Lambdas, Google Cloud Functions, as well as Azure Functions. And with the majority of them you can use their web control panel to write some function and deploy it. But we all know that in real-world applications, you’re not using GUIs to write and deploy apps! 
 
-## Terraform Galore
+
+### Terraform Galore
 
 So what do you do in the real world? You write [Terraform files](https://www.terraform.io/docs/providers/aws/r/lambda_function.html) to deploy your functions. And you don’t just write one, you write a lot! And the more functions, the more you need. The more resources you use (databases, files, etc.), the more complex these become. 
 
+<br/>
+
 But what’s more, if you look through most of these configurations, they’re somewhat defining things that could be deduced from the actual code. And that’s where Kotless comes in.
 
-## What is Kotless?
+
+## Welcome toKotless
 
 Kotless is based on the idea that the code you write is already defining the infrastructure it needs (infrastructure as code) and thus uses this concept to deduce the necessary configuration files, write them out, and deploy it all for you. The only thing you have to do is write Kotlin code.
 
@@ -51,11 +65,15 @@ and you can skip the rest of this section and go directly to Writing our functio
 
 If like me however, you’re mostly new to managing AWS, not only can it be extremely overwhelming, but the help is also overwhelming too. In this section I’ll briefly walk you through what you need to get the above set up. 
 
+<br/>
+
 **Step 1 - [Create an AWS account](https://portal.aws.amazon.com/billing/signup?nc2=h_ct&src=default&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start)**. 
 
 You need to provide credit card details, but stick to the free tier and you should be fine. In addition, make sure you set up some alerts in case you suddenly go beyond what free provides. For these demos though you most certainly won’t hit anything beyond free! 
 
 While you may want to download [AWS CLI](https://aws.amazon.com/cli/) for certain management aspects, note that Kotless doesn’t need it. 
+
+<br/>
 
 **Step 2 - Create IAM credentials**
 
@@ -94,6 +112,8 @@ This takes you through a series of steps to provide information for the new user
 <br/>
 
 Make sure **Programmatic access** is ticked. 
+
+<br/>
 
 In the next step we’re going to define permissions. Obviously this needs to be fine-tuned based on what's needed. For now we’re going to give full Admin
 
@@ -143,20 +163,35 @@ Click on **Create bucket** providing a name and region. Again, keep track of the
 
 Leave all other options as default. 
 
+<br/>
 
 **Step 4 - Store the credentials locally**
 
+<br/>
+
 Kotless is going to need access to the credentials created, and we need to somehow provide these. These are stored in the user directory (on macOS/Linux this would be ~/.aws and on Windows in the home directory). 
+
+<br/>
 
 Create a file name **~/.aws/credentials** and type in the following contents
 
+<br/>
+
+```
 [profile my.kotless.user]
 aws_access_key_id={the_access_key_id}
 aws_secret_access_key={the_secret_access_key}
+```
+
+<br/>
 
 Notice how the profile name matches the name of the IAM credential we created earlier. 
 
+<br/>
+
 And that’s it. We’re now ready to write our function and deploy with Kotless. 
+
+<br/>
 
 **Important** - When you set up your AWS account, the system itself asks you to follow a series of good practices, such as removing root access, setting up MFA, defining groups with restricted permissions, etc. It’s important to go back and do this at some point. I’m avoiding it in here cause I know HOW EXCITED YOU ARE TO SEE THIS WORK! So let’s move on. 
 
@@ -258,6 +293,8 @@ Notice how we’re using the previously defined values, namely **my.kotless.buck
 
 That’s all that’s needed. Now we can simply run the Gradle **deploy** task and watch as magic happens! 
 
+<br/>
+
 If all goes well, the process should end with build output providing you the root URL where you can access the function
 
 <br/>
@@ -287,11 +324,17 @@ By the way, if you’re interested in seeing the generated Terraform files, chec
 
 ## But wait, there’s more
 
-Kotless not only supports simple functions but also [Ktor](https://ktor.io) server-side applications, meaning you could now deploy your Ktor apps as lambdas. When it comes to AWS resources, there’s support for DynamicDB, static resources, and more. And in cases where you still need extra customization , you can write [Terraform extensions]( (https://site.kotless.io/plugin/extensions). 
+Kotless not only supports simple functions but also [Ktor](https://ktor.io) server-side applications, meaning you could now deploy your Ktor apps as lambdas. When it comes to AWS resources, there’s support for DynamicDB, static resources, and more. And in cases where you still need extra customization , you can write [Terraform extensions](https://site.kotless.io/plugin/extensions). 
+
+<br/>
 
 Currently it only supports AWS but the actual code already provides a layer of abstraction making it possible to add support for Google Cloud and Azure. Imagine being able to take advantage of serverless technology without having vendor lock-in (to a certain extent at least). And to do all this without needing to write massive amounts of Terraform configuration files. This is where Kotless is providing value! 
 
+<br/>
+
 The project itself is OSS and available on [GitHub](https://github.com/JetBrains/kotless), and gladly accepts contributions.   
+
+<br/>
 
 Before wrapping up, I wanted to thank my colleague [Vladislav Tankov](https://github.com/tanvd), for not only creating this awesome framework, but also for his help and reviews. 
 
