@@ -50,7 +50,7 @@ So what do you do in the real world? You write [Terraform files](https://www.ter
 But what’s more, if you look through most of these configurations, they’re somewhat defining things that could be deduced from the actual code. And that’s where Kotless comes in.
 
 
-## Welcome toKotless
+## Welcome to Kotless
 
 Kotless is based on the idea that the code you write is already defining the infrastructure it needs (infrastructure as code) and thus uses this concept to deduce the necessary configuration files, write them out, and deploy it all for you. The only thing you have to do is write Kotlin code.
 
