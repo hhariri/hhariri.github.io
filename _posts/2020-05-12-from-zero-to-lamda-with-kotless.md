@@ -330,7 +330,7 @@ By the way, if you’re interested in seeing the generated Terraform files, chec
 
 ## But wait, there’s more
 
-Kotless not only supports simple functions but also [Ktor](https://ktor.io) server-side applications, meaning you could now deploy your Ktor apps as lambdas. When it comes to AWS resources, there’s support for DynamicDB, static resources, and more. And in cases where you still need extra customization , you can write [Terraform extensions](https://site.kotless.io/plugin/extensions). 
+Kotless not only supports simple functions but also [Ktor](https://ktor.io) server-side applications, meaning you could now deploy your Ktor apps as lambdas. When it comes to AWS resources, there’s support for DynamoDB, static resources, and more. And in cases where you still need extra customization , you can write [Terraform extensions](https://site.kotless.io/plugin/extensions). 
 
 <br/>
 
