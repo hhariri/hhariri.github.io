@@ -169,6 +169,7 @@ You could say you get used to it. I'm sure I would, but why should I? Why should
 take pride as developers in automating things. We go and brag at conferences about how "With a single click I can deploy my system to my customers". And yet
 when it comes to version control - it's OK to remember manual steps. Not only remember them, but take pride in the ceremony.
 <br/>
+<br/>
 
 *"But DVCS is complex"*
 <br/>
