@@ -104,7 +104,7 @@ tweet
 <br/>
 <br/>
 
-I'm sure it is, but why would I need to understand how a tool works under the cover to be able to use it effectively? Do you understand
+I'm sure it is, but why would I need to understand how a tool works under the covers to be able to use it effectively? Do you understand
 how IntelliJ IDEA parses an abstract syntax tree or what the PSI is, when you want to perform a refactoring?
 
 ### Git is better than what we had
