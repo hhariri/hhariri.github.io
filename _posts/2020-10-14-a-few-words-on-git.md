@@ -76,7 +76,7 @@ Great. Well, consider me average. Now allow me to complain.
 <br/>
 <br/>
 
-That a tool is complex isn't something that should be seen as meritable. What's meritable is making that difficult simple. More on that later.
+That a tool is complex isn't something that should be seen as meritable. What's meritable is making the difficult simple. More on that later.
 
 ### If you don't like CLI, use a GUI
 
