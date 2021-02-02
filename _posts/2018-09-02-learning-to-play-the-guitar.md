@@ -185,6 +185,7 @@ I'm going to start with the bad first because it's actually not entirely bad and
 <br/>
 *Verdict*. Most definitely recommend. However I also encourage you to buy the app, songbook and even theory. Not only do they provide a lot of value, it helps support Justin's efforts. 
 
+<br/>
 **Update Tuesday 2nd of Feb**
 Ben from Strummingly reached out to me recently about the site he'd put together, which has quite a good number of articles about [guitar lessons](https://strummingly.com/best-free-guitar-lessons/), as well as other resources. Worth checking out.
 
