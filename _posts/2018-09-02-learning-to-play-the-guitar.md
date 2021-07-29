@@ -189,6 +189,11 @@ I'm going to start with the bad first because it's actually not entirely bad and
 **Update Tuesday 2nd of Feb**
 Ben from Strummingly reached out to me recently about the site he'd put together, which has quite a good number of articles about [guitar lessons](https://strummingly.com/best-free-guitar-lessons/), as well as other resources. Worth checking out.
 
+
+<br/>
+**Update Thursday 29th July 2021**
+Bella from Musicaroo reached out to me regarding some content they have on [their site](https://musicaroo.com/learning-how-to-play-the-guitar/). Having reviewed it, it does contain some good information, and thus worth linking to.
+
 ### Summary
  
 I'm far from even considering myself a beginner but I have found a few important things that are helping me, independently of the service/app you may end up using.
