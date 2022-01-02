@@ -6,8 +6,7 @@ status: published
 type: post
 published: true
 comments: true
-image: 
-    thumb: adc-6.png
+image: adc-6.png
 ---
 
 A sample post
