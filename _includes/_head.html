@@ -18,14 +18,8 @@
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:image" content=
 			{% if page.image.thumb %}
-				{% if page.image.thumb contains 'http://' %}
-						"{{ page.image.thumb }}"
-				{% elsif page.image.thumb contains 'https://' %}
-					"{{ page.image.thumb }}"
-				{% else %}
 						"{{ site.baseurl }}/images/{{ page.image.thumb }}"
-				{% endif %}
-			{% else %}
+            {% else %}
 				{% if site.logo contains 'http://' %}
 						"{{ site.logo }}"
 				{% elsif site.logo contains 'https://' %}

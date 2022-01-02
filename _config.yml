@@ -5,7 +5,7 @@ baseurl:
 url:              https://hadihariri.com
 disqus_shortname: hadihariri
 
-images:           http://hadihariri.com/images
+images:           https://hadihariri.com/images
 # Owner/author information
 owner:
   name:           Hadi Hariri
