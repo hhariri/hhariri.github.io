@@ -186,8 +186,13 @@ I'm going to start with the bad first because it's actually not entirely bad and
 *Verdict*. Most definitely recommend. However I also encourage you to buy the app, songbook and even theory. Not only do they provide a lot of value, it helps support Justin's efforts. 
 
 <br/>
-**Update Tuesday 2nd of Feb**
+**Update Tuesday 2nd February 2021**
 Ben from Strummingly reached out to me recently about the site he'd put together, which has quite a good number of articles about [guitar lessons](https://strummingly.com/best-free-guitar-lessons/), as well as other resources. Worth checking out.
+
+
+<br/>
+**Update Thursday 29th July 2021**
+Bella from Musicaroo reached out to me regarding some content they have on [their site](https://musicaroo.com/learning-how-to-play-the-guitar/). Having reviewed it, it does contain some good information, and thus worth linking to.
 
 ### Summary
  
