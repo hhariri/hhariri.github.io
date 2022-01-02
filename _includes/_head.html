@@ -17,8 +17,8 @@
 	{% else %}
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:image" content=
-			{% if page.image.thumb %}
-						"{{ site.baseurl }}/images/{{ page.image.thumb }}"
+			{% if page.image %}
+						"{{ site.baseurl }}/images/{{ page.image }}"
             {% else %}
 				{% if site.logo contains 'http://' %}
 						"{{ site.logo }}"
