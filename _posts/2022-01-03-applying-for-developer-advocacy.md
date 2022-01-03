@@ -27,7 +27,7 @@ were justified for other reasons.
 
 We want folks that join JetBrains to believe in what we're doing, and enjoy using our products. If you don't, then you probably
 won't be happy at your job. If you use our products, make sure you point it out.
-You don't need to be an expert in our products, but believing in them and wanting to help improve them is important. We are strongly
+You don't need to be an expert, but believing in them and wanting to help improve them is important. We are strongly
 against hiring shills. 
 
 ## Communication Skills
