@@ -42,13 +42,12 @@ As a Developer Advocate, having a community presence is important. Provide infor
 it's speaking, organising events, social media accounts, GitHub or other repository accounts.
 
 <br/>
-Note however that while community presence is important, it's not critical. 
-When I joined JetBrains, I had somewhat of a presence in the .NET community (I'd spent many years in the Delphi community). I gradually worked on this. I then moved
-to Kotlin (after a brief stint with JavaScript) and built up my name in the Java community. Building your name is something that will be part of your job.
+Note however that while community presence is important, it's not critical. You don't have to be a micro-celebrity in your community to get a job as a Developer Advocate at JetBrains. We're not particularly looking for big names. We're looking
+for people that are aligned with the role and enjoy doing what they do. 
 
 <br/>
-You don't have to be a micro-celebrity in your community to get a job as a Developer Advocate at JetBrains. We're not particularly looking for big names. We're looking
-for people that are aligned with the role and enjoy doing what they do. 
+When I joined JetBrains, I had somewhat of a presence in the .NET community (I'd spent many years in the Delphi community). I gradually worked on this. I then moved
+to Kotlin (after a brief stint with JavaScript) and built up my name in the Java community. Building your name is something that will be part of your job.
 
 ## Teaching Skills
 
