@@ -43,7 +43,7 @@ it's speaking, organising events, social media accounts, GitHub or other reposit
 
 <br/>
 Note however that while community presence is important, it's not critical. 
-When I joined JetBrains, I had somewhat of a presence in the .NET community (I came from Delphi and had a larger presence there). I gradually worked on this. I then moved
+When I joined JetBrains, I had somewhat of a presence in the .NET community (I'd spent many years in the Delphi community). I gradually worked on this. I then moved
 to Kotlin (after a brief stint with JavaScript) and built up my name in the Java community. Building your name is something that will be part of your job.
 
 <br/>
