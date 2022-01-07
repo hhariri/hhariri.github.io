@@ -26,6 +26,12 @@ that sprout new ideas in your head. When you're a full time advocate, this no lo
 That's when you risk becoming a pundit, and consequently damaging your brand. This is why it's critical that you continue to do "stuff", not just talk about it. Whether it's internal projects, whether it's
 working on OSS, or helping customers with issues, having hands-on experience is key to keeping your brand credible.
 
+### Work on your brand internally
+
+As an advocate, our primary goals (at least at JetBrains) are to educate folks and provide feedback to product teams to improve our products. As important as it is to
+work on your brand externally, it's also important to do so internally. Make sure that your colleagues understand the work you're doing, communicate with them, bring them digests of
+what you say in the community, help them improve the product by showcasing workflows or things they may not be aware of. Build your reputation just as you would with the community.
+
 ### Have integrity
 
 If you think a competitor's product is better than yours, say it. Don't deny it. If you feel something in your product isn't right, accept it. Take the feedback and
@@ -35,13 +41,6 @@ help improve it.
 <br/>
 If your company is doing something you don't agree with and feel it's wrong, don't look the other way when someone asks you about it.
 I realise that it's not always easy to speak your mind, but at the end of the day, we all have to make our choices as to where we draw the line of what is or is not defensible.
-
-### Work on your brand internally
-
-As an advocate, our primary goals (at least at JetBrains) are to educate folks and provide feedback to product teams to improve our products. As important as it is to
-work on your brand externally, it's also important to do so internally. Make sure that your colleagues understand the work you're doing, communicate with them, bring them digests of
-what you say in the community, help them improve the product by showcasing workflows or things they may not be aware of. Build your reputation just as you would with the community.
-
 
 ### Be yourself
 
