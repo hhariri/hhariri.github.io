@@ -189,6 +189,7 @@ think there are other must-haves, please, send me a [pull request](http://github
 ### JSON Serialization
 
 * [Jackson](http://jackson.codehaus.org/) - It's the one I use. It works well.
+* [kotlinx-serialization](https://github.com/Kotlin/kotlinx.serialization) - New project using a Kotlin compiler plugin and fast becoming a standard with Kotlin projects, including multi-platform support.
 
 ### Unit Testing
 
