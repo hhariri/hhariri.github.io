@@ -171,7 +171,7 @@ Like NuGet, you can also host your own Maven repository. [Artifactory](http://ww
 
 ### Gradle
 
-Gradle is a better Maven. It's based on Groovy so you get rid of the horrible XML and offers apparently a better way of managing dependencies.
+Gradle is a better Maven. Similar to Maven, it uses conventions to accomplish the usual stuff with minimal configuration, but unlike Maven, supports both Groovy and Kotlin as domain-specific languages so you get rid of the horrible XML. It also had additional features around managing dependencies.
 
 I'm currently trying to use Gradle more.
 
