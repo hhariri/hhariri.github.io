@@ -16,8 +16,8 @@ I have a series of online courses available on different training platforms
 
 Over 8 hours of contents on Kotlin. From the very basics to advanced topics such as coroutines. The courses are available either for direct purchase or via Safari Online
  
-* [Introduction to Kotlin]([http://shop.oreilly.com/product/0636920052982.do](https://www.oreilly.com/library/view/introduction-to-kotlin/9781491964125/)
-* [Advanced Kotlin]([http://shop.oreilly.com/product/0636920052999.do](https://www.oreilly.com/library/view/advanced-kotlin-programming/9781491964149/)
+* [Introduction to Kotlin](https://www.oreilly.com/library/view/introduction-to-kotlin/9781491964125/)
+* [Advanced Kotlin](https://www.oreilly.com/library/view/advanced-kotlin-programming/9781491964149/)
  
 ### HTTP/2 Course on Pluralsight
 
