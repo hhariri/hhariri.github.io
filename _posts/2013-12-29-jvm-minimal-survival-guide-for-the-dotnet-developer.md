@@ -236,7 +236,7 @@ A very modern and lightweight option for web development is [Vert.x](http://vert
 
 ### Other Libraries and Utilities
 
-* [JodaTime](http://www.joda.org/joda-time/) - Date and Time management in Java are horrendously broken. Worse than in .NET. Use JodaTime for sanity. This is where [NodaTime](https://code.google.com/p/noda-time/) from Jon Skeet originates.
+* [JodaTime](http://www.joda.org/joda-time/) - Date and Time management in Java prior to 1.8 are horrendously broken. Worse than in .NET. Use JodaTime for sanity. This is where [NodaTime](https://code.google.com/p/noda-time/) from Jon Skeet originates. Note that Java versions > 1.8 contain the [java.time](https://docs.oracle.com/javase/8/docs/api/java/time/package-summary.html#package.description) package in the standard library which fixes these issues, making JodaTime obsolete. You'll often see this referred to as [JSR-310](https://jcp.org/en/jsr/detail?id=310) (referencing the spec request that originated it).
 * [Reflections](https://code.google.com/p/reflections/) - Making Reflection nicer.
 * [Apache Commons](http://commons.apache.org/) - A bunch of small libraries for everyday use.
 
