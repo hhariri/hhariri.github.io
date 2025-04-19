@@ -9,7 +9,5 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-Developer and creator of many things [OSS](http://hadihariri.com/projects), he has been programming in one way, shape or form since the age of 12. Author of various publications and courses, Hadi has been speaking at industry events for nearly two decades. 
-Host to [Talking Kotlin](http://talkingkotlin.com), he works at [JetBrains](http://www.jetbrains.com) leading the Developer Advocacy team, and spends as much time as he can writing code.
-
+Hadi Hariri has been in the software industry for over 30 years and has worked as both consultant and in product development, working with a variety of technologies. Hadi has been presenting at industry events for over two decades, having given talks in front of audiences of over 10K people, and having been recognised as top speaker of many events over the years. He's also a podcaster, book author, and President of the Kotlin Foundation. For the past 15+ years he has been working at JetBrains, starting out as a Developer Advocate and eventually transition to his current role where he currently serves as VP of Program Management.
 
